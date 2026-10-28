@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Oslo city tour</title>
+  <desc id="description">An ordered map of 1 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M 2923.0 -2271.7 L 2728.9 -2141.8 L 2636.7 -2112.3 L 2685.1 -2340.1 L 2538.7 -2472.5 L 2361.5 -2359.5 L 2305.6 -2121.1 L 2196.8 -1981.0 L 2074.3 -2057.2 L 1925.4 -2041.5 L 1798.6 -2210.6 L 1730.2 -2125.6 L 1659.4 -2112.5 L 1642.7 -1905.5 L 1427.7 -1955.3 L 1397.5 -1783.6 L 1287.9 -1784.6 L 1212.6 -1571.1 L 1098.5 -1250.6 L 921.3 -863.6 L 962.9 -772.7 L 923.2 -668.7 L 810.0 -673.1 L 735.9 -432.5 L 743.0 -104.7 L 815.9 16.6 L 778.1 290.8 L 683.2 446.2 L 632.9 574.3 L 556.4 437.8 L 331.1 693.2 L 179.0 743.9 L 21.2 633.2 L -19.6 394.2 L -55.6 -146.0 L 49.4 -303.9 L 350.7 -515.1 L 575.9 -783.5 L 784.7 -1162.4 L 1058.9 -1722.9 L 1249.9 -1954.0 L 1563.5 -2356.9 L 1813.8 -2503.2 L 2001.5 -2485.3 L 2175.2 -2770.1 L 2383.3 -2754.6 L 2588.1 -2824.7 L 2944.9 -2570.6 L 2798.0 -2479.9 L 2923.0 -2271.7 Z"/><path d="M 632.9 574.3 L 683.2 446.2 L 778.1 290.8 L 815.9 16.6 L 743.0 -104.7 L 735.9 -432.5 L 810.0 -673.1 L 923.2 -668.7 L 962.9 -772.7 L 921.3 -863.6 L 1098.5 -1250.6 L 1212.6 -1571.1 L 1287.9 -1784.6 L 1397.5 -1783.6 L 1427.7 -1955.3 L 1642.7 -1905.5 L 1659.4 -2112.5 L 1730.2 -2125.6 L 1882.3 -1970.8 L 2060.3 -1760.9 L 2063.4 -1308.0 L 2101.9 -1198.0 L 1905.6 -1119.0 L 1795.0 -927.9 L 1812.8 -764.3 L 1631.3 -555.0 L 1411.0 -337.5 L 1327.9 5.3 L 1409.1 171.1 L 1518.2 299.0 L 1413.5 552.8 L 1294.8 604.4 L 1251.3 964.6 L 1186.5 1158.7 L 1048.1 1138.9 L 983.5 1299.9 L 851.4 1309.1 L 815.2 1117.1 L 719.7 880.2 L 632.9 574.3 Z"/></g>
+  <g class="countries"><text x="600.0" y="395.5">NORWAY</text></g>
+  <polyline class="route-underlay" points="600.0,337.5"/>
+  <polyline class="route" points="600.0,337.5"/>
+  <g class="stop"><text class="place" x="614.0" y="323.5" text-anchor="start">Oslo</text><circle cx="600.0" cy="337.5" r="13"/><text class="number" x="600.0" y="341.7">1</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>

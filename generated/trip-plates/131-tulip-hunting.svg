@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Tulip hunting</title>
+  <desc id="description">An ordered map of 1 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M 1555.2 137.7 L 1581.9 235.3 L 1550.1 286.0 L 1591.5 353.3 L 1619.7 453.2 L 1610.8 517.0 L 1657.6 633.8 L 1606.7 652.7 L 1576.6 631.9 L 1548.0 666.4 L 1466.1 701.4 L 1423.7 746.2 L 1340.8 785.1 L 1360.8 838.0 L 1372.9 912.5 L 1431.1 954.6 L 1495.5 1029.5 L 1455.3 1109.1 L 1414.3 1130.9 L 1430.4 1242.0 L 1419.8 1270.7 L 1384.2 1236.1 L 1329.5 1230.9 L 1248.0 1261.2 L 1147.4 1254.0 L 1131.1 1298.5 L 1073.4 1251.7 L 1039.0 1261.0 L 916.7 1209.2 L 893.3 1246.0 L 796.2 1244.8 L 810.7 1123.4 L 868.4 1005.1 L 704.0 973.0 L 650.2 927.2 L 656.6 849.9 L 633.8 809.8 L 646.8 688.7 L 627.6 497.3 L 696.1 497.3 L 725.1 427.4 L 753.5 255.1 L 732.2 190.6 L 754.4 149.9 L 849.8 139.4 L 871.0 181.8 L 948.4 86.6 L 922.3 13.5 L 917.1 -98.4 L 1003.3 -72.2 L 1076.3 -102.4 L 1078.3 -26.0 L 1193.6 19.8 L 1192.4 89.0 L 1308.4 52.4 L 1372.6 -1.2 L 1501.4 76.0 L 1555.2 137.7 Z"/><path d="M 646.8 688.7 L 633.8 809.8 L 604.1 816.5 L 591.7 915.6 L 491.9 835.1 L 433.4 848.9 L 353.8 765.0 L 300.7 692.9 L 247.7 689.9 L 231.2 626.2 L 322.6 590.2 L 322.6 590.2 L 322.6 590.2 L 406.1 604.6 L 511.9 566.6 L 584.1 646.4 L 646.8 688.7 Z"/><path d="M 732.2 190.6 L 753.5 255.1 L 725.1 427.4 L 696.1 497.3 L 627.6 497.3 L 646.8 688.7 L 584.1 646.4 L 511.9 566.6 L 406.1 604.6 L 322.6 590.2 L 322.6 590.2 L 381.4 539.9 L 481.3 265.1 L 637.4 185.1 L 732.2 190.6 Z"/><path d="M -408.6 205.4 L -408.4 205.4 L -391.6 93.6 L -468.0 -26.8 L -469.7 -29.6 L -608.2 -64.3 L -635.4 -118.1 L -594.0 -207.6 L -631.5 -263.3 L -692.9 -167.9 L -699.6 -363.5 L -757.2 -469.0 L -715.8 -687.4 L -627.2 -863.1 L -536.1 -845.8 L -398.4 -864.2 L -520.4 -630.7 L -404.1 -659.8 L -279.1 -658.7 L -308.9 -486.8 L -411.4 -301.9 L -293.5 -288.9 L -284.4 -267.5 L -182.8 -31.6 L -104.7 0.0 L -34.5 220.6 L -2.0 295.7 L 136.2 331.7 L 122.4 451.3 L 64.3 505.6 L 109.8 600.5 L 7.2 695.5 L -145.4 693.9 L -339.7 743.3 L -392.9 707.9 L -468.3 791.9 L -573.8 771.6 L -654.0 839.6 L -714.6 804.1 L -547.3 615.0 L -445.2 575.6 L -446.1 575.4 L -624.2 544.9 L -656.5 471.5 L -537.3 413.9 L -599.8 312.7 L -578.1 188.1 L -408.6 205.4 Z"/></g>
+  <g class="countries"><text x="584.6" y="391.3">NETHERLANDS</text></g>
+  <polyline class="route-underlay" points="600.0,337.5"/>
+  <polyline class="route" points="600.0,337.5"/>
+  <g class="stop"><text class="place" x="614.0" y="323.5" text-anchor="start">Emmeloord</text><circle cx="600.0" cy="337.5" r="13"/><text class="number" x="600.0" y="341.7">1</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Part in Texel</title>
+  <desc id="description">An ordered map of 1 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M 1660.8 209.7 L 1687.4 307.3 L 1655.6 358.0 L 1697.1 425.3 L 1725.3 525.2 L 1716.4 589.0 L 1763.2 705.8 L 1712.3 724.7 L 1682.2 703.9 L 1653.6 738.4 L 1571.6 773.4 L 1529.3 818.2 L 1446.4 857.1 L 1466.3 910.0 L 1478.4 984.5 L 1536.6 1026.6 L 1601.0 1101.5 L 1560.8 1181.1 L 1519.8 1202.9 L 1536.0 1313.9 L 1525.4 1342.7 L 1489.8 1308.0 L 1435.1 1302.8 L 1353.5 1333.2 L 1252.9 1326.0 L 1236.7 1370.5 L 1178.9 1323.7 L 1144.5 1333.0 L 1022.3 1281.2 L 998.8 1318.0 L 901.8 1316.8 L 916.3 1195.4 L 974.0 1077.1 L 809.6 1045.0 L 755.7 999.2 L 762.2 921.8 L 739.4 881.8 L 752.3 760.7 L 733.2 569.3 L 801.7 569.2 L 830.6 499.4 L 859.1 327.1 L 837.7 262.5 L 860.0 221.8 L 955.4 211.4 L 976.5 253.8 L 1054.0 158.6 L 1027.9 85.5 L 1022.7 -26.4 L 1108.9 -0.2 L 1181.9 -30.5 L 1183.9 46.0 L 1299.2 91.8 L 1298.0 161.0 L 1414.0 124.4 L 1478.1 70.8 L 1606.9 148.0 L 1660.8 209.7 Z"/><path d="M 837.7 262.5 L 859.1 327.1 L 830.6 499.4 L 801.7 569.2 L 733.2 569.3 L 752.3 760.7 L 689.6 718.4 L 617.4 638.6 L 511.7 676.6 L 428.1 662.2 L 428.2 662.2 L 486.9 611.9 L 586.8 337.0 L 742.9 257.1 L 837.7 262.5 Z"/><path d="M -303.0 277.4 L -302.8 277.4 L -286.0 165.6 L -362.4 45.2 L -364.2 42.4 L -502.7 7.6 L -529.9 -46.1 L -488.4 -135.6 L -525.9 -191.3 L -587.4 -95.9 L -594.0 -291.6 L -651.7 -397.1 L -610.2 -615.4 L -521.6 -791.2 L -430.5 -773.8 L -292.9 -792.2 L -414.8 -558.7 L -298.6 -587.9 L -173.6 -586.7 L -203.3 -414.8 L -305.9 -229.9 L -187.9 -216.9 L -178.9 -195.5 L -77.2 40.4 L 0.8 72.0 L 71.1 292.6 L 103.6 367.7 L 241.8 403.7 L 227.9 523.3 L 169.8 577.6 L 215.4 672.5 L 112.7 767.5 L -39.9 765.8 L -234.1 815.3 L -287.3 779.9 L -362.7 863.9 L -468.3 843.6 L -548.4 911.6 L -609.1 876.1 L -441.7 687.0 L -339.6 647.6 L -340.5 647.4 L -518.7 616.9 L -551.0 543.5 L -431.7 485.8 L -494.2 384.7 L -472.5 260.1 L -303.0 277.4 Z"/></g>
+  <g class="countries"><text x="690.1" y="463.3">NETHERLANDS</text></g>
+  <polyline class="route-underlay" points="600.0,337.5"/>
+  <polyline class="route" points="600.0,337.5"/>
+  <g class="stop"><text class="place" x="614.0" y="323.5" text-anchor="start">Texel</text><circle cx="600.0" cy="337.5" r="13"/><text class="number" x="600.0" y="341.7">1</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>

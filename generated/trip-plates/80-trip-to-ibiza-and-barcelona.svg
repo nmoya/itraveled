@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Trip to Ibiza and Barcelona</title>
+  <desc id="description">An ordered map of 2 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M -455.5 789.2 L -465.0 741.7 L -422.8 687.7 L -407.1 648.4 L -446.4 605.2 L -414.9 509.2 L -460.6 420.7 L -411.4 408.5 L -406.8 338.2 L -388.2 316.3 L -386.8 198.9 L -334.1 157.8 L -366.0 81.2 L -432.4 75.9 L -452.0 95.2 L -519.3 95.4 L -547.9 20.2 L -594.5 42.6 L -635.9 81.7 L -630.2 -28.1 L -676.8 -95.6 L -515.4 -208.9 L -375.8 -180.4 L -222.6 -181.4 L -101.2 -154.5 L -6.5 -162.8 L 177.9 -157.6 L 223.4 -96.7 L 433.4 -26.0 L 474.9 -59.6 L 603.2 10.5 L 735.5 -9.5 L 741.6 79.9 L 633.5 181.4 L 487.3 213.4 L 477.1 264.2 L 407.0 347.2 L 363.0 468.0 L 407.5 551.9 L 341.5 616.9 L 316.9 711.0 L 230.7 739.7 L 150.0 849.6 L 5.1 851.8 L -103.6 849.1 L -175.0 899.2 L -218.6 952.6 L -274.4 940.9 L -316.7 893.1 L -349.0 811.3 L -455.5 789.2 Z"/></g>
+  <g class="countries"><text x="600.0" y="395.5">SPAIN</text></g>
+  <polyline class="route-underlay" points="643.2,157.7 556.8,517.3"/>
+  <polyline class="route" points="643.2,157.7 556.8,517.3"/>
+  <g class="stop"><text class="place" x="657.2" y="143.7" text-anchor="start">Barcelona</text><circle cx="643.2" cy="157.7" r="13"/><text class="number" x="643.2" y="161.9">1</text></g><g class="stop"><text class="place" x="570.8" y="542.3" text-anchor="start">Ibiza</text><circle cx="556.8" cy="517.3" r="13"/><text class="number" x="556.8" y="521.5">2</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>

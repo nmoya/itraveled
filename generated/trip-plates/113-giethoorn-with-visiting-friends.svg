@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Giethoorn with visiting friends</title>
+  <desc id="description">An ordered map of 1 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M 1517.5 143.8 L 1544.2 241.4 L 1512.3 292.1 L 1553.8 359.4 L 1582.0 459.3 L 1573.1 523.1 L 1619.9 639.9 L 1569.0 658.8 L 1538.9 638.0 L 1510.3 672.5 L 1428.3 707.5 L 1386.0 752.3 L 1303.1 791.2 L 1323.0 844.1 L 1335.1 918.6 L 1393.3 960.7 L 1457.7 1035.6 L 1417.5 1115.2 L 1376.5 1137.0 L 1392.7 1248.0 L 1382.1 1276.8 L 1346.5 1242.2 L 1291.8 1237.0 L 1210.2 1267.3 L 1109.6 1260.1 L 1093.4 1304.6 L 1035.6 1257.8 L 1001.2 1267.1 L 879.0 1215.3 L 855.5 1252.1 L 758.5 1250.9 L 773.0 1129.5 L 830.7 1011.2 L 666.3 979.1 L 612.4 933.3 L 618.9 856.0 L 596.1 815.9 L 609.0 694.8 L 589.9 503.4 L 658.4 503.4 L 687.3 433.5 L 715.8 261.2 L 694.4 196.7 L 716.7 155.9 L 812.1 145.5 L 833.2 187.9 L 910.7 92.7 L 884.6 19.6 L 879.4 -92.3 L 965.6 -66.1 L 1038.6 -96.4 L 1040.6 -19.9 L 1155.9 25.9 L 1154.7 95.1 L 1270.7 58.5 L 1334.8 4.9 L 1463.6 82.1 L 1517.5 143.8 Z"/><path d="M 609.0 694.8 L 596.1 815.9 L 566.3 822.6 L 554.0 921.7 L 454.2 841.2 L 395.6 855.0 L 316.0 771.1 L 263.0 699.0 L 209.9 696.0 L 193.4 632.3 L 284.8 596.3 L 284.9 596.3 L 284.8 596.3 L 368.4 610.7 L 474.1 572.7 L 546.3 652.5 L 609.0 694.8 Z"/><path d="M 694.4 196.7 L 715.8 261.2 L 687.3 433.5 L 658.4 503.4 L 589.9 503.4 L 609.0 694.8 L 546.3 652.5 L 474.1 572.7 L 368.4 610.7 L 284.8 596.3 L 284.9 596.3 L 343.6 546.0 L 443.5 271.1 L 599.6 191.2 L 694.4 196.7 Z"/><path d="M -446.3 211.5 L -446.1 211.5 L -429.3 99.7 L -505.7 -20.7 L -507.5 -23.5 L -646.0 -58.2 L -673.2 -112.0 L -631.7 -201.5 L -669.2 -257.2 L -730.7 -161.8 L -737.3 -357.5 L -795.0 -463.0 L -753.5 -681.3 L -664.9 -857.0 L -573.8 -839.7 L -436.2 -858.1 L -558.1 -624.6 L -441.9 -653.8 L -316.9 -652.6 L -346.6 -480.7 L -449.2 -295.8 L -331.2 -282.8 L -322.2 -261.4 L -220.5 -25.5 L -142.5 6.1 L -72.2 226.7 L -39.7 301.8 L 98.5 337.8 L 84.6 457.4 L 26.5 511.7 L 72.1 606.6 L -30.6 701.6 L -183.2 699.9 L -377.4 749.4 L -430.6 714.0 L -506.0 798.0 L -611.6 777.7 L -691.7 845.7 L -752.4 810.2 L -585.0 621.1 L -482.9 581.7 L -483.8 581.5 L -662.0 551.0 L -694.3 477.6 L -575.0 420.0 L -637.5 318.8 L -615.8 194.2 L -446.3 211.5 Z"/></g>
+  <g class="countries"><text x="546.8" y="397.4">NETHERLANDS</text></g>
+  <polyline class="route-underlay" points="600.0,337.5"/>
+  <polyline class="route" points="600.0,337.5"/>
+  <g class="stop"><text class="place" x="614.0" y="323.5" text-anchor="start">Giethoorn</text><circle cx="600.0" cy="337.5" r="13"/><text class="number" x="600.0" y="341.7">1</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>

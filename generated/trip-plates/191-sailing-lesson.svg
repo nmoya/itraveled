@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Sailing Lesson</title>
+  <desc id="description">An ordered map of 1 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M 1628.3 149.0 L 1655.0 246.6 L 1623.1 297.3 L 1664.6 364.6 L 1692.8 464.5 L 1683.9 528.3 L 1730.7 645.1 L 1679.8 664.0 L 1649.7 643.2 L 1621.1 677.7 L 1539.1 712.7 L 1496.8 757.5 L 1413.9 796.4 L 1433.8 849.3 L 1445.9 923.8 L 1504.1 965.9 L 1568.5 1040.8 L 1528.3 1120.4 L 1487.3 1142.2 L 1503.5 1253.2 L 1492.9 1282.0 L 1457.3 1247.4 L 1402.6 1242.2 L 1321.0 1272.5 L 1220.4 1265.3 L 1204.2 1309.8 L 1146.5 1263.0 L 1112.0 1272.3 L 989.8 1220.5 L 966.3 1257.3 L 869.3 1256.1 L 883.8 1134.7 L 941.5 1016.4 L 777.1 984.3 L 723.2 938.5 L 729.7 861.2 L 706.9 821.1 L 719.8 700.0 L 700.7 508.6 L 769.2 508.6 L 798.1 438.7 L 826.6 266.4 L 805.2 201.9 L 827.5 161.1 L 922.9 150.7 L 944.0 193.1 L 1021.5 97.9 L 995.4 24.8 L 990.2 -87.1 L 1076.4 -60.9 L 1149.4 -91.2 L 1151.4 -14.7 L 1266.7 31.1 L 1265.5 100.3 L 1381.5 63.7 L 1445.6 10.1 L 1574.4 87.3 L 1628.3 149.0 Z"/><path d="M 719.8 700.0 L 706.9 821.1 L 677.1 827.8 L 664.8 926.9 L 565.0 846.4 L 506.4 860.2 L 426.8 776.3 L 373.8 704.2 L 320.7 701.2 L 304.2 637.5 L 395.6 601.5 L 395.7 601.5 L 395.6 601.5 L 479.2 615.9 L 584.9 577.9 L 657.1 657.7 L 719.8 700.0 Z"/><path d="M 805.2 201.9 L 826.6 266.4 L 798.1 438.7 L 769.2 508.6 L 700.7 508.6 L 719.8 700.0 L 657.1 657.7 L 584.9 577.9 L 479.2 615.9 L 395.6 601.5 L 395.7 601.5 L 454.4 551.2 L 554.3 276.3 L 710.4 196.4 L 805.2 201.9 Z"/><path d="M -335.5 216.7 L -335.3 216.7 L -318.5 104.9 L -394.9 -15.5 L -396.7 -18.3 L -535.2 -53.0 L -562.4 -106.8 L -520.9 -196.3 L -558.4 -252.0 L -619.9 -156.6 L -626.5 -352.3 L -684.2 -457.8 L -642.7 -676.1 L -554.1 -851.8 L -463.0 -834.5 L -325.4 -852.9 L -447.3 -619.4 L -331.1 -648.6 L -206.1 -647.4 L -235.8 -475.5 L -338.4 -290.6 L -220.4 -277.6 L -211.4 -256.2 L -109.7 -20.3 L -31.6 11.3 L 38.6 231.9 L 71.1 307.0 L 209.3 343.0 L 195.4 462.6 L 137.3 516.9 L 182.9 611.8 L 80.2 706.8 L -72.4 705.1 L -266.6 754.6 L -319.8 719.2 L -395.2 803.2 L -500.8 782.9 L -580.9 850.9 L -641.6 815.4 L -474.2 626.3 L -372.1 586.9 L -373.0 586.7 L -551.2 556.2 L -583.5 482.8 L -464.2 425.2 L -526.7 324.0 L -505.0 199.4 L -335.5 216.7 Z"/></g>
+  <g class="countries"><text x="657.6" y="402.6">NETHERLANDS</text></g>
+  <polyline class="route-underlay" points="600.0,337.5"/>
+  <polyline class="route" points="600.0,337.5"/>
+  <g class="stop"><text class="place" x="614.0" y="323.5" text-anchor="start">Medemblik</text><circle cx="600.0" cy="337.5" r="13"/><text class="number" x="600.0" y="341.7">1</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>

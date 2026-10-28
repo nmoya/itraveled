@@ -1,0 +1,8482 @@
+{
+  "calendar_months": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+  ],
+  "headline": {
+    "companions": 58,
+    "countries": 35,
+    "places": 284,
+    "trips": 223
+  },
+  "milestones": [
+    {
+      "countries_seen": 1,
+      "date_label": "September 1998",
+      "id": 1,
+      "month": 9,
+      "month_name": "September",
+      "name": "Beto carreiro",
+      "new_countries": [
+        {
+          "id": 1,
+          "name": "Brazil",
+          "slug": "1-brazil",
+          "url": "countries/1-brazil/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 1,
+          "name": "Penha",
+          "slug": "1-penha",
+          "url": "places/1-penha/"
+        }
+      ],
+      "places_seen": 1,
+      "slug": "1-beto-carreiro",
+      "trips_taken": 1,
+      "url": "journal/1-beto-carreiro/",
+      "year": 1998
+    },
+    {
+      "countries_seen": 1,
+      "date_label": "January 1999",
+      "id": 171,
+      "month": 1,
+      "month_name": "January",
+      "name": "Trip to Lapa",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 68,
+          "name": "Lapa",
+          "slug": "68-lapa",
+          "url": "places/68-lapa/"
+        }
+      ],
+      "places_seen": 2,
+      "slug": "171-trip-to-lapa",
+      "trips_taken": 2,
+      "url": "journal/171-trip-to-lapa/",
+      "year": 1999
+    },
+    {
+      "countries_seen": 1,
+      "date_label": "March 1999",
+      "id": 170,
+      "month": 3,
+      "month_name": "March",
+      "name": "Campinas with the cousins",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 52,
+          "name": "Campinas",
+          "slug": "52-campinas",
+          "url": "places/52-campinas/"
+        },
+        {
+          "id": 214,
+          "name": "Holambra",
+          "slug": "214-holambra",
+          "url": "places/214-holambra/"
+        }
+      ],
+      "places_seen": 4,
+      "slug": "170-campinas-with-the-cousins",
+      "trips_taken": 3,
+      "url": "journal/170-campinas-with-the-cousins/",
+      "year": 1999
+    },
+    {
+      "countries_seen": 1,
+      "date_label": "January 2002",
+      "id": 2,
+      "month": 1,
+      "month_name": "January",
+      "name": "Betaras Beach",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 2,
+          "name": "Caiobá",
+          "slug": "2-caioba",
+          "url": "places/2-caioba/"
+        },
+        {
+          "id": 3,
+          "name": "Matinhos",
+          "slug": "3-matinhos",
+          "url": "places/3-matinhos/"
+        }
+      ],
+      "places_seen": 6,
+      "slug": "2-betaras-beach",
+      "trips_taken": 4,
+      "url": "journal/2-betaras-beach/",
+      "year": 2002
+    },
+    {
+      "countries_seen": 1,
+      "date_label": "December 2005",
+      "id": 3,
+      "month": 12,
+      "month_name": "December",
+      "name": "Gaivotas Beach",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 5,
+          "name": "Morretes",
+          "slug": "5-morretes",
+          "url": "places/5-morretes/"
+        },
+        {
+          "id": 6,
+          "name": "Paranaguá",
+          "slug": "6-paranagua",
+          "url": "places/6-paranagua/"
+        },
+        {
+          "id": 4,
+          "name": "Ilha do mel",
+          "slug": "4-ilha-do-mel",
+          "url": "places/4-ilha-do-mel/"
+        }
+      ],
+      "places_seen": 9,
+      "slug": "3-gaivotas-beach",
+      "trips_taken": 5,
+      "url": "journal/3-gaivotas-beach/",
+      "year": 2005
+    },
+    {
+      "countries_seen": 1,
+      "date_label": "January 2006",
+      "id": 4,
+      "month": 1,
+      "month_name": "January",
+      "name": "Guaratuba",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 7,
+          "name": "Guaratuba",
+          "slug": "7-guaratuba",
+          "url": "places/7-guaratuba/"
+        }
+      ],
+      "places_seen": 10,
+      "slug": "4-guaratuba",
+      "trips_taken": 6,
+      "url": "journal/4-guaratuba/",
+      "year": 2006
+    },
+    {
+      "countries_seen": 1,
+      "date_label": "February 2006",
+      "id": 5,
+      "month": 2,
+      "month_name": "February",
+      "name": "Carnival at Canasvieiras beach",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 8,
+          "name": "Florianópolis",
+          "slug": "8-florianopolis",
+          "url": "places/8-florianopolis/"
+        }
+      ],
+      "places_seen": 11,
+      "slug": "5-carnival-at-canasvieiras-beach",
+      "trips_taken": 7,
+      "url": "journal/5-carnival-at-canasvieiras-beach/",
+      "year": 2006
+    },
+    {
+      "countries_seen": 1,
+      "date_label": "February 2008",
+      "id": 6,
+      "month": 2,
+      "month_name": "February",
+      "name": "Carnival at Ingleses beach",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 11,
+      "slug": "6-carnival-at-ingleses-beach",
+      "trips_taken": 8,
+      "url": "journal/6-carnival-at-ingleses-beach/",
+      "year": 2008
+    },
+    {
+      "countries_seen": 1,
+      "date_label": "May 2009",
+      "id": 9,
+      "month": 5,
+      "month_name": "May",
+      "name": "Visit Gregory Floripa",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 11,
+      "slug": "9-visit-gregory-floripa",
+      "trips_taken": 9,
+      "url": "journal/9-visit-gregory-floripa/",
+      "year": 2009
+    },
+    {
+      "countries_seen": 2,
+      "date_label": "February 2010",
+      "id": 8,
+      "month": 2,
+      "month_name": "February",
+      "name": "Foz do Iguaçu",
+      "new_countries": [
+        {
+          "id": 2,
+          "name": "Paraguay",
+          "slug": "2-paraguay",
+          "url": "countries/2-paraguay/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 11,
+          "name": "Foz do Iguaçú",
+          "slug": "11-foz-do-iguacu",
+          "url": "places/11-foz-do-iguacu/"
+        },
+        {
+          "id": 10,
+          "name": "Asunción",
+          "slug": "10-asuncion",
+          "url": "places/10-asuncion/"
+        }
+      ],
+      "places_seen": 13,
+      "slug": "8-foz-do-iguacu",
+      "trips_taken": 10,
+      "url": "journal/8-foz-do-iguacu/",
+      "year": 2010
+    },
+    {
+      "countries_seen": 4,
+      "date_label": "January 2011",
+      "id": 10,
+      "month": 1,
+      "month_name": "January",
+      "name": "First cruise trip",
+      "new_countries": [
+        {
+          "id": 4,
+          "name": "Uruguay",
+          "slug": "4-uruguay",
+          "url": "countries/4-uruguay/"
+        },
+        {
+          "id": 3,
+          "name": "Argentina",
+          "slug": "3-argentina",
+          "url": "countries/3-argentina/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 15,
+          "name": "Santos",
+          "slug": "15-santos",
+          "url": "places/15-santos/"
+        },
+        {
+          "id": 14,
+          "name": "Rio de Janeiro",
+          "slug": "14-rio-de-janeiro",
+          "url": "places/14-rio-de-janeiro/"
+        },
+        {
+          "id": 13,
+          "name": "Punta del Este",
+          "slug": "13-punta-del-este",
+          "url": "places/13-punta-del-este/"
+        },
+        {
+          "id": 12,
+          "name": "Buenos Aires",
+          "slug": "12-buenos-aires",
+          "url": "places/12-buenos-aires/"
+        }
+      ],
+      "places_seen": 17,
+      "slug": "10-first-cruise-trip",
+      "trips_taken": 11,
+      "url": "journal/10-first-cruise-trip/",
+      "year": 2011
+    },
+    {
+      "countries_seen": 4,
+      "date_label": "February 2011",
+      "id": 11,
+      "month": 2,
+      "month_name": "February",
+      "name": "Beach Carnival in Northeastern Brazil",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 18,
+          "name": "Fortaleza",
+          "slug": "18-fortaleza",
+          "url": "places/18-fortaleza/"
+        },
+        {
+          "id": 16,
+          "name": "Canoa Quebrada",
+          "slug": "16-canoa-quebrada",
+          "url": "places/16-canoa-quebrada/"
+        },
+        {
+          "id": 17,
+          "name": "Cumbuco",
+          "slug": "17-cumbuco",
+          "url": "places/17-cumbuco/"
+        }
+      ],
+      "places_seen": 20,
+      "slug": "11-beach-carnival-in-northeastern-brazil",
+      "trips_taken": 12,
+      "url": "journal/11-beach-carnival-in-northeastern-brazil/",
+      "year": 2011
+    },
+    {
+      "countries_seen": 4,
+      "date_label": "August 2011",
+      "id": 31,
+      "month": 8,
+      "month_name": "August",
+      "name": "PUCPR Volunteering",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 71,
+          "name": "Bocaiúva do Sul",
+          "slug": "71-bocaiuva-do-sul",
+          "url": "places/71-bocaiuva-do-sul/"
+        }
+      ],
+      "places_seen": 21,
+      "slug": "31-pucpr-volunteering",
+      "trips_taken": 13,
+      "url": "journal/31-pucpr-volunteering/",
+      "year": 2011
+    },
+    {
+      "countries_seen": 6,
+      "date_label": "January 2012",
+      "id": 12,
+      "month": 1,
+      "month_name": "January",
+      "name": "Princess Cruises",
+      "new_countries": [
+        {
+          "id": 5,
+          "name": "Falkland Islands",
+          "slug": "5-falkland-islands",
+          "url": "countries/5-falkland-islands/"
+        },
+        {
+          "id": 6,
+          "name": "Chile",
+          "slug": "6-chile",
+          "url": "countries/6-chile/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 20,
+          "name": "Montevideo",
+          "slug": "20-montevideo",
+          "url": "places/20-montevideo/"
+        },
+        {
+          "id": 19,
+          "name": "Falkland Islands",
+          "slug": "19-falkland-islands",
+          "url": "places/19-falkland-islands/"
+        },
+        {
+          "id": 23,
+          "name": "Ushuaia",
+          "slug": "23-ushuaia",
+          "url": "places/23-ushuaia/"
+        },
+        {
+          "id": 21,
+          "name": "Punta Arenas",
+          "slug": "21-punta-arenas",
+          "url": "places/21-punta-arenas/"
+        },
+        {
+          "id": 24,
+          "name": "Valparaíso",
+          "slug": "24-valparaiso",
+          "url": "places/24-valparaiso/"
+        },
+        {
+          "id": 22,
+          "name": "Santiago",
+          "slug": "22-santiago",
+          "url": "places/22-santiago/"
+        }
+      ],
+      "places_seen": 27,
+      "slug": "12-princess-cruises",
+      "trips_taken": 14,
+      "url": "journal/12-princess-cruises/",
+      "year": 2012
+    },
+    {
+      "countries_seen": 6,
+      "date_label": "June 2012",
+      "id": 13,
+      "month": 6,
+      "month_name": "June",
+      "name": "Trip Boxmob",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 25,
+          "name": "Blumenau",
+          "slug": "25-blumenau",
+          "url": "places/25-blumenau/"
+        }
+      ],
+      "places_seen": 28,
+      "slug": "13-trip-boxmob",
+      "trips_taken": 15,
+      "url": "journal/13-trip-boxmob/",
+      "year": 2012
+    },
+    {
+      "countries_seen": 6,
+      "date_label": "August 2012",
+      "id": 7,
+      "month": 8,
+      "month_name": "August",
+      "name": "Visit grandfather",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 9,
+          "name": "Balneário Camboriú",
+          "slug": "9-balneario-camboriu",
+          "url": "places/9-balneario-camboriu/"
+        }
+      ],
+      "places_seen": 29,
+      "slug": "7-visit-grandfather",
+      "trips_taken": 16,
+      "url": "journal/7-visit-grandfather/",
+      "year": 2012
+    },
+    {
+      "countries_seen": 6,
+      "date_label": "December 2012",
+      "id": 16,
+      "month": 12,
+      "month_name": "December",
+      "name": "Trip in preparation for my move to Campinas",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 29,
+      "slug": "16-trip-in-preparation-for-my-move-to-campinas",
+      "trips_taken": 17,
+      "url": "journal/16-trip-in-preparation-for-my-move-to-campinas/",
+      "year": 2012
+    },
+    {
+      "countries_seen": 10,
+      "date_label": "December 2012",
+      "id": 14,
+      "month": 12,
+      "month_name": "December",
+      "name": "Europe trip with Gregory",
+      "new_countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 7,
+          "name": "Switzerland",
+          "slug": "7-switzerland",
+          "url": "countries/7-switzerland/"
+        },
+        {
+          "id": 9,
+          "name": "France",
+          "slug": "9-france",
+          "url": "countries/9-france/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 28,
+          "name": "Brindisi",
+          "slug": "28-brindisi",
+          "url": "places/28-brindisi/"
+        },
+        {
+          "id": 31,
+          "name": "Lecce",
+          "slug": "31-lecce",
+          "url": "places/31-lecce/"
+        },
+        {
+          "id": 37,
+          "name": "Otranto",
+          "slug": "37-otranto",
+          "url": "places/37-otranto/"
+        },
+        {
+          "id": 27,
+          "name": "Bologna",
+          "slug": "27-bologna",
+          "url": "places/27-bologna/"
+        },
+        {
+          "id": 32,
+          "name": "Lucca",
+          "slug": "32-lucca",
+          "url": "places/32-lucca/"
+        },
+        {
+          "id": 39,
+          "name": "Pisa",
+          "slug": "39-pisa",
+          "url": "places/39-pisa/"
+        },
+        {
+          "id": 48,
+          "name": "Vicenza",
+          "slug": "48-vicenza",
+          "url": "places/48-vicenza/"
+        },
+        {
+          "id": 42,
+          "name": "Sirmione",
+          "slug": "42-sirmione",
+          "url": "places/42-sirmione/"
+        },
+        {
+          "id": 46,
+          "name": "Verona",
+          "slug": "46-verona",
+          "url": "places/46-verona/"
+        },
+        {
+          "id": 34,
+          "name": "Mestre",
+          "slug": "34-mestre",
+          "url": "places/34-mestre/"
+        },
+        {
+          "id": 45,
+          "name": "Venice",
+          "slug": "45-venice",
+          "url": "places/45-venice/"
+        },
+        {
+          "id": 29,
+          "name": "Burano",
+          "slug": "29-burano",
+          "url": "places/29-burano/"
+        },
+        {
+          "id": 35,
+          "name": "Murano",
+          "slug": "35-murano",
+          "url": "places/35-murano/"
+        },
+        {
+          "id": 33,
+          "name": "Lucern",
+          "slug": "33-lucern",
+          "url": "places/33-lucern/"
+        },
+        {
+          "id": 30,
+          "name": "Engelberg",
+          "slug": "30-engelberg",
+          "url": "places/30-engelberg/"
+        },
+        {
+          "id": 26,
+          "name": "Bern",
+          "slug": "26-bern",
+          "url": "places/26-bern/"
+        },
+        {
+          "id": 49,
+          "name": "Zurich",
+          "slug": "49-zurich",
+          "url": "places/49-zurich/"
+        },
+        {
+          "id": 38,
+          "name": "Paris",
+          "slug": "38-paris",
+          "url": "places/38-paris/"
+        },
+        {
+          "id": 47,
+          "name": "Versailles",
+          "slug": "47-versailles",
+          "url": "places/47-versailles/"
+        },
+        {
+          "id": 41,
+          "name": "Rome",
+          "slug": "41-rome",
+          "url": "places/41-rome/"
+        },
+        {
+          "id": 36,
+          "name": "Naples",
+          "slug": "36-naples",
+          "url": "places/36-naples/"
+        },
+        {
+          "id": 40,
+          "name": "Pompei",
+          "slug": "40-pompei",
+          "url": "places/40-pompei/"
+        },
+        {
+          "id": 43,
+          "name": "Vatican City",
+          "slug": "43-vatican-city",
+          "url": "places/43-vatican-city/"
+        },
+        {
+          "id": 44,
+          "name": "Vaticano",
+          "slug": "44-vaticano",
+          "url": "places/44-vaticano/"
+        }
+      ],
+      "places_seen": 53,
+      "slug": "14-europe-trip-with-gregory",
+      "trips_taken": 18,
+      "url": "journal/14-europe-trip-with-gregory/",
+      "year": 2012
+    },
+    {
+      "countries_seen": 10,
+      "date_label": "February 2013",
+      "id": 15,
+      "month": 2,
+      "month_name": "February",
+      "name": "Barco do principe",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 50,
+          "name": "Joinville",
+          "slug": "50-joinville",
+          "url": "places/50-joinville/"
+        },
+        {
+          "id": 51,
+          "name": "Sao Francisco do Sul",
+          "slug": "51-sao-francisco-do-sul",
+          "url": "places/51-sao-francisco-do-sul/"
+        }
+      ],
+      "places_seen": 55,
+      "slug": "15-barco-do-principe",
+      "trips_taken": 19,
+      "url": "journal/15-barco-do-principe/",
+      "year": 2013
+    },
+    {
+      "countries_seen": 10,
+      "date_label": "February 2013",
+      "id": 17,
+      "month": 2,
+      "month_name": "February",
+      "name": "Move to campinas",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 55,
+      "slug": "17-move-to-campinas",
+      "trips_taken": 20,
+      "url": "journal/17-move-to-campinas/",
+      "year": 2013
+    },
+    {
+      "countries_seen": 10,
+      "date_label": "March 2013",
+      "id": 18,
+      "month": 3,
+      "month_name": "March",
+      "name": "Trip graduation Curitiba",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 53,
+          "name": "Curitiba",
+          "slug": "53-curitiba",
+          "url": "places/53-curitiba/"
+        }
+      ],
+      "places_seen": 56,
+      "slug": "18-trip-graduation-curitiba",
+      "trips_taken": 21,
+      "url": "journal/18-trip-graduation-curitiba/",
+      "year": 2013
+    },
+    {
+      "countries_seen": 10,
+      "date_label": "May 2013",
+      "id": 19,
+      "month": 5,
+      "month_name": "May",
+      "name": "Trip Hackathon Facebook",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 54,
+          "name": "São Paulo",
+          "slug": "54-sao-paulo",
+          "url": "places/54-sao-paulo/"
+        }
+      ],
+      "places_seen": 57,
+      "slug": "19-trip-hackathon-facebook",
+      "trips_taken": 22,
+      "url": "journal/19-trip-hackathon-facebook/",
+      "year": 2013
+    },
+    {
+      "countries_seen": 10,
+      "date_label": "July 2013",
+      "id": 20,
+      "month": 7,
+      "month_name": "July",
+      "name": "Marilia & Nikolas visa trip",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 57,
+      "slug": "20-marilia-nikolas-visa-trip",
+      "trips_taken": 23,
+      "url": "journal/20-marilia-nikolas-visa-trip/",
+      "year": 2013
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "December 2013",
+      "id": 21,
+      "month": 12,
+      "month_name": "December",
+      "name": "Visit Marilia Escócia",
+      "new_countries": [
+        {
+          "id": 11,
+          "name": "England",
+          "slug": "11-england",
+          "url": "countries/11-england/"
+        },
+        {
+          "id": 12,
+          "name": "Scotland",
+          "slug": "12-scotland",
+          "url": "countries/12-scotland/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 63,
+          "name": "Reading",
+          "slug": "63-reading",
+          "url": "places/63-reading/"
+        },
+        {
+          "id": 64,
+          "name": "Stonehenge",
+          "slug": "64-stonehenge",
+          "url": "places/64-stonehenge/"
+        },
+        {
+          "id": 65,
+          "name": "Winchester",
+          "slug": "65-winchester",
+          "url": "places/65-winchester/"
+        },
+        {
+          "id": 62,
+          "name": "Portsmouth",
+          "slug": "62-portsmouth",
+          "url": "places/62-portsmouth/"
+        },
+        {
+          "id": 55,
+          "name": "Basingstoke",
+          "slug": "55-basingstoke",
+          "url": "places/55-basingstoke/"
+        },
+        {
+          "id": 60,
+          "name": "London",
+          "slug": "60-london",
+          "url": "places/60-london/"
+        },
+        {
+          "id": 56,
+          "name": "Dundee",
+          "slug": "56-dundee",
+          "url": "places/56-dundee/"
+        },
+        {
+          "id": 58,
+          "name": "Glasgow",
+          "slug": "58-glasgow",
+          "url": "places/58-glasgow/"
+        },
+        {
+          "id": 59,
+          "name": "Glen Coe",
+          "slug": "59-glen-coe",
+          "url": "places/59-glen-coe/"
+        },
+        {
+          "id": 215,
+          "name": "Loch Ness",
+          "slug": "215-loch-ness",
+          "url": "places/215-loch-ness/"
+        },
+        {
+          "id": 61,
+          "name": "Pitlochry",
+          "slug": "61-pitlochry",
+          "url": "places/61-pitlochry/"
+        },
+        {
+          "id": 57,
+          "name": "Edinburgh",
+          "slug": "57-edinburgh",
+          "url": "places/57-edinburgh/"
+        }
+      ],
+      "places_seen": 69,
+      "slug": "21-visit-marilia-escocia",
+      "trips_taken": 24,
+      "url": "journal/21-visit-marilia-escocia/",
+      "year": 2013
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "March 2014",
+      "id": 22,
+      "month": 3,
+      "month_name": "March",
+      "name": "Wet & Wild",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 168,
+          "name": "Wet n' wild",
+          "slug": "168-wet-n-wild",
+          "url": "places/168-wet-n-wild/"
+        }
+      ],
+      "places_seen": 70,
+      "slug": "22-wet-wild",
+      "trips_taken": 25,
+      "url": "journal/22-wet-wild/",
+      "year": 2014
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "September 2014",
+      "id": 23,
+      "month": 9,
+      "month_name": "September",
+      "name": "Curitiba and Beto Carreiro",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 70,
+      "slug": "23-curitiba-and-beto-carreiro",
+      "trips_taken": 26,
+      "url": "journal/23-curitiba-and-beto-carreiro/",
+      "year": 2014
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "December 2014",
+      "id": 24,
+      "month": 12,
+      "month_name": "December",
+      "name": "First scuba diving trip!",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 66,
+          "name": "Bombinhas",
+          "slug": "66-bombinhas",
+          "url": "places/66-bombinhas/"
+        }
+      ],
+      "places_seen": 71,
+      "slug": "24-first-scuba-diving-trip",
+      "trips_taken": 27,
+      "url": "journal/24-first-scuba-diving-trip/",
+      "year": 2014
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "March 2015",
+      "id": 25,
+      "month": 3,
+      "month_name": "March",
+      "name": "First visit S. J. Do Triunfo",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 67,
+          "name": "São João do Triunfo",
+          "slug": "67-sao-joao-do-triunfo",
+          "url": "places/67-sao-joao-do-triunfo/"
+        }
+      ],
+      "places_seen": 72,
+      "slug": "25-first-visit-s-j-do-triunfo",
+      "trips_taken": 28,
+      "url": "journal/25-first-visit-s-j-do-triunfo/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "April 2015",
+      "id": 26,
+      "month": 4,
+      "month_name": "April",
+      "name": "Interview Google",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 72,
+      "slug": "26-interview-google",
+      "trips_taken": 29,
+      "url": "journal/26-interview-google/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "April 2015",
+      "id": 27,
+      "month": 4,
+      "month_name": "April",
+      "name": "Sao joao do triunfo",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 72,
+      "slug": "27-sao-joao-do-triunfo",
+      "trips_taken": 30,
+      "url": "journal/27-sao-joao-do-triunfo/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "May 2015",
+      "id": 29,
+      "month": 5,
+      "month_name": "May",
+      "name": "Visit Lapa",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 72,
+      "slug": "29-visit-lapa",
+      "trips_taken": 31,
+      "url": "journal/29-visit-lapa/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 12,
+      "date_label": "June 2015",
+      "id": 30,
+      "month": 6,
+      "month_name": "June",
+      "name": "Wedding Mattioli",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 70,
+          "name": "Colombo",
+          "slug": "70-colombo",
+          "url": "places/70-colombo/"
+        },
+        {
+          "id": 69,
+          "name": "Campina grande do sul",
+          "slug": "69-campina-grande-do-sul",
+          "url": "places/69-campina-grande-do-sul/"
+        }
+      ],
+      "places_seen": 74,
+      "slug": "30-wedding-mattioli",
+      "trips_taken": 32,
+      "url": "journal/30-wedding-mattioli/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 13,
+      "date_label": "July 2015",
+      "id": 32,
+      "month": 7,
+      "month_name": "July",
+      "name": "New york - Work&Co",
+      "new_countries": [
+        {
+          "id": 13,
+          "name": "United States",
+          "slug": "13-united-states",
+          "url": "countries/13-united-states/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 75,
+          "name": "New York",
+          "slug": "75-new-york",
+          "url": "places/75-new-york/"
+        },
+        {
+          "id": 72,
+          "name": "Bronx",
+          "slug": "72-bronx",
+          "url": "places/72-bronx/"
+        },
+        {
+          "id": 73,
+          "name": "Brooklyn",
+          "slug": "73-brooklyn",
+          "url": "places/73-brooklyn/"
+        },
+        {
+          "id": 74,
+          "name": "Coney Island",
+          "slug": "74-coney-island",
+          "url": "places/74-coney-island/"
+        }
+      ],
+      "places_seen": 78,
+      "slug": "32-new-york-work-co",
+      "trips_taken": 33,
+      "url": "journal/32-new-york-work-co/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 13,
+      "date_label": "September 2015",
+      "id": 33,
+      "month": 9,
+      "month_name": "September",
+      "name": "Chiago trip",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 76,
+          "name": "Chicago",
+          "slug": "76-chicago",
+          "url": "places/76-chicago/"
+        }
+      ],
+      "places_seen": 79,
+      "slug": "33-chiago-trip",
+      "trips_taken": 34,
+      "url": "journal/33-chiago-trip/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 13,
+      "date_label": "November 2015",
+      "id": 172,
+      "month": 11,
+      "month_name": "November",
+      "name": "Work trip to Rio",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 79,
+      "slug": "172-work-trip-to-rio",
+      "trips_taken": 35,
+      "url": "journal/172-work-trip-to-rio/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 13,
+      "date_label": "December 2015",
+      "id": 34,
+      "month": 12,
+      "month_name": "December",
+      "name": "NL Visa in Sao Paulo",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 79,
+      "slug": "34-nl-visa-in-sao-paulo",
+      "trips_taken": 36,
+      "url": "journal/34-nl-visa-in-sao-paulo/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 13,
+      "date_label": "December 2015",
+      "id": 35,
+      "month": 12,
+      "month_name": "December",
+      "name": "Witmarsum City",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 77,
+          "name": "Witmarsum",
+          "slug": "77-witmarsum",
+          "url": "places/77-witmarsum/"
+        }
+      ],
+      "places_seen": 80,
+      "slug": "35-witmarsum-city",
+      "trips_taken": 37,
+      "url": "journal/35-witmarsum-city/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 14,
+      "date_label": "December 2015",
+      "id": 36,
+      "month": 12,
+      "month_name": "December",
+      "name": "Move to Amsterdam",
+      "new_countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 78,
+          "name": "Amsterdam",
+          "slug": "78-amsterdam",
+          "url": "places/78-amsterdam/"
+        }
+      ],
+      "places_seen": 81,
+      "slug": "36-move-to-amsterdam",
+      "trips_taken": 38,
+      "url": "journal/36-move-to-amsterdam/",
+      "year": 2015
+    },
+    {
+      "countries_seen": 14,
+      "date_label": "January 2016",
+      "id": 37,
+      "month": 1,
+      "month_name": "January",
+      "name": "Work trip for Virgin America",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 79,
+          "name": "San Francisco",
+          "slug": "79-san-francisco",
+          "url": "places/79-san-francisco/"
+        }
+      ],
+      "places_seen": 82,
+      "slug": "37-work-trip-for-virgin-america",
+      "trips_taken": 39,
+      "url": "journal/37-work-trip-for-virgin-america/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 14,
+      "date_label": "February 2016",
+      "id": 38,
+      "month": 2,
+      "month_name": "February",
+      "name": "Bring If to Amsterdam",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 82,
+      "slug": "38-bring-if-to-amsterdam",
+      "trips_taken": 40,
+      "url": "journal/38-bring-if-to-amsterdam/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 14,
+      "date_label": "March 2016",
+      "id": 39,
+      "month": 3,
+      "month_name": "March",
+      "name": "Trip to Zaanse Schaans",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 80,
+          "name": "Zaanse Schans",
+          "slug": "80-zaanse-schans",
+          "url": "places/80-zaanse-schans/"
+        },
+        {
+          "id": 81,
+          "name": "Zaandam",
+          "slug": "81-zaandam",
+          "url": "places/81-zaandam/"
+        }
+      ],
+      "places_seen": 84,
+      "slug": "39-trip-to-zaanse-schaans",
+      "trips_taken": 41,
+      "url": "journal/39-trip-to-zaanse-schaans/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 14,
+      "date_label": "March 2016",
+      "id": 40,
+      "month": 3,
+      "month_name": "March",
+      "name": "Trip to Paris",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 84,
+      "slug": "40-trip-to-paris",
+      "trips_taken": 42,
+      "url": "journal/40-trip-to-paris/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 14,
+      "date_label": "March 2016",
+      "id": 41,
+      "month": 3,
+      "month_name": "March",
+      "name": "Birthday party in London",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 84,
+      "slug": "41-birthday-party-in-london",
+      "trips_taken": 43,
+      "url": "journal/41-birthday-party-in-london/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 14,
+      "date_label": "May 2016",
+      "id": 42,
+      "month": 5,
+      "month_name": "May",
+      "name": "Trip to Keukenhof",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 82,
+          "name": "Keukenhof",
+          "slug": "82-keukenhof",
+          "url": "places/82-keukenhof/"
+        },
+        {
+          "id": 83,
+          "name": "Lisse",
+          "slug": "83-lisse",
+          "url": "places/83-lisse/"
+        }
+      ],
+      "places_seen": 86,
+      "slug": "42-trip-to-keukenhof",
+      "trips_taken": 44,
+      "url": "journal/42-trip-to-keukenhof/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 14,
+      "date_label": "May 2016",
+      "id": 43,
+      "month": 5,
+      "month_name": "May",
+      "name": "Trip to Scheveninge",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 84,
+          "name": "Scheveningen",
+          "slug": "84-scheveningen",
+          "url": "places/84-scheveningen/"
+        }
+      ],
+      "places_seen": 87,
+      "slug": "43-trip-to-scheveninge",
+      "trips_taken": 45,
+      "url": "journal/43-trip-to-scheveninge/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 15,
+      "date_label": "June 2016",
+      "id": 44,
+      "month": 6,
+      "month_name": "June",
+      "name": "Trip to Brugges",
+      "new_countries": [
+        {
+          "id": 15,
+          "name": "Belgium",
+          "slug": "15-belgium",
+          "url": "countries/15-belgium/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 85,
+          "name": "Brugges",
+          "slug": "85-brugges",
+          "url": "places/85-brugges/"
+        }
+      ],
+      "places_seen": 88,
+      "slug": "44-trip-to-brugges",
+      "trips_taken": 46,
+      "url": "journal/44-trip-to-brugges/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 15,
+      "date_label": "June 2016",
+      "id": 45,
+      "month": 6,
+      "month_name": "June",
+      "name": "Trip to Giethoorn",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 86,
+          "name": "Giethoorn",
+          "slug": "86-giethoorn",
+          "url": "places/86-giethoorn/"
+        }
+      ],
+      "places_seen": 89,
+      "slug": "45-trip-to-giethoorn",
+      "trips_taken": 47,
+      "url": "journal/45-trip-to-giethoorn/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 15,
+      "date_label": "June 2016",
+      "id": 46,
+      "month": 6,
+      "month_name": "June",
+      "name": "Trip to Zaanse Schaans",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 89,
+      "slug": "46-trip-to-zaanse-schaans",
+      "trips_taken": 48,
+      "url": "journal/46-trip-to-zaanse-schaans/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 15,
+      "date_label": "June 2016",
+      "id": 47,
+      "month": 6,
+      "month_name": "June",
+      "name": "Trip to Paris",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 89,
+      "slug": "47-trip-to-paris",
+      "trips_taken": 49,
+      "url": "journal/47-trip-to-paris/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 16,
+      "date_label": "June 2016",
+      "id": 48,
+      "month": 6,
+      "month_name": "June",
+      "name": "Trip to Valencia and Madrid",
+      "new_countries": [
+        {
+          "id": 16,
+          "name": "Spain",
+          "slug": "16-spain",
+          "url": "countries/16-spain/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 87,
+          "name": "Madrid",
+          "slug": "87-madrid",
+          "url": "places/87-madrid/"
+        },
+        {
+          "id": 88,
+          "name": "Valencia",
+          "slug": "88-valencia",
+          "url": "places/88-valencia/"
+        }
+      ],
+      "places_seen": 91,
+      "slug": "48-trip-to-valencia-and-madrid",
+      "trips_taken": 50,
+      "url": "journal/48-trip-to-valencia-and-madrid/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 17,
+      "date_label": "August 2016",
+      "id": 49,
+      "month": 8,
+      "month_name": "August",
+      "name": "Work trip to Serbia",
+      "new_countries": [
+        {
+          "id": 17,
+          "name": "Serbia",
+          "slug": "17-serbia",
+          "url": "countries/17-serbia/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 89,
+          "name": "Belgrade",
+          "slug": "89-belgrade",
+          "url": "places/89-belgrade/"
+        }
+      ],
+      "places_seen": 92,
+      "slug": "49-work-trip-to-serbia",
+      "trips_taken": 51,
+      "url": "journal/49-work-trip-to-serbia/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 17,
+      "date_label": "September 2016",
+      "id": 50,
+      "month": 9,
+      "month_name": "September",
+      "name": "Birthday trip to Mallorca",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 90,
+          "name": "Pollentia",
+          "slug": "90-pollentia",
+          "url": "places/90-pollentia/"
+        }
+      ],
+      "places_seen": 93,
+      "slug": "50-birthday-trip-to-mallorca",
+      "trips_taken": 52,
+      "url": "journal/50-birthday-trip-to-mallorca/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 17,
+      "date_label": "October 2016",
+      "id": 51,
+      "month": 10,
+      "month_name": "October",
+      "name": "Trip to New York",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 93,
+      "slug": "51-trip-to-new-york",
+      "trips_taken": 53,
+      "url": "journal/51-trip-to-new-york/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 17,
+      "date_label": "November 2016",
+      "id": 52,
+      "month": 11,
+      "month_name": "November",
+      "name": "Het Loo & Tennis match",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 91,
+          "name": "Apeldoorn",
+          "slug": "91-apeldoorn",
+          "url": "places/91-apeldoorn/"
+        }
+      ],
+      "places_seen": 94,
+      "slug": "52-het-loo-tennis-match",
+      "trips_taken": 54,
+      "url": "journal/52-het-loo-tennis-match/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 17,
+      "date_label": "December 2016",
+      "id": 53,
+      "month": 12,
+      "month_name": "December",
+      "name": "Trip to Curitiba",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 94,
+      "slug": "53-trip-to-curitiba",
+      "trips_taken": 55,
+      "url": "journal/53-trip-to-curitiba/",
+      "year": 2016
+    },
+    {
+      "countries_seen": 17,
+      "date_label": "January 2017",
+      "id": 54,
+      "month": 1,
+      "month_name": "January",
+      "name": "Trip to New York",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 94,
+      "slug": "54-trip-to-new-york",
+      "trips_taken": 56,
+      "url": "journal/54-trip-to-new-york/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 17,
+      "date_label": "January 2017",
+      "id": 55,
+      "month": 1,
+      "month_name": "January",
+      "name": "Trip to Milan",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 92,
+          "name": "Milan",
+          "slug": "92-milan",
+          "url": "places/92-milan/"
+        }
+      ],
+      "places_seen": 95,
+      "slug": "55-trip-to-milan",
+      "trips_taken": 57,
+      "url": "journal/55-trip-to-milan/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "February 2017",
+      "id": 56,
+      "month": 2,
+      "month_name": "February",
+      "name": "Trip to Porto",
+      "new_countries": [
+        {
+          "id": 18,
+          "name": "Portugal",
+          "slug": "18-portugal",
+          "url": "countries/18-portugal/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 93,
+          "name": "Porto",
+          "slug": "93-porto",
+          "url": "places/93-porto/"
+        }
+      ],
+      "places_seen": 96,
+      "slug": "56-trip-to-porto",
+      "trips_taken": 58,
+      "url": "journal/56-trip-to-porto/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "February 2017",
+      "id": 57,
+      "month": 2,
+      "month_name": "February",
+      "name": "Trip to Groningen",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 94,
+          "name": "Groeningen",
+          "slug": "94-groeningen",
+          "url": "places/94-groeningen/"
+        }
+      ],
+      "places_seen": 97,
+      "slug": "57-trip-to-groningen",
+      "trips_taken": 59,
+      "url": "journal/57-trip-to-groningen/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "March 2017",
+      "id": 58,
+      "month": 3,
+      "month_name": "March",
+      "name": "Party in London",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 97,
+      "slug": "58-party-in-london",
+      "trips_taken": 60,
+      "url": "journal/58-party-in-london/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "April 2017",
+      "id": 59,
+      "month": 4,
+      "month_name": "April",
+      "name": "Trip to Muiden",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 95,
+          "name": "Muiden",
+          "slug": "95-muiden",
+          "url": "places/95-muiden/"
+        }
+      ],
+      "places_seen": 98,
+      "slug": "59-trip-to-muiden",
+      "trips_taken": 61,
+      "url": "journal/59-trip-to-muiden/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "April 2017",
+      "id": 60,
+      "month": 4,
+      "month_name": "April",
+      "name": "Trip to Keukenhof",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 98,
+      "slug": "60-trip-to-keukenhof",
+      "trips_taken": 62,
+      "url": "journal/60-trip-to-keukenhof/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "May 2017",
+      "id": 61,
+      "month": 5,
+      "month_name": "May",
+      "name": "Work trip to New York",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 98,
+      "slug": "61-work-trip-to-new-york",
+      "trips_taken": 63,
+      "url": "journal/61-work-trip-to-new-york/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "July 2017",
+      "id": 62,
+      "month": 7,
+      "month_name": "July",
+      "name": "Trip to Marken",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 96,
+          "name": "Marken",
+          "slug": "96-marken",
+          "url": "places/96-marken/"
+        },
+        {
+          "id": 97,
+          "name": "Volendam",
+          "slug": "97-volendam",
+          "url": "places/97-volendam/"
+        }
+      ],
+      "places_seen": 100,
+      "slug": "62-trip-to-marken",
+      "trips_taken": 64,
+      "url": "journal/62-trip-to-marken/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "August 2017",
+      "id": 63,
+      "month": 8,
+      "month_name": "August",
+      "name": "Trip to Het Loo",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 100,
+      "slug": "63-trip-to-het-loo",
+      "trips_taken": 65,
+      "url": "journal/63-trip-to-het-loo/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "August 2017",
+      "id": 64,
+      "month": 8,
+      "month_name": "August",
+      "name": "Trip to Giethoorn",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 100,
+      "slug": "64-trip-to-giethoorn",
+      "trips_taken": 66,
+      "url": "journal/64-trip-to-giethoorn/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "August 2017",
+      "id": 65,
+      "month": 8,
+      "month_name": "August",
+      "name": "Bike trip from Amsterdam to Muiden!",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 100,
+      "slug": "65-bike-trip-from-amsterdam-to-muiden",
+      "trips_taken": 67,
+      "url": "journal/65-bike-trip-from-amsterdam-to-muiden/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "September 2017",
+      "id": 66,
+      "month": 9,
+      "month_name": "September",
+      "name": "Trip to Groeningen",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 100,
+      "slug": "66-trip-to-groeningen",
+      "trips_taken": 68,
+      "url": "journal/66-trip-to-groeningen/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 18,
+      "date_label": "October 2017",
+      "id": 67,
+      "month": 10,
+      "month_name": "October",
+      "name": "Trip to Alphen and Rijn",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 98,
+          "name": "Alphen en Rijn",
+          "slug": "98-alphen-en-rijn",
+          "url": "places/98-alphen-en-rijn/"
+        }
+      ],
+      "places_seen": 101,
+      "slug": "67-trip-to-alphen-and-rijn",
+      "trips_taken": 69,
+      "url": "journal/67-trip-to-alphen-and-rijn/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 19,
+      "date_label": "October 2017",
+      "id": 68,
+      "month": 10,
+      "month_name": "October",
+      "name": "Trip to Germany",
+      "new_countries": [
+        {
+          "id": 19,
+          "name": "Germany",
+          "slug": "19-germany",
+          "url": "countries/19-germany/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 101,
+          "name": "Edam",
+          "slug": "101-edam",
+          "url": "places/101-edam/"
+        },
+        {
+          "id": 100,
+          "name": "Cologne",
+          "slug": "100-cologne",
+          "url": "places/100-cologne/"
+        },
+        {
+          "id": 217,
+          "name": "Schloss Drachenburg",
+          "slug": "217-schloss-drachenburg",
+          "url": "places/217-schloss-drachenburg/"
+        },
+        {
+          "id": 216,
+          "name": "Eltz Castle",
+          "slug": "216-eltz-castle",
+          "url": "places/216-eltz-castle/"
+        },
+        {
+          "id": 102,
+          "name": "Pillig",
+          "slug": "102-pillig",
+          "url": "places/102-pillig/"
+        }
+      ],
+      "places_seen": 106,
+      "slug": "68-trip-to-germany",
+      "trips_taken": 70,
+      "url": "journal/68-trip-to-germany/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 19,
+      "date_label": "December 2017",
+      "id": 69,
+      "month": 12,
+      "month_name": "December",
+      "name": "Muiden with Thiago and girlfriend",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 106,
+      "slug": "69-muiden-with-thiago-and-girlfriend",
+      "trips_taken": 71,
+      "url": "journal/69-muiden-with-thiago-and-girlfriend/",
+      "year": 2017
+    },
+    {
+      "countries_seen": 19,
+      "date_label": "January 2018",
+      "id": 70,
+      "month": 1,
+      "month_name": "January",
+      "name": "Paris with Halanna",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 106,
+      "slug": "70-paris-with-halanna",
+      "trips_taken": 72,
+      "url": "journal/70-paris-with-halanna/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 19,
+      "date_label": "February 2018",
+      "id": 71,
+      "month": 2,
+      "month_name": "February",
+      "name": "Trip to eat a fish that was not fried!",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 106,
+      "slug": "71-trip-to-eat-a-fish-that-was-not-fried",
+      "trips_taken": 73,
+      "url": "journal/71-trip-to-eat-a-fish-that-was-not-fried/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 19,
+      "date_label": "February 2018",
+      "id": 72,
+      "month": 2,
+      "month_name": "February",
+      "name": "Zaanse Schans w/ Halanna",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 106,
+      "slug": "72-zaanse-schans-w-halanna",
+      "trips_taken": 74,
+      "url": "journal/72-zaanse-schans-w-halanna/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 19,
+      "date_label": "February 2018",
+      "id": 73,
+      "month": 2,
+      "month_name": "February",
+      "name": "Trip to Berlin",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 103,
+          "name": "Berlin",
+          "slug": "103-berlin",
+          "url": "places/103-berlin/"
+        }
+      ],
+      "places_seen": 107,
+      "slug": "73-trip-to-berlin",
+      "trips_taken": 75,
+      "url": "journal/73-trip-to-berlin/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 20,
+      "date_label": "March 2018",
+      "id": 74,
+      "month": 3,
+      "month_name": "March",
+      "name": "Trip to Athens",
+      "new_countries": [
+        {
+          "id": 20,
+          "name": "Greece",
+          "slug": "20-greece",
+          "url": "countries/20-greece/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 104,
+          "name": "Athens",
+          "slug": "104-athens",
+          "url": "places/104-athens/"
+        }
+      ],
+      "places_seen": 108,
+      "slug": "74-trip-to-athens",
+      "trips_taken": 76,
+      "url": "journal/74-trip-to-athens/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 20,
+      "date_label": "April 2018",
+      "id": 75,
+      "month": 4,
+      "month_name": "April",
+      "name": "Work trip to NY",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 108,
+      "slug": "75-work-trip-to-ny",
+      "trips_taken": 77,
+      "url": "journal/75-work-trip-to-ny/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 20,
+      "date_label": "May 2018",
+      "id": 76,
+      "month": 5,
+      "month_name": "May",
+      "name": "Trip to Cinque Terre",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 110,
+          "name": "Spezia",
+          "slug": "110-spezia",
+          "url": "places/110-spezia/"
+        },
+        {
+          "id": 111,
+          "name": "Vernazza",
+          "slug": "111-vernazza",
+          "url": "places/111-vernazza/"
+        },
+        {
+          "id": 108,
+          "name": "Monterosso al Mare",
+          "slug": "108-monterosso-al-mare",
+          "url": "places/108-monterosso-al-mare/"
+        },
+        {
+          "id": 109,
+          "name": "Riomaggiore",
+          "slug": "109-riomaggiore",
+          "url": "places/109-riomaggiore/"
+        },
+        {
+          "id": 107,
+          "name": "Manarola",
+          "slug": "107-manarola",
+          "url": "places/107-manarola/"
+        },
+        {
+          "id": 105,
+          "name": "Corniglia",
+          "slug": "105-corniglia",
+          "url": "places/105-corniglia/"
+        },
+        {
+          "id": 106,
+          "name": "Florence",
+          "slug": "106-florence",
+          "url": "places/106-florence/"
+        },
+        {
+          "id": 218,
+          "name": "San Gimignano",
+          "slug": "218-san-gimignano",
+          "url": "places/218-san-gimignano/"
+        }
+      ],
+      "places_seen": 116,
+      "slug": "76-trip-to-cinque-terre",
+      "trips_taken": 78,
+      "url": "journal/76-trip-to-cinque-terre/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 20,
+      "date_label": "July 2018",
+      "id": 77,
+      "month": 7,
+      "month_name": "July",
+      "name": "Trip to London",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 116,
+      "slug": "77-trip-to-london",
+      "trips_taken": 79,
+      "url": "journal/77-trip-to-london/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 20,
+      "date_label": "July 2018",
+      "id": 78,
+      "month": 7,
+      "month_name": "July",
+      "name": "Trip to Portland",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 112,
+          "name": "Portland",
+          "slug": "112-portland",
+          "url": "places/112-portland/"
+        }
+      ],
+      "places_seen": 117,
+      "slug": "78-trip-to-portland",
+      "trips_taken": 80,
+      "url": "journal/78-trip-to-portland/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 20,
+      "date_label": "August 2018",
+      "id": 79,
+      "month": 8,
+      "month_name": "August",
+      "name": "Visiting Haarlem city center",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 113,
+          "name": "Haarlem",
+          "slug": "113-haarlem",
+          "url": "places/113-haarlem/"
+        }
+      ],
+      "places_seen": 118,
+      "slug": "79-visiting-haarlem-city-center",
+      "trips_taken": 81,
+      "url": "journal/79-visiting-haarlem-city-center/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 20,
+      "date_label": "September 2018",
+      "id": 80,
+      "month": 9,
+      "month_name": "September",
+      "name": "Trip to Ibiza and Barcelona",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 114,
+          "name": "Barcelona",
+          "slug": "114-barcelona",
+          "url": "places/114-barcelona/"
+        },
+        {
+          "id": 115,
+          "name": "Ibiza",
+          "slug": "115-ibiza",
+          "url": "places/115-ibiza/"
+        }
+      ],
+      "places_seen": 120,
+      "slug": "80-trip-to-ibiza-and-barcelona",
+      "trips_taken": 82,
+      "url": "journal/80-trip-to-ibiza-and-barcelona/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 20,
+      "date_label": "September 2018",
+      "id": 81,
+      "month": 9,
+      "month_name": "September",
+      "name": "Day trip to Delft",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 116,
+          "name": "Delft",
+          "slug": "116-delft",
+          "url": "places/116-delft/"
+        }
+      ],
+      "places_seen": 121,
+      "slug": "81-day-trip-to-delft",
+      "trips_taken": 83,
+      "url": "journal/81-day-trip-to-delft/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 24,
+      "date_label": "November 2018",
+      "id": 82,
+      "month": 11,
+      "month_name": "November",
+      "name": "Trip to United States & Caribean",
+      "new_countries": [
+        {
+          "id": 23,
+          "name": "Jamaica",
+          "slug": "23-jamaica",
+          "url": "countries/23-jamaica/"
+        },
+        {
+          "id": 22,
+          "name": "Bahamas",
+          "slug": "22-bahamas",
+          "url": "countries/22-bahamas/"
+        },
+        {
+          "id": 24,
+          "name": "Cayman Islands",
+          "slug": "24-cayman-islands",
+          "url": "countries/24-cayman-islands/"
+        },
+        {
+          "id": 21,
+          "name": "Mexico",
+          "slug": "21-mexico",
+          "url": "countries/21-mexico/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 119,
+          "name": "Miami",
+          "slug": "119-miami",
+          "url": "places/119-miami/"
+        },
+        {
+          "id": 121,
+          "name": "Ocho Rios",
+          "slug": "121-ocho-rios",
+          "url": "places/121-ocho-rios/"
+        },
+        {
+          "id": 120,
+          "name": "Nassau",
+          "slug": "120-nassau",
+          "url": "places/120-nassau/"
+        },
+        {
+          "id": 123,
+          "name": "Cayman Islands",
+          "slug": "123-cayman-islands",
+          "url": "places/123-cayman-islands/"
+        },
+        {
+          "id": 117,
+          "name": "Cozumel",
+          "slug": "117-cozumel",
+          "url": "places/117-cozumel/"
+        },
+        {
+          "id": 118,
+          "name": "Everglades National Park",
+          "slug": "118-everglades-national-park",
+          "url": "places/118-everglades-national-park/"
+        },
+        {
+          "id": 122,
+          "name": "Orlando",
+          "slug": "122-orlando",
+          "url": "places/122-orlando/"
+        }
+      ],
+      "places_seen": 128,
+      "slug": "82-trip-to-united-states-caribean",
+      "trips_taken": 84,
+      "url": "journal/82-trip-to-united-states-caribean/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 24,
+      "date_label": "November 2018",
+      "id": 83,
+      "month": 11,
+      "month_name": "November",
+      "name": "De Haar Castle",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 124,
+          "name": "Utrecht",
+          "slug": "124-utrecht",
+          "url": "places/124-utrecht/"
+        }
+      ],
+      "places_seen": 129,
+      "slug": "83-de-haar-castle",
+      "trips_taken": 85,
+      "url": "journal/83-de-haar-castle/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 24,
+      "date_label": "December 2018",
+      "id": 84,
+      "month": 12,
+      "month_name": "December",
+      "name": "Lily Allen concert",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 129,
+      "slug": "84-lily-allen-concert",
+      "trips_taken": 86,
+      "url": "journal/84-lily-allen-concert/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "December 2018",
+      "id": 85,
+      "month": 12,
+      "month_name": "December",
+      "name": "Oslo city tour",
+      "new_countries": [
+        {
+          "id": 25,
+          "name": "Norway",
+          "slug": "25-norway",
+          "url": "countries/25-norway/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 125,
+          "name": "Oslo",
+          "slug": "125-oslo",
+          "url": "places/125-oslo/"
+        }
+      ],
+      "places_seen": 130,
+      "slug": "85-oslo-city-tour",
+      "trips_taken": 87,
+      "url": "journal/85-oslo-city-tour/",
+      "year": 2018
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "January 2019",
+      "id": 86,
+      "month": 1,
+      "month_name": "January",
+      "name": "Work trip to Belgrade",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 130,
+      "slug": "86-work-trip-to-belgrade",
+      "trips_taken": 88,
+      "url": "journal/86-work-trip-to-belgrade/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "March 2019",
+      "id": 87,
+      "month": 3,
+      "month_name": "March",
+      "name": "Part in Texel",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 126,
+          "name": "Texel",
+          "slug": "126-texel",
+          "url": "places/126-texel/"
+        }
+      ],
+      "places_seen": 131,
+      "slug": "87-part-in-texel",
+      "trips_taken": 89,
+      "url": "journal/87-part-in-texel/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "March 2019",
+      "id": 88,
+      "month": 3,
+      "month_name": "March",
+      "name": "Work trip to Portland",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 131,
+      "slug": "88-work-trip-to-portland",
+      "trips_taken": 90,
+      "url": "journal/88-work-trip-to-portland/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "April 2019",
+      "id": 89,
+      "month": 4,
+      "month_name": "April",
+      "name": "Bike ride to Muidenberg",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 127,
+          "name": "Muiderberg",
+          "slug": "127-muiderberg",
+          "url": "places/127-muiderberg/"
+        }
+      ],
+      "places_seen": 132,
+      "slug": "89-bike-ride-to-muidenberg",
+      "trips_taken": 91,
+      "url": "journal/89-bike-ride-to-muidenberg/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "April 2019",
+      "id": 90,
+      "month": 4,
+      "month_name": "April",
+      "name": "Trip to Bruges and Paris",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 128,
+          "name": "Ghent",
+          "slug": "128-ghent",
+          "url": "places/128-ghent/"
+        }
+      ],
+      "places_seen": 133,
+      "slug": "90-trip-to-bruges-and-paris",
+      "trips_taken": 92,
+      "url": "journal/90-trip-to-bruges-and-paris/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "May 2019",
+      "id": 91,
+      "month": 5,
+      "month_name": "May",
+      "name": "Family to Giethoorn",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 133,
+      "slug": "91-family-to-giethoorn",
+      "trips_taken": 93,
+      "url": "journal/91-family-to-giethoorn/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "May 2019",
+      "id": 92,
+      "month": 5,
+      "month_name": "May",
+      "name": "Full car to keukenhof!",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 133,
+      "slug": "92-full-car-to-keukenhof",
+      "trips_taken": 94,
+      "url": "journal/92-full-car-to-keukenhof/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "May 2019",
+      "id": 93,
+      "month": 5,
+      "month_name": "May",
+      "name": "Trip to Muiden + Volendam",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 133,
+      "slug": "93-trip-to-muiden-volendam",
+      "trips_taken": 95,
+      "url": "journal/93-trip-to-muiden-volendam/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 25,
+      "date_label": "June 2019",
+      "id": 94,
+      "month": 6,
+      "month_name": "June",
+      "name": "Work trip to the Portland Office",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 133,
+      "slug": "94-work-trip-to-the-portland-office",
+      "trips_taken": 96,
+      "url": "journal/94-work-trip-to-the-portland-office/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "June 2019",
+      "id": 95,
+      "month": 6,
+      "month_name": "June",
+      "name": "Road trip in the land of ice and fire",
+      "new_countries": [
+        {
+          "id": 26,
+          "name": "Iceland",
+          "slug": "26-iceland",
+          "url": "countries/26-iceland/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 129,
+          "name": "Reykjavík",
+          "slug": "129-reykjavik",
+          "url": "places/129-reykjavik/"
+        },
+        {
+          "id": 130,
+          "name": "Thingvellir",
+          "slug": "130-thingvellir",
+          "url": "places/130-thingvellir/"
+        }
+      ],
+      "places_seen": 135,
+      "slug": "95-road-trip-in-the-land-of-ice-and-fire",
+      "trips_taken": 97,
+      "url": "journal/95-road-trip-in-the-land-of-ice-and-fire/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "July 2019",
+      "id": 96,
+      "month": 7,
+      "month_name": "July",
+      "name": "White Lies Concert",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 135,
+      "slug": "96-white-lies-concert",
+      "trips_taken": 98,
+      "url": "journal/96-white-lies-concert/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "August 2019",
+      "id": 97,
+      "month": 8,
+      "month_name": "August",
+      "name": "Clojure conference in Belgium",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 131,
+          "name": "Leuven",
+          "slug": "131-leuven",
+          "url": "places/131-leuven/"
+        }
+      ],
+      "places_seen": 136,
+      "slug": "97-clojure-conference-in-belgium",
+      "trips_taken": 99,
+      "url": "journal/97-clojure-conference-in-belgium/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "August 2019",
+      "id": 98,
+      "month": 8,
+      "month_name": "August",
+      "name": "Buckingham palace",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 136,
+      "slug": "98-buckingham-palace",
+      "trips_taken": 100,
+      "url": "journal/98-buckingham-palace/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "August 2019",
+      "id": 99,
+      "month": 8,
+      "month_name": "August",
+      "name": "House warming VC and AC!",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 132,
+          "name": "Sassenheim",
+          "slug": "132-sassenheim",
+          "url": "places/132-sassenheim/"
+        }
+      ],
+      "places_seen": 137,
+      "slug": "99-house-warming-vc-and-ac",
+      "trips_taken": 101,
+      "url": "journal/99-house-warming-vc-and-ac/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "August 2019",
+      "id": 100,
+      "month": 8,
+      "month_name": "August",
+      "name": "Bike ride",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 133,
+          "name": "Broek in Waterland",
+          "slug": "133-broek-in-waterland",
+          "url": "places/133-broek-in-waterland/"
+        }
+      ],
+      "places_seen": 138,
+      "slug": "100-bike-ride",
+      "trips_taken": 102,
+      "url": "journal/100-bike-ride/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "September 2019",
+      "id": 101,
+      "month": 9,
+      "month_name": "September",
+      "name": "Trip to Utrecht",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 138,
+      "slug": "101-trip-to-utrecht",
+      "trips_taken": 103,
+      "url": "journal/101-trip-to-utrecht/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "September 2019",
+      "id": 102,
+      "month": 9,
+      "month_name": "September",
+      "name": "Bike ride to Muiden",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 138,
+      "slug": "102-bike-ride-to-muiden",
+      "trips_taken": 104,
+      "url": "journal/102-bike-ride-to-muiden/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "September 2019",
+      "id": 103,
+      "month": 9,
+      "month_name": "September",
+      "name": "Dam Tot Dam 2019",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 134,
+          "name": "Monnickendam",
+          "slug": "134-monnickendam",
+          "url": "places/134-monnickendam/"
+        },
+        {
+          "id": 135,
+          "name": "Het Twiske",
+          "slug": "135-het-twiske",
+          "url": "places/135-het-twiske/"
+        }
+      ],
+      "places_seen": 140,
+      "slug": "103-dam-tot-dam-2019",
+      "trips_taken": 105,
+      "url": "journal/103-dam-tot-dam-2019/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "November 2019",
+      "id": 104,
+      "month": 11,
+      "month_name": "November",
+      "name": "Work trip to new york",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 140,
+      "slug": "104-work-trip-to-new-york",
+      "trips_taken": 106,
+      "url": "journal/104-work-trip-to-new-york/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "November 2019",
+      "id": 105,
+      "month": 11,
+      "month_name": "November",
+      "name": "Trip to Rome and Amalfi",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 136,
+          "name": "Amalfi",
+          "slug": "136-amalfi",
+          "url": "places/136-amalfi/"
+        },
+        {
+          "id": 137,
+          "name": "Anacapri",
+          "slug": "137-anacapri",
+          "url": "places/137-anacapri/"
+        },
+        {
+          "id": 138,
+          "name": "Capri",
+          "slug": "138-capri",
+          "url": "places/138-capri/"
+        },
+        {
+          "id": 139,
+          "name": "Maiori",
+          "slug": "139-maiori",
+          "url": "places/139-maiori/"
+        },
+        {
+          "id": 140,
+          "name": "Minori",
+          "slug": "140-minori",
+          "url": "places/140-minori/"
+        },
+        {
+          "id": 141,
+          "name": "Positano",
+          "slug": "141-positano",
+          "url": "places/141-positano/"
+        },
+        {
+          "id": 142,
+          "name": "Praiano",
+          "slug": "142-praiano",
+          "url": "places/142-praiano/"
+        },
+        {
+          "id": 143,
+          "name": "Ravello",
+          "slug": "143-ravello",
+          "url": "places/143-ravello/"
+        },
+        {
+          "id": 144,
+          "name": "Sorrento",
+          "slug": "144-sorrento",
+          "url": "places/144-sorrento/"
+        }
+      ],
+      "places_seen": 149,
+      "slug": "105-trip-to-rome-and-amalfi",
+      "trips_taken": 107,
+      "url": "journal/105-trip-to-rome-and-amalfi/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "December 2019",
+      "id": 106,
+      "month": 12,
+      "month_name": "December",
+      "name": "Friends visit",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 149,
+      "slug": "106-friends-visit",
+      "trips_taken": 108,
+      "url": "journal/106-friends-visit/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "December 2019",
+      "id": 107,
+      "month": 12,
+      "month_name": "December",
+      "name": "Party in Sassenhein",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 149,
+      "slug": "107-party-in-sassenhein",
+      "trips_taken": 109,
+      "url": "journal/107-party-in-sassenhein/",
+      "year": 2019
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "March 2020",
+      "id": 108,
+      "month": 3,
+      "month_name": "March",
+      "name": "Race in The Hague",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 145,
+          "name": "The Hague",
+          "slug": "145-the-hague",
+          "url": "places/145-the-hague/"
+        }
+      ],
+      "places_seen": 150,
+      "slug": "108-race-in-the-hague",
+      "trips_taken": 110,
+      "url": "journal/108-race-in-the-hague/",
+      "year": 2020
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "June 2020",
+      "id": 110,
+      "month": 6,
+      "month_name": "June",
+      "name": "Birthday party in Sassenhein",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 150,
+      "slug": "110-birthday-party-in-sassenhein",
+      "trips_taken": 111,
+      "url": "journal/110-birthday-party-in-sassenhein/",
+      "year": 2020
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "July 2020",
+      "id": 109,
+      "month": 7,
+      "month_name": "July",
+      "name": "Trip to Northen France",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 147,
+          "name": "Charleville-Mezieres",
+          "slug": "147-charleville-mezieres",
+          "url": "places/147-charleville-mezieres/"
+        },
+        {
+          "id": 148,
+          "name": "Sedan",
+          "slug": "148-sedan",
+          "url": "places/148-sedan/"
+        },
+        {
+          "id": 146,
+          "name": "Bouillon",
+          "slug": "146-bouillon",
+          "url": "places/146-bouillon/"
+        }
+      ],
+      "places_seen": 153,
+      "slug": "109-trip-to-northen-france",
+      "trips_taken": 112,
+      "url": "journal/109-trip-to-northen-france/",
+      "year": 2020
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "August 2020",
+      "id": 111,
+      "month": 8,
+      "month_name": "August",
+      "name": "Trip to Zandvoort",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 149,
+          "name": "Zandvoort",
+          "slug": "149-zandvoort",
+          "url": "places/149-zandvoort/"
+        }
+      ],
+      "places_seen": 154,
+      "slug": "111-trip-to-zandvoort",
+      "trips_taken": 113,
+      "url": "journal/111-trip-to-zandvoort/",
+      "year": 2020
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "September 2020",
+      "id": 112,
+      "month": 9,
+      "month_name": "September",
+      "name": "Naarden, the star castle",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 150,
+          "name": "Naarden",
+          "slug": "150-naarden",
+          "url": "places/150-naarden/"
+        }
+      ],
+      "places_seen": 155,
+      "slug": "112-naarden-the-star-castle",
+      "trips_taken": 114,
+      "url": "journal/112-naarden-the-star-castle/",
+      "year": 2020
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "December 2020",
+      "id": 113,
+      "month": 12,
+      "month_name": "December",
+      "name": "Giethoorn with visiting friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 155,
+      "slug": "113-giethoorn-with-visiting-friends",
+      "trips_taken": 115,
+      "url": "journal/113-giethoorn-with-visiting-friends/",
+      "year": 2020
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "January 2021",
+      "id": 114,
+      "month": 1,
+      "month_name": "January",
+      "name": "Trip to Zandvoort",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 155,
+      "slug": "114-trip-to-zandvoort",
+      "trips_taken": 116,
+      "url": "journal/114-trip-to-zandvoort/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "January 2021",
+      "id": 115,
+      "month": 1,
+      "month_name": "January",
+      "name": "Visiting Weesp",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 151,
+          "name": "Weesp",
+          "slug": "151-weesp",
+          "url": "places/151-weesp/"
+        }
+      ],
+      "places_seen": 156,
+      "slug": "115-visiting-weesp",
+      "trips_taken": 117,
+      "url": "journal/115-visiting-weesp/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "February 2021",
+      "id": 116,
+      "month": 2,
+      "month_name": "February",
+      "name": "Trip to Zaanse Schaans",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 156,
+      "slug": "116-trip-to-zaanse-schaans",
+      "trips_taken": 118,
+      "url": "journal/116-trip-to-zaanse-schaans/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "March 2021",
+      "id": 117,
+      "month": 3,
+      "month_name": "March",
+      "name": "Trip to Voorthuizen",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 152,
+          "name": "Voorthuizen",
+          "slug": "152-voorthuizen",
+          "url": "places/152-voorthuizen/"
+        }
+      ],
+      "places_seen": 157,
+      "slug": "117-trip-to-voorthuizen",
+      "trips_taken": 119,
+      "url": "journal/117-trip-to-voorthuizen/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "April 2021",
+      "id": 118,
+      "month": 4,
+      "month_name": "April",
+      "name": "Trip to Bloemendaal",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 153,
+          "name": "Bloemendaal",
+          "slug": "153-bloemendaal",
+          "url": "places/153-bloemendaal/"
+        },
+        {
+          "id": 219,
+          "name": "Zuid-Kennemerland",
+          "slug": "219-zuid-kennemerland",
+          "url": "places/219-zuid-kennemerland/"
+        }
+      ],
+      "places_seen": 159,
+      "slug": "118-trip-to-bloemendaal",
+      "trips_taken": 120,
+      "url": "journal/118-trip-to-bloemendaal/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "May 2021",
+      "id": 119,
+      "month": 5,
+      "month_name": "May",
+      "name": "Trip to Clothes Outlet in Lelystad",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 154,
+          "name": "Lelystad",
+          "slug": "154-lelystad",
+          "url": "places/154-lelystad/"
+        }
+      ],
+      "places_seen": 160,
+      "slug": "119-trip-to-clothes-outlet-in-lelystad",
+      "trips_taken": 121,
+      "url": "journal/119-trip-to-clothes-outlet-in-lelystad/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "May 2021",
+      "id": 120,
+      "month": 5,
+      "month_name": "May",
+      "name": "Dunes w/ fox + Beach",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 160,
+      "slug": "120-dunes-w-fox-beach",
+      "trips_taken": 122,
+      "url": "journal/120-dunes-w-fox-beach/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "May 2021",
+      "id": 173,
+      "month": 5,
+      "month_name": "May",
+      "name": "Discovering Baarn",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 220,
+          "name": "Baarn",
+          "slug": "220-baarn",
+          "url": "places/220-baarn/"
+        }
+      ],
+      "places_seen": 161,
+      "slug": "173-discovering-baarn",
+      "trips_taken": 123,
+      "url": "journal/173-discovering-baarn/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "May 2021",
+      "id": 121,
+      "month": 5,
+      "month_name": "May",
+      "name": "More dunes!",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 161,
+      "slug": "121-more-dunes",
+      "trips_taken": 124,
+      "url": "journal/121-more-dunes/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "June 2021",
+      "id": 122,
+      "month": 6,
+      "month_name": "June",
+      "name": "Sunset during pandemic",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 161,
+      "slug": "122-sunset-during-pandemic",
+      "trips_taken": 125,
+      "url": "journal/122-sunset-during-pandemic/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "June 2021",
+      "id": 123,
+      "month": 6,
+      "month_name": "June",
+      "name": "Swimming in Zuid Kennermeland",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 161,
+      "slug": "123-swimming-in-zuid-kennermeland",
+      "trips_taken": 126,
+      "url": "journal/123-swimming-in-zuid-kennermeland/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "July 2021",
+      "id": 124,
+      "month": 7,
+      "month_name": "July",
+      "name": "Swimming at the green lake ",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 169,
+          "name": "Henschotermeer",
+          "slug": "169-henschotermeer",
+          "url": "places/169-henschotermeer/"
+        }
+      ],
+      "places_seen": 162,
+      "slug": "124-swimming-at-the-green-lake",
+      "trips_taken": 127,
+      "url": "journal/124-swimming-at-the-green-lake/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "August 2021",
+      "id": 126,
+      "month": 8,
+      "month_name": "August",
+      "name": "Trip to Bloemendaal",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 162,
+      "slug": "126-trip-to-bloemendaal",
+      "trips_taken": 128,
+      "url": "journal/126-trip-to-bloemendaal/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "August 2021",
+      "id": 125,
+      "month": 8,
+      "month_name": "August",
+      "name": "Trip to South of France",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 156,
+          "name": "Aix-en-Provence",
+          "slug": "156-aix-en-provence",
+          "url": "places/156-aix-en-provence/"
+        },
+        {
+          "id": 157,
+          "name": "Auxerre",
+          "slug": "157-auxerre",
+          "url": "places/157-auxerre/"
+        },
+        {
+          "id": 158,
+          "name": "Avignon",
+          "slug": "158-avignon",
+          "url": "places/158-avignon/"
+        },
+        {
+          "id": 159,
+          "name": "Les Baux-de-Provence",
+          "slug": "159-les-baux-de-provence",
+          "url": "places/159-les-baux-de-provence/"
+        },
+        {
+          "id": 160,
+          "name": "Cadenet",
+          "slug": "160-cadenet",
+          "url": "places/160-cadenet/"
+        },
+        {
+          "id": 161,
+          "name": "Châteauneuf-en-Auxois",
+          "slug": "161-chateauneuf-en-auxois",
+          "url": "places/161-chateauneuf-en-auxois/"
+        },
+        {
+          "id": 162,
+          "name": "Marseille",
+          "slug": "162-marseille",
+          "url": "places/162-marseille/"
+        },
+        {
+          "id": 163,
+          "name": "Rognes",
+          "slug": "163-rognes",
+          "url": "places/163-rognes/"
+        },
+        {
+          "id": 164,
+          "name": "Saint-Rémy-de-Provence",
+          "slug": "164-saint-remy-de-provence",
+          "url": "places/164-saint-remy-de-provence/"
+        }
+      ],
+      "places_seen": 171,
+      "slug": "125-trip-to-south-of-france",
+      "trips_taken": 129,
+      "url": "journal/125-trip-to-south-of-france/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "October 2021",
+      "id": 127,
+      "month": 10,
+      "month_name": "October",
+      "name": "Trip to Brazil",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 165,
+          "name": "Vila Velha",
+          "slug": "165-vila-velha",
+          "url": "places/165-vila-velha/"
+        }
+      ],
+      "places_seen": 172,
+      "slug": "127-trip-to-brazil",
+      "trips_taken": 130,
+      "url": "journal/127-trip-to-brazil/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "November 2021",
+      "id": 128,
+      "month": 11,
+      "month_name": "November",
+      "name": "Trip to Veluwe",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 166,
+          "name": "Veluwe national park",
+          "slug": "166-veluwe-national-park",
+          "url": "places/166-veluwe-national-park/"
+        }
+      ],
+      "places_seen": 173,
+      "slug": "128-trip-to-veluwe",
+      "trips_taken": 131,
+      "url": "journal/128-trip-to-veluwe/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "December 2021",
+      "id": 174,
+      "month": 12,
+      "month_name": "December",
+      "name": "Dune + Matrix",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 221,
+          "name": "Rotterdam",
+          "slug": "221-rotterdam",
+          "url": "places/221-rotterdam/"
+        },
+        {
+          "id": 222,
+          "name": "Antwerp",
+          "slug": "222-antwerp",
+          "url": "places/222-antwerp/"
+        }
+      ],
+      "places_seen": 175,
+      "slug": "174-dune-matrix",
+      "trips_taken": 132,
+      "url": "journal/174-dune-matrix/",
+      "year": 2021
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "March 2022",
+      "id": 129,
+      "month": 3,
+      "month_name": "March",
+      "name": "Trip to Bloemendaal",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 175,
+      "slug": "129-trip-to-bloemendaal",
+      "trips_taken": 133,
+      "url": "journal/129-trip-to-bloemendaal/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "March 2022",
+      "id": 130,
+      "month": 3,
+      "month_name": "March",
+      "name": "Trip to Keukenhof",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 175,
+      "slug": "130-trip-to-keukenhof",
+      "trips_taken": 134,
+      "url": "journal/130-trip-to-keukenhof/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 26,
+      "date_label": "April 2022",
+      "id": 131,
+      "month": 4,
+      "month_name": "April",
+      "name": "Tulip hunting",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 167,
+          "name": "Emmeloord",
+          "slug": "167-emmeloord",
+          "url": "places/167-emmeloord/"
+        }
+      ],
+      "places_seen": 176,
+      "slug": "131-tulip-hunting",
+      "trips_taken": 135,
+      "url": "journal/131-tulip-hunting/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "April 2022",
+      "id": 132,
+      "month": 4,
+      "month_name": "April",
+      "name": "Sun, sea, and stars",
+      "new_countries": [
+        {
+          "id": 27,
+          "name": "Maldives",
+          "slug": "27-maldives",
+          "url": "countries/27-maldives/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 170,
+          "name": "Makunufushi South Malé Atoll",
+          "slug": "170-makunufushi-south-male-atoll",
+          "url": "places/170-makunufushi-south-male-atoll/"
+        }
+      ],
+      "places_seen": 177,
+      "slug": "132-sun-sea-and-stars",
+      "trips_taken": 136,
+      "url": "journal/132-sun-sea-and-stars/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "June 2022",
+      "id": 133,
+      "month": 6,
+      "month_name": "June",
+      "name": "Visiting Amersfoort",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 171,
+          "name": "Amersfoort",
+          "slug": "171-amersfoort",
+          "url": "places/171-amersfoort/"
+        }
+      ],
+      "places_seen": 178,
+      "slug": "133-visiting-amersfoort",
+      "trips_taken": 137,
+      "url": "journal/133-visiting-amersfoort/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "June 2022",
+      "id": 134,
+      "month": 6,
+      "month_name": "June",
+      "name": "Red Hot Chili Pepper Nijmegen",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 172,
+          "name": "Nijmegen",
+          "slug": "172-nijmegen",
+          "url": "places/172-nijmegen/"
+        }
+      ],
+      "places_seen": 179,
+      "slug": "134-red-hot-chili-pepper-nijmegen",
+      "trips_taken": 138,
+      "url": "journal/134-red-hot-chili-pepper-nijmegen/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "July 2022",
+      "id": 135,
+      "month": 7,
+      "month_name": "July",
+      "name": "Beautiful Scotland",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 173,
+          "name": "Cairngorms National Park",
+          "slug": "173-cairngorms-national-park",
+          "url": "places/173-cairngorms-national-park/"
+        },
+        {
+          "id": 174,
+          "name": "Rogie Falls",
+          "slug": "174-rogie-falls",
+          "url": "places/174-rogie-falls/"
+        },
+        {
+          "id": 175,
+          "name": "Ulapool",
+          "slug": "175-ulapool",
+          "url": "places/175-ulapool/"
+        },
+        {
+          "id": 176,
+          "name": "Achmelvich beach",
+          "slug": "176-achmelvich-beach",
+          "url": "places/176-achmelvich-beach/"
+        },
+        {
+          "id": 177,
+          "name": "Fairy Pools",
+          "slug": "177-fairy-pools",
+          "url": "places/177-fairy-pools/"
+        },
+        {
+          "id": 178,
+          "name": "Old Man of Storr",
+          "slug": "178-old-man-of-storr",
+          "url": "places/178-old-man-of-storr/"
+        },
+        {
+          "id": 179,
+          "name": "Quiraing",
+          "slug": "179-quiraing",
+          "url": "places/179-quiraing/"
+        },
+        {
+          "id": 180,
+          "name": "Glenfinnan",
+          "slug": "180-glenfinnan",
+          "url": "places/180-glenfinnan/"
+        },
+        {
+          "id": 181,
+          "name": "Oban",
+          "slug": "181-oban",
+          "url": "places/181-oban/"
+        },
+        {
+          "id": 182,
+          "name": "Stirling",
+          "slug": "182-stirling",
+          "url": "places/182-stirling/"
+        }
+      ],
+      "places_seen": 189,
+      "slug": "135-beautiful-scotland",
+      "trips_taken": 139,
+      "url": "journal/135-beautiful-scotland/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "August 2022",
+      "id": 136,
+      "month": 8,
+      "month_name": "August",
+      "name": "Noordwijk aan zee",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 183,
+          "name": "Noordwijk aan zee",
+          "slug": "183-noordwijk-aan-zee",
+          "url": "places/183-noordwijk-aan-zee/"
+        }
+      ],
+      "places_seen": 190,
+      "slug": "136-noordwijk-aan-zee",
+      "trips_taken": 140,
+      "url": "journal/136-noordwijk-aan-zee/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "August 2022",
+      "id": 137,
+      "month": 8,
+      "month_name": "August",
+      "name": "Agnolottini",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 190,
+      "slug": "137-agnolottini",
+      "trips_taken": 141,
+      "url": "journal/137-agnolottini/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "September 2022",
+      "id": 138,
+      "month": 9,
+      "month_name": "September",
+      "name": "Helicopter ride",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 184,
+          "name": "Hilversum",
+          "slug": "184-hilversum",
+          "url": "places/184-hilversum/"
+        }
+      ],
+      "places_seen": 191,
+      "slug": "138-helicopter-ride",
+      "trips_taken": 142,
+      "url": "journal/138-helicopter-ride/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "September 2022",
+      "id": 140,
+      "month": 9,
+      "month_name": "September",
+      "name": "Dam tot dam 2022",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 185,
+          "name": "Twiske Waterland",
+          "slug": "185-twiske-waterland",
+          "url": "places/185-twiske-waterland/"
+        }
+      ],
+      "places_seen": 192,
+      "slug": "140-dam-tot-dam-2022",
+      "trips_taken": 143,
+      "url": "journal/140-dam-tot-dam-2022/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "October 2022",
+      "id": 141,
+      "month": 10,
+      "month_name": "October",
+      "name": "Spiel des jahres",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 186,
+          "name": "Essen",
+          "slug": "186-essen",
+          "url": "places/186-essen/"
+        }
+      ],
+      "places_seen": 193,
+      "slug": "141-spiel-des-jahres",
+      "trips_taken": 144,
+      "url": "journal/141-spiel-des-jahres/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "October 2022",
+      "id": 142,
+      "month": 10,
+      "month_name": "October",
+      "name": "Family visit in Brazil",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 187,
+          "name": "Tapes",
+          "slug": "187-tapes",
+          "url": "places/187-tapes/"
+        }
+      ],
+      "places_seen": 194,
+      "slug": "142-family-visit-in-brazil",
+      "trips_taken": 145,
+      "url": "journal/142-family-visit-in-brazil/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "November 2022",
+      "id": 143,
+      "month": 11,
+      "month_name": "November",
+      "name": "Kasteel de Haar",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 188,
+          "name": "De Haar Castle",
+          "slug": "188-de-haar-castle",
+          "url": "places/188-de-haar-castle/"
+        }
+      ],
+      "places_seen": 195,
+      "slug": "143-kasteel-de-haar",
+      "trips_taken": 146,
+      "url": "journal/143-kasteel-de-haar/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "November 2022",
+      "id": 146,
+      "month": 11,
+      "month_name": "November",
+      "name": "Xmas Market in Haar Castle",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 195,
+      "slug": "146-xmas-market-in-haar-castle",
+      "trips_taken": 147,
+      "url": "journal/146-xmas-market-in-haar-castle/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "December 2022",
+      "id": 148,
+      "month": 12,
+      "month_name": "December",
+      "name": "De Bilt US consulate",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 189,
+          "name": "De Bilt",
+          "slug": "189-de-bilt",
+          "url": "places/189-de-bilt/"
+        }
+      ],
+      "places_seen": 196,
+      "slug": "148-de-bilt-us-consulate",
+      "trips_taken": 148,
+      "url": "journal/148-de-bilt-us-consulate/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "December 2022",
+      "id": 149,
+      "month": 12,
+      "month_name": "December",
+      "name": "Heemskerk ski lessons",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 190,
+          "name": "Heemskerk",
+          "slug": "190-heemskerk",
+          "url": "places/190-heemskerk/"
+        }
+      ],
+      "places_seen": 197,
+      "slug": "149-heemskerk-ski-lessons",
+      "trips_taken": 149,
+      "url": "journal/149-heemskerk-ski-lessons/",
+      "year": 2022
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "January 2023",
+      "id": 150,
+      "month": 1,
+      "month_name": "January",
+      "name": "Heemskerk lesson",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 197,
+      "slug": "150-heemskerk-lesson",
+      "trips_taken": 150,
+      "url": "journal/150-heemskerk-lesson/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "January 2023",
+      "id": 151,
+      "month": 1,
+      "month_name": "January",
+      "name": "Northen lights from Fjordgarden",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 191,
+          "name": "Fjordgård",
+          "slug": "191-fjordgard",
+          "url": "places/191-fjordgard/"
+        },
+        {
+          "id": 192,
+          "name": "Tromso",
+          "slug": "192-tromso",
+          "url": "places/192-tromso/"
+        }
+      ],
+      "places_seen": 199,
+      "slug": "151-northen-lights-from-fjordgarden",
+      "trips_taken": 151,
+      "url": "journal/151-northen-lights-from-fjordgarden/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "January 2023",
+      "id": 152,
+      "month": 1,
+      "month_name": "January",
+      "name": "Snowworld",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 193,
+          "name": "Velsen",
+          "slug": "193-velsen",
+          "url": "places/193-velsen/"
+        }
+      ],
+      "places_seen": 200,
+      "slug": "152-snowworld",
+      "trips_taken": 152,
+      "url": "journal/152-snowworld/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "February 2023",
+      "id": 153,
+      "month": 2,
+      "month_name": "February",
+      "name": "Heemskerk lesson",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 200,
+      "slug": "153-heemskerk-lesson",
+      "trips_taken": 153,
+      "url": "journal/153-heemskerk-lesson/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "February 2023",
+      "id": 154,
+      "month": 2,
+      "month_name": "February",
+      "name": "First ski trip!",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 194,
+          "name": "Sauze d'Oulx",
+          "slug": "194-sauze-d-oulx",
+          "url": "places/194-sauze-d-oulx/"
+        },
+        {
+          "id": 195,
+          "name": "Turin",
+          "slug": "195-turin",
+          "url": "places/195-turin/"
+        }
+      ],
+      "places_seen": 202,
+      "slug": "154-first-ski-trip",
+      "trips_taken": 154,
+      "url": "journal/154-first-ski-trip/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "February 2023",
+      "id": 155,
+      "month": 2,
+      "month_name": "February",
+      "name": "Day trip in Marken",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 202,
+      "slug": "155-day-trip-in-marken",
+      "trips_taken": 155,
+      "url": "journal/155-day-trip-in-marken/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "March 2023",
+      "id": 156,
+      "month": 3,
+      "month_name": "March",
+      "name": "Lake Como",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 196,
+          "name": "Como",
+          "slug": "196-como",
+          "url": "places/196-como/"
+        },
+        {
+          "id": 197,
+          "name": "Belaggio",
+          "slug": "197-belaggio",
+          "url": "places/197-belaggio/"
+        },
+        {
+          "id": 198,
+          "name": "Lecco",
+          "slug": "198-lecco",
+          "url": "places/198-lecco/"
+        },
+        {
+          "id": 199,
+          "name": "Varenna",
+          "slug": "199-varenna",
+          "url": "places/199-varenna/"
+        },
+        {
+          "id": 200,
+          "name": "Tremezzo",
+          "slug": "200-tremezzo",
+          "url": "places/200-tremezzo/"
+        },
+        {
+          "id": 201,
+          "name": "Cadenabbia",
+          "slug": "201-cadenabbia",
+          "url": "places/201-cadenabbia/"
+        },
+        {
+          "id": 202,
+          "name": "Menaggio",
+          "slug": "202-menaggio",
+          "url": "places/202-menaggio/"
+        }
+      ],
+      "places_seen": 209,
+      "slug": "156-lake-como",
+      "trips_taken": 156,
+      "url": "journal/156-lake-como/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "April 2023",
+      "id": 157,
+      "month": 4,
+      "month_name": "April",
+      "name": "Trip to Almere",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 203,
+          "name": "Almere",
+          "slug": "203-almere",
+          "url": "places/203-almere/"
+        }
+      ],
+      "places_seen": 210,
+      "slug": "157-trip-to-almere",
+      "trips_taken": 157,
+      "url": "journal/157-trip-to-almere/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "April 2023",
+      "id": 158,
+      "month": 4,
+      "month_name": "April",
+      "name": "Lelystad, again!",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 210,
+      "slug": "158-lelystad-again",
+      "trips_taken": 158,
+      "url": "journal/158-lelystad-again/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 27,
+      "date_label": "April 2023",
+      "id": 159,
+      "month": 4,
+      "month_name": "April",
+      "name": "Start yachting weekend",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 204,
+          "name": "Medemblik",
+          "slug": "204-medemblik",
+          "url": "places/204-medemblik/"
+        },
+        {
+          "id": 205,
+          "name": "Den Oever",
+          "slug": "205-den-oever",
+          "url": "places/205-den-oever/"
+        }
+      ],
+      "places_seen": 212,
+      "slug": "159-start-yachting-weekend",
+      "trips_taken": 159,
+      "url": "journal/159-start-yachting-weekend/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 28,
+      "date_label": "April 2023",
+      "id": 160,
+      "month": 4,
+      "month_name": "April",
+      "name": "Work @ Copenhagen",
+      "new_countries": [
+        {
+          "id": 67,
+          "name": "Denmark",
+          "slug": "67-denmark",
+          "url": "countries/67-denmark/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 206,
+          "name": "Copenhagen",
+          "slug": "206-copenhagen",
+          "url": "places/206-copenhagen/"
+        },
+        {
+          "id": 207,
+          "name": "Ny Carlsberg Glyptotek",
+          "slug": "207-ny-carlsberg-glyptotek",
+          "url": "places/207-ny-carlsberg-glyptotek/"
+        },
+        {
+          "id": 208,
+          "name": "Tivoli",
+          "slug": "208-tivoli",
+          "url": "places/208-tivoli/"
+        },
+        {
+          "id": 209,
+          "name": "Rosenborg Castle",
+          "slug": "209-rosenborg-castle",
+          "url": "places/209-rosenborg-castle/"
+        }
+      ],
+      "places_seen": 216,
+      "slug": "160-work-copenhagen",
+      "trips_taken": 160,
+      "url": "journal/160-work-copenhagen/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 28,
+      "date_label": "May 2023",
+      "id": 161,
+      "month": 5,
+      "month_name": "May",
+      "name": "BBQ with friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 216,
+      "slug": "161-bbq-with-friends",
+      "trips_taken": 161,
+      "url": "journal/161-bbq-with-friends/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "June 2023",
+      "id": 162,
+      "month": 6,
+      "month_name": "June",
+      "name": "Freediving trip",
+      "new_countries": [
+        {
+          "id": 62,
+          "name": "Croatia",
+          "slug": "62-croatia",
+          "url": "countries/62-croatia/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 210,
+          "name": "Zagreb",
+          "slug": "210-zagreb",
+          "url": "places/210-zagreb/"
+        },
+        {
+          "id": 211,
+          "name": "Cres",
+          "slug": "211-cres",
+          "url": "places/211-cres/"
+        }
+      ],
+      "places_seen": 218,
+      "slug": "162-freediving-trip",
+      "trips_taken": 162,
+      "url": "journal/162-freediving-trip/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "July 2023",
+      "id": 163,
+      "month": 7,
+      "month_name": "July",
+      "name": "Sailing lesson",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 218,
+      "slug": "163-sailing-lesson",
+      "trips_taken": 163,
+      "url": "journal/163-sailing-lesson/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "August 2023",
+      "id": 164,
+      "month": 8,
+      "month_name": "August",
+      "name": "Sailing lesson",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 218,
+      "slug": "164-sailing-lesson",
+      "trips_taken": 164,
+      "url": "journal/164-sailing-lesson/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "September 2023",
+      "id": 165,
+      "month": 9,
+      "month_name": "September",
+      "name": "Day at dutch beach",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 218,
+      "slug": "165-day-at-dutch-beach",
+      "trips_taken": 165,
+      "url": "journal/165-day-at-dutch-beach/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "September 2023",
+      "id": 166,
+      "month": 9,
+      "month_name": "September",
+      "name": "8-mile race",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 218,
+      "slug": "166-8-mile-race",
+      "trips_taken": 166,
+      "url": "journal/166-8-mile-race/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "October 2023",
+      "id": 167,
+      "month": 10,
+      "month_name": "October",
+      "name": "Valk to Pampus",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 212,
+          "name": "Pampus",
+          "slug": "212-pampus",
+          "url": "places/212-pampus/"
+        }
+      ],
+      "places_seen": 219,
+      "slug": "167-valk-to-pampus",
+      "trips_taken": 167,
+      "url": "journal/167-valk-to-pampus/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "October 2023",
+      "id": 168,
+      "month": 10,
+      "month_name": "October",
+      "name": "Spiel de Jahres 2023",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 213,
+          "name": "Zollverein",
+          "slug": "213-zollverein",
+          "url": "places/213-zollverein/"
+        }
+      ],
+      "places_seen": 220,
+      "slug": "168-spiel-de-jahres-2023",
+      "trips_taken": 168,
+      "url": "journal/168-spiel-de-jahres-2023/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "October 2023",
+      "id": 169,
+      "month": 10,
+      "month_name": "October",
+      "name": "Trip do De Haar Castle",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 220,
+      "slug": "169-trip-do-de-haar-castle",
+      "trips_taken": 169,
+      "url": "journal/169-trip-do-de-haar-castle/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "November 2023",
+      "id": 176,
+      "month": 11,
+      "month_name": "November",
+      "name": "Visting friends in Amstelveen",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 224,
+          "name": "Amstelveen",
+          "slug": "224-amstelveen",
+          "url": "places/224-amstelveen/"
+        }
+      ],
+      "places_seen": 221,
+      "slug": "176-visting-friends-in-amstelveen",
+      "trips_taken": 170,
+      "url": "journal/176-visting-friends-in-amstelveen/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "November 2023",
+      "id": 175,
+      "month": 11,
+      "month_name": "November",
+      "name": "Den Hague + Escher museum",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 221,
+      "slug": "175-den-hague-escher-museum",
+      "trips_taken": 171,
+      "url": "journal/175-den-hague-escher-museum/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "November 2023",
+      "id": 177,
+      "month": 11,
+      "month_name": "November",
+      "name": "Portugal with family",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 232,
+          "name": "Évora",
+          "slug": "232-evora",
+          "url": "places/232-evora/"
+        },
+        {
+          "id": 225,
+          "name": "Lisbon",
+          "slug": "225-lisbon",
+          "url": "places/225-lisbon/"
+        },
+        {
+          "id": 226,
+          "name": "Aveiro",
+          "slug": "226-aveiro",
+          "url": "places/226-aveiro/"
+        },
+        {
+          "id": 227,
+          "name": "Coimbra",
+          "slug": "227-coimbra",
+          "url": "places/227-coimbra/"
+        },
+        {
+          "id": 228,
+          "name": "Nazaré",
+          "slug": "228-nazare",
+          "url": "places/228-nazare/"
+        },
+        {
+          "id": 230,
+          "name": "Alcobaça ",
+          "slug": "230-alcobaca",
+          "url": "places/230-alcobaca/"
+        },
+        {
+          "id": 229,
+          "name": "Óbidos",
+          "slug": "229-obidos",
+          "url": "places/229-obidos/"
+        },
+        {
+          "id": 231,
+          "name": "Sintra",
+          "slug": "231-sintra",
+          "url": "places/231-sintra/"
+        }
+      ],
+      "places_seen": 229,
+      "slug": "177-portugal-with-family",
+      "trips_taken": 172,
+      "url": "journal/177-portugal-with-family/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "December 2023",
+      "id": 178,
+      "month": 12,
+      "month_name": "December",
+      "name": "Xmas Market in Cologne",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 229,
+      "slug": "178-xmas-market-in-cologne",
+      "trips_taken": 173,
+      "url": "journal/178-xmas-market-in-cologne/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 29,
+      "date_label": "December 2023",
+      "id": 179,
+      "month": 12,
+      "month_name": "December",
+      "name": "Xmas in Sassenheim",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 229,
+      "slug": "179-xmas-in-sassenheim",
+      "trips_taken": 174,
+      "url": "journal/179-xmas-in-sassenheim/",
+      "year": 2023
+    },
+    {
+      "countries_seen": 30,
+      "date_label": "February 2024",
+      "id": 180,
+      "month": 2,
+      "month_name": "February",
+      "name": "Ski Slovenia",
+      "new_countries": [
+        {
+          "id": 167,
+          "name": "Slovenia",
+          "slug": "167-slovenia",
+          "url": "countries/167-slovenia/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 233,
+          "name": "Ljubljana",
+          "slug": "233-ljubljana",
+          "url": "places/233-ljubljana/"
+        },
+        {
+          "id": 234,
+          "name": "Bled Lake",
+          "slug": "234-bled-lake",
+          "url": "places/234-bled-lake/"
+        },
+        {
+          "id": 235,
+          "name": "Ukanc",
+          "slug": "235-ukanc",
+          "url": "places/235-ukanc/"
+        }
+      ],
+      "places_seen": 232,
+      "slug": "180-ski-slovenia",
+      "trips_taken": 175,
+      "url": "journal/180-ski-slovenia/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 31,
+      "date_label": "February 2024",
+      "id": 181,
+      "month": 2,
+      "month_name": "February",
+      "name": "Czech Republic",
+      "new_countries": [
+        {
+          "id": 65,
+          "name": "Czechia",
+          "slug": "65-czechia",
+          "url": "countries/65-czechia/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 236,
+          "name": "Prague",
+          "slug": "236-prague",
+          "url": "places/236-prague/"
+        }
+      ],
+      "places_seen": 233,
+      "slug": "181-czech-republic",
+      "trips_taken": 176,
+      "url": "journal/181-czech-republic/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 31,
+      "date_label": "March 2024",
+      "id": 182,
+      "month": 3,
+      "month_name": "March",
+      "name": "Zaanse Schans with Pamela",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 233,
+      "slug": "182-zaanse-schans-with-pamela",
+      "trips_taken": 177,
+      "url": "journal/182-zaanse-schans-with-pamela/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "March 2024",
+      "id": 183,
+      "month": 3,
+      "month_name": "March",
+      "name": "Morroco",
+      "new_countries": [
+        {
+          "id": 129,
+          "name": "Morocco",
+          "slug": "129-morocco",
+          "url": "countries/129-morocco/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 237,
+          "name": "Fez",
+          "slug": "237-fez",
+          "url": "places/237-fez/"
+        },
+        {
+          "id": 238,
+          "name": "Ait Aomar",
+          "slug": "238-ait-aomar",
+          "url": "places/238-ait-aomar/"
+        },
+        {
+          "id": 239,
+          "name": "Merzouga",
+          "slug": "239-merzouga",
+          "url": "places/239-merzouga/"
+        },
+        {
+          "id": 240,
+          "name": "Khamlia",
+          "slug": "240-khamlia",
+          "url": "places/240-khamlia/"
+        },
+        {
+          "id": 241,
+          "name": "Aït Benhaddou",
+          "slug": "241-ait-benhaddou",
+          "url": "places/241-ait-benhaddou/"
+        },
+        {
+          "id": 242,
+          "name": "Marrakesh",
+          "slug": "242-marrakesh",
+          "url": "places/242-marrakesh/"
+        }
+      ],
+      "places_seen": 239,
+      "slug": "183-morroco",
+      "trips_taken": 178,
+      "url": "journal/183-morroco/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "April 2024",
+      "id": 184,
+      "month": 4,
+      "month_name": "April",
+      "name": "Work trip to Copenhagen",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 239,
+      "slug": "184-work-trip-to-copenhagen",
+      "trips_taken": 179,
+      "url": "journal/184-work-trip-to-copenhagen/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "May 2024",
+      "id": 185,
+      "month": 5,
+      "month_name": "May",
+      "name": "Work trip to the big apple",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 239,
+      "slug": "185-work-trip-to-the-big-apple",
+      "trips_taken": 180,
+      "url": "journal/185-work-trip-to-the-big-apple/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "June 2024",
+      "id": 186,
+      "month": 6,
+      "month_name": "June",
+      "name": "Hoofdorp dinner",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 243,
+          "name": "Hoofddorp",
+          "slug": "243-hoofddorp",
+          "url": "places/243-hoofddorp/"
+        }
+      ],
+      "places_seen": 240,
+      "slug": "186-hoofdorp-dinner",
+      "trips_taken": 181,
+      "url": "journal/186-hoofdorp-dinner/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "June 2024",
+      "id": 191,
+      "month": 6,
+      "month_name": "June",
+      "name": "Sailing Lesson",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 240,
+      "slug": "191-sailing-lesson",
+      "trips_taken": 182,
+      "url": "journal/191-sailing-lesson/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "June 2024",
+      "id": 187,
+      "month": 6,
+      "month_name": "June",
+      "name": "BD party in Noordwijk",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 240,
+      "slug": "187-bd-party-in-noordwijk",
+      "trips_taken": 183,
+      "url": "journal/187-bd-party-in-noordwijk/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "June 2024",
+      "id": 188,
+      "month": 6,
+      "month_name": "June",
+      "name": "Veluwe's weekend",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 240,
+      "slug": "188-veluwe-s-weekend",
+      "trips_taken": 184,
+      "url": "journal/188-veluwe-s-weekend/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "June 2024",
+      "id": 192,
+      "month": 6,
+      "month_name": "June",
+      "name": "Sailing lesson",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 240,
+      "slug": "192-sailing-lesson",
+      "trips_taken": 185,
+      "url": "journal/192-sailing-lesson/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "June 2024",
+      "id": 189,
+      "month": 6,
+      "month_name": "June",
+      "name": "Volendam & Marken with Friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 240,
+      "slug": "189-volendam-marken-with-friends",
+      "trips_taken": 186,
+      "url": "journal/189-volendam-marken-with-friends/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "July 2024",
+      "id": 190,
+      "month": 7,
+      "month_name": "July",
+      "name": "Sailing lesson",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 240,
+      "slug": "190-sailing-lesson",
+      "trips_taken": 187,
+      "url": "journal/190-sailing-lesson/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "August 2024",
+      "id": 193,
+      "month": 8,
+      "month_name": "August",
+      "name": "Boardgame in Almere",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 240,
+      "slug": "193-boardgame-in-almere",
+      "trips_taken": 188,
+      "url": "journal/193-boardgame-in-almere/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "September 2024",
+      "id": 194,
+      "month": 9,
+      "month_name": "September",
+      "name": "Friend visit in Porto",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 240,
+      "slug": "194-friend-visit-in-porto",
+      "trips_taken": 189,
+      "url": "journal/194-friend-visit-in-porto/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 32,
+      "date_label": "September 2024",
+      "id": 195,
+      "month": 9,
+      "month_name": "September",
+      "name": "Van camping in France",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 245,
+          "name": "Annecy",
+          "slug": "245-annecy",
+          "url": "places/245-annecy/"
+        },
+        {
+          "id": 246,
+          "name": "Chamonix",
+          "slug": "246-chamonix",
+          "url": "places/246-chamonix/"
+        },
+        {
+          "id": 247,
+          "name": "Tasch",
+          "slug": "247-tasch",
+          "url": "places/247-tasch/"
+        },
+        {
+          "id": 248,
+          "name": "Zermatt",
+          "slug": "248-zermatt",
+          "url": "places/248-zermatt/"
+        },
+        {
+          "id": 249,
+          "name": "Lauterbrunnen",
+          "slug": "249-lauterbrunnen",
+          "url": "places/249-lauterbrunnen/"
+        },
+        {
+          "id": 250,
+          "name": "Grindelwald",
+          "slug": "250-grindelwald",
+          "url": "places/250-grindelwald/"
+        },
+        {
+          "id": 251,
+          "name": "Winteregg",
+          "slug": "251-winteregg",
+          "url": "places/251-winteregg/"
+        },
+        {
+          "id": 252,
+          "name": "Mannlichen",
+          "slug": "252-mannlichen",
+          "url": "places/252-mannlichen/"
+        },
+        {
+          "id": 244,
+          "name": "Geneva",
+          "slug": "244-geneva",
+          "url": "places/244-geneva/"
+        }
+      ],
+      "places_seen": 249,
+      "slug": "195-van-camping-in-france",
+      "trips_taken": 190,
+      "url": "journal/195-van-camping-in-france/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 33,
+      "date_label": "October 2024",
+      "id": 196,
+      "month": 10,
+      "month_name": "October",
+      "name": "Spetacular India",
+      "new_countries": [
+        {
+          "id": 93,
+          "name": "India",
+          "slug": "93-india",
+          "url": "countries/93-india/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 253,
+          "name": "Kolkata",
+          "slug": "253-kolkata",
+          "url": "places/253-kolkata/"
+        },
+        {
+          "id": 254,
+          "name": "Kalyani",
+          "slug": "254-kalyani",
+          "url": "places/254-kalyani/"
+        },
+        {
+          "id": 255,
+          "name": "New Delhi",
+          "slug": "255-new-delhi",
+          "url": "places/255-new-delhi/"
+        },
+        {
+          "id": 256,
+          "name": "Taj Mahal",
+          "slug": "256-taj-mahal",
+          "url": "places/256-taj-mahal/"
+        }
+      ],
+      "places_seen": 253,
+      "slug": "196-spetacular-india",
+      "trips_taken": 191,
+      "url": "journal/196-spetacular-india/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 33,
+      "date_label": "October 2024",
+      "id": 197,
+      "month": 10,
+      "month_name": "October",
+      "name": "Sunny Belgrade",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 253,
+      "slug": "197-sunny-belgrade",
+      "trips_taken": 192,
+      "url": "journal/197-sunny-belgrade/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 33,
+      "date_label": "October 2024",
+      "id": 198,
+      "month": 10,
+      "month_name": "October",
+      "name": "BD in Uithoorn",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 257,
+          "name": "Uithoorn",
+          "slug": "257-uithoorn",
+          "url": "places/257-uithoorn/"
+        }
+      ],
+      "places_seen": 254,
+      "slug": "198-bd-in-uithoorn",
+      "trips_taken": 193,
+      "url": "journal/198-bd-in-uithoorn/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 33,
+      "date_label": "October 2024",
+      "id": 199,
+      "month": 10,
+      "month_name": "October",
+      "name": "Inline in het twiske",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 254,
+      "slug": "199-inline-in-het-twiske",
+      "trips_taken": 194,
+      "url": "journal/199-inline-in-het-twiske/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 33,
+      "date_label": "November 2024",
+      "id": 200,
+      "month": 11,
+      "month_name": "November",
+      "name": "Weekend in LDN",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 254,
+      "slug": "200-weekend-in-ldn",
+      "trips_taken": 195,
+      "url": "journal/200-weekend-in-ldn/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 33,
+      "date_label": "December 2024",
+      "id": 201,
+      "month": 12,
+      "month_name": "December",
+      "name": "Agnolottini",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 254,
+      "slug": "201-agnolottini",
+      "trips_taken": 196,
+      "url": "journal/201-agnolottini/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 33,
+      "date_label": "December 2024",
+      "id": 202,
+      "month": 12,
+      "month_name": "December",
+      "name": "Boardgame w/ friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 254,
+      "slug": "202-boardgame-w-friends",
+      "trips_taken": 197,
+      "url": "journal/202-boardgame-w-friends/",
+      "year": 2024
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "February 2025",
+      "id": 203,
+      "month": 2,
+      "month_name": "February",
+      "name": "Ski Stoten",
+      "new_countries": [
+        {
+          "id": 176,
+          "name": "Sweden",
+          "slug": "176-sweden",
+          "url": "countries/176-sweden/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 258,
+          "name": "Stoten",
+          "slug": "258-stoten",
+          "url": "places/258-stoten/"
+        }
+      ],
+      "places_seen": 255,
+      "slug": "203-ski-stoten",
+      "trips_taken": 198,
+      "url": "journal/203-ski-stoten/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "February 2025",
+      "id": 204,
+      "month": 2,
+      "month_name": "February",
+      "name": "BD Almere",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 255,
+      "slug": "204-bd-almere",
+      "trips_taken": 199,
+      "url": "journal/204-bd-almere/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "April 2025",
+      "id": 205,
+      "month": 4,
+      "month_name": "April",
+      "name": "Bordgame w/ friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 255,
+      "slug": "205-bordgame-w-friends",
+      "trips_taken": 200,
+      "url": "journal/205-bordgame-w-friends/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "April 2025",
+      "id": 206,
+      "month": 4,
+      "month_name": "April",
+      "name": "Easter 2025",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 255,
+      "slug": "206-easter-2025",
+      "trips_taken": 201,
+      "url": "journal/206-easter-2025/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "May 2025",
+      "id": 207,
+      "month": 5,
+      "month_name": "May",
+      "name": "Sailing at the Kaag",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 259,
+          "name": "Kaag",
+          "slug": "259-kaag",
+          "url": "places/259-kaag/"
+        }
+      ],
+      "places_seen": 256,
+      "slug": "207-sailing-at-the-kaag",
+      "trips_taken": 202,
+      "url": "journal/207-sailing-at-the-kaag/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "June 2025",
+      "id": 208,
+      "month": 6,
+      "month_name": "June",
+      "name": "Sailing lesson",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 260,
+          "name": "Enkhuizen",
+          "slug": "260-enkhuizen",
+          "url": "places/260-enkhuizen/"
+        }
+      ],
+      "places_seen": 257,
+      "slug": "208-sailing-lesson",
+      "trips_taken": 203,
+      "url": "journal/208-sailing-lesson/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "June 2025",
+      "id": 209,
+      "month": 6,
+      "month_name": "June",
+      "name": "Kinderdijk w/ T.",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 261,
+          "name": "Kinderdijk",
+          "slug": "261-kinderdijk",
+          "url": "places/261-kinderdijk/"
+        }
+      ],
+      "places_seen": 258,
+      "slug": "209-kinderdijk-w-t",
+      "trips_taken": 204,
+      "url": "journal/209-kinderdijk-w-t/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "June 2025",
+      "id": 210,
+      "month": 6,
+      "month_name": "June",
+      "name": "Het Loo w/ T.",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 258,
+      "slug": "210-het-loo-w-t",
+      "trips_taken": 205,
+      "url": "journal/210-het-loo-w-t/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "June 2025",
+      "id": 211,
+      "month": 6,
+      "month_name": "June",
+      "name": "Linkin Park Concert",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 262,
+          "name": "Arnhem",
+          "slug": "262-arnhem",
+          "url": "places/262-arnhem/"
+        }
+      ],
+      "places_seen": 259,
+      "slug": "211-linkin-park-concert",
+      "trips_taken": 206,
+      "url": "journal/211-linkin-park-concert/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "July 2025",
+      "id": 212,
+      "month": 7,
+      "month_name": "July",
+      "name": "Wednesday Night Skate",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 259,
+      "slug": "212-wednesday-night-skate",
+      "trips_taken": 207,
+      "url": "journal/212-wednesday-night-skate/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "August 2025",
+      "id": 213,
+      "month": 8,
+      "month_name": "August",
+      "name": "BBQ w/ friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 259,
+      "slug": "213-bbq-w-friends",
+      "trips_taken": 208,
+      "url": "journal/213-bbq-w-friends/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "September 2025",
+      "id": 214,
+      "month": 9,
+      "month_name": "September",
+      "name": "Back to Mallorca!",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 263,
+          "name": "Sa Pobla",
+          "slug": "263-sa-pobla",
+          "url": "places/263-sa-pobla/"
+        },
+        {
+          "id": 265,
+          "name": "Platja des Coll Baix",
+          "slug": "265-platja-des-coll-baix",
+          "url": "places/265-platja-des-coll-baix/"
+        },
+        {
+          "id": 266,
+          "name": "Alcudia",
+          "slug": "266-alcudia",
+          "url": "places/266-alcudia/"
+        },
+        {
+          "id": 267,
+          "name": "Coves del Drach",
+          "slug": "267-coves-del-drach",
+          "url": "places/267-coves-del-drach/"
+        },
+        {
+          "id": 264,
+          "name": "Sa Calobra",
+          "slug": "264-sa-calobra",
+          "url": "places/264-sa-calobra/"
+        }
+      ],
+      "places_seen": 264,
+      "slug": "214-back-to-mallorca",
+      "trips_taken": 209,
+      "url": "journal/214-back-to-mallorca/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "September 2025",
+      "id": 215,
+      "month": 9,
+      "month_name": "September",
+      "name": "1st Sailing trip!",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 268,
+          "name": "Trogir",
+          "slug": "268-trogir",
+          "url": "places/268-trogir/"
+        },
+        {
+          "id": 269,
+          "name": "Nečujam",
+          "slug": "269-necujam",
+          "url": "places/269-necujam/"
+        },
+        {
+          "id": 270,
+          "name": "Milna",
+          "slug": "270-milna",
+          "url": "places/270-milna/"
+        }
+      ],
+      "places_seen": 267,
+      "slug": "215-1st-sailing-trip",
+      "trips_taken": 210,
+      "url": "journal/215-1st-sailing-trip/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "October 2025",
+      "id": 216,
+      "month": 10,
+      "month_name": "October",
+      "name": "Fashion @ lelystad",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 267,
+      "slug": "216-fashion-lelystad",
+      "trips_taken": 211,
+      "url": "journal/216-fashion-lelystad/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "October 2025",
+      "id": 217,
+      "month": 10,
+      "month_name": "October",
+      "name": "S.B Bday party",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 271,
+          "name": "Rijswijk",
+          "slug": "271-rijswijk",
+          "url": "places/271-rijswijk/"
+        }
+      ],
+      "places_seen": 268,
+      "slug": "217-s-b-bday-party",
+      "trips_taken": 212,
+      "url": "journal/217-s-b-bday-party/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "November 2025",
+      "id": 218,
+      "month": 11,
+      "month_name": "November",
+      "name": "Revisting Utrecht w/ friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 268,
+      "slug": "218-revisting-utrecht-w-friends",
+      "trips_taken": 213,
+      "url": "journal/218-revisting-utrecht-w-friends/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 34,
+      "date_label": "November 2025",
+      "id": 219,
+      "month": 11,
+      "month_name": "November",
+      "name": "Porto with Friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 268,
+      "slug": "219-porto-with-friends",
+      "trips_taken": 214,
+      "url": "journal/219-porto-with-friends/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "December 2025",
+      "id": 220,
+      "month": 12,
+      "month_name": "December",
+      "name": "Maastrich and Luxembourg",
+      "new_countries": [
+        {
+          "id": 115,
+          "name": "Luxembourg",
+          "slug": "115-luxembourg",
+          "url": "countries/115-luxembourg/"
+        }
+      ],
+      "new_places": [
+        {
+          "id": 272,
+          "name": "Maastricht",
+          "slug": "272-maastricht",
+          "url": "places/272-maastricht/"
+        },
+        {
+          "id": 273,
+          "name": "Valkenburg",
+          "slug": "273-valkenburg",
+          "url": "places/273-valkenburg/"
+        },
+        {
+          "id": 275,
+          "name": "Monschau",
+          "slug": "275-monschau",
+          "url": "places/275-monschau/"
+        },
+        {
+          "id": 276,
+          "name": "Bastogne",
+          "slug": "276-bastogne",
+          "url": "places/276-bastogne/"
+        },
+        {
+          "id": 274,
+          "name": "Luxemburg",
+          "slug": "274-luxemburg",
+          "url": "places/274-luxemburg/"
+        }
+      ],
+      "places_seen": 273,
+      "slug": "220-maastrich-and-luxembourg",
+      "trips_taken": 215,
+      "url": "journal/220-maastrich-and-luxembourg/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "December 2025",
+      "id": 221,
+      "month": 12,
+      "month_name": "December",
+      "name": "Agnolottini day",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 273,
+      "slug": "221-agnolottini-day",
+      "trips_taken": 216,
+      "url": "journal/221-agnolottini-day/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "December 2025",
+      "id": 222,
+      "month": 12,
+      "month_name": "December",
+      "name": "Zoetermeer ski practice",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 277,
+          "name": "Zoetermeer",
+          "slug": "277-zoetermeer",
+          "url": "places/277-zoetermeer/"
+        }
+      ],
+      "places_seen": 274,
+      "slug": "222-zoetermeer-ski-practice",
+      "trips_taken": 217,
+      "url": "journal/222-zoetermeer-ski-practice/",
+      "year": 2025
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "January 2026",
+      "id": 223,
+      "month": 1,
+      "month_name": "January",
+      "name": "Trip to Brazil",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 278,
+          "name": "Antonina",
+          "slug": "278-antonina",
+          "url": "places/278-antonina/"
+        }
+      ],
+      "places_seen": 275,
+      "slug": "223-trip-to-brazil",
+      "trips_taken": 218,
+      "url": "journal/223-trip-to-brazil/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "January 2026",
+      "id": 224,
+      "month": 1,
+      "month_name": "January",
+      "name": "Ice rink with friends",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 279,
+          "name": "Leiden",
+          "slug": "279-leiden",
+          "url": "places/279-leiden/"
+        }
+      ],
+      "places_seen": 276,
+      "slug": "224-ice-rink-with-friends",
+      "trips_taken": 219,
+      "url": "journal/224-ice-rink-with-friends/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "February 2026",
+      "id": 225,
+      "month": 2,
+      "month_name": "February",
+      "name": "Affordable art fair",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 280,
+          "name": "Brussels",
+          "slug": "280-brussels",
+          "url": "places/280-brussels/"
+        }
+      ],
+      "places_seen": 277,
+      "slug": "225-affordable-art-fair",
+      "trips_taken": 220,
+      "url": "journal/225-affordable-art-fair/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "February 2026",
+      "id": 226,
+      "month": 2,
+      "month_name": "February",
+      "name": "Biryani + Padel",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 277,
+      "slug": "226-biryani-padel",
+      "trips_taken": 221,
+      "url": "journal/226-biryani-padel/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "February 2026",
+      "id": 227,
+      "month": 2,
+      "month_name": "February",
+      "name": "Back to Stoten",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 277,
+      "slug": "227-back-to-stoten",
+      "trips_taken": 222,
+      "url": "journal/227-back-to-stoten/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "May 2026",
+      "id": 228,
+      "month": 5,
+      "month_name": "May",
+      "name": "Svalbard",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 281,
+          "name": "Longyearbyen",
+          "slug": "281-longyearbyen",
+          "url": "places/281-longyearbyen/"
+        },
+        {
+          "id": 282,
+          "name": "Trollsteinen",
+          "slug": "282-trollsteinen",
+          "url": "places/282-trollsteinen/"
+        },
+        {
+          "id": 283,
+          "name": "Billefjorden",
+          "slug": "283-billefjorden",
+          "url": "places/283-billefjorden/"
+        },
+        {
+          "id": 284,
+          "name": "Björndalen",
+          "slug": "284-bjorndalen",
+          "url": "places/284-bjorndalen/"
+        },
+        {
+          "id": 285,
+          "name": "Dicksonfjorden",
+          "slug": "285-dicksonfjorden",
+          "url": "places/285-dicksonfjorden/"
+        },
+        {
+          "id": 286,
+          "name": "Ekmanfjorden",
+          "slug": "286-ekmanfjorden",
+          "url": "places/286-ekmanfjorden/"
+        },
+        {
+          "id": 287,
+          "name": "Tempelfjorden",
+          "slug": "287-tempelfjorden",
+          "url": "places/287-tempelfjorden/"
+        }
+      ],
+      "places_seen": 284,
+      "slug": "228-svalbard",
+      "trips_taken": 223,
+      "url": "journal/228-svalbard/",
+      "year": 2026
+    }
+  ],
+  "multi_country_trips": 16,
+  "multi_place_trips": 63,
+  "new_countries_by_year": {
+    "1998": 1,
+    "2010": 1,
+    "2011": 2,
+    "2012": 6,
+    "2013": 2,
+    "2015": 2,
+    "2016": 3,
+    "2017": 2,
+    "2018": 6,
+    "2019": 1,
+    "2022": 1,
+    "2023": 2,
+    "2024": 4,
+    "2025": 2
+  },
+  "new_places_by_year": [
+    {
+      "count": 1,
+      "relative": 3.1,
+      "year": 1998
+    },
+    {
+      "count": 3,
+      "relative": 9.4,
+      "year": 1999
+    },
+    {
+      "count": 0,
+      "relative": 0.0,
+      "year": 2000
+    },
+    {
+      "count": 0,
+      "relative": 0.0,
+      "year": 2001
+    },
+    {
+      "count": 2,
+      "relative": 6.2,
+      "year": 2002
+    },
+    {
+      "count": 0,
+      "relative": 0.0,
+      "year": 2003
+    },
+    {
+      "count": 0,
+      "relative": 0.0,
+      "year": 2004
+    },
+    {
+      "count": 3,
+      "relative": 9.4,
+      "year": 2005
+    },
+    {
+      "count": 2,
+      "relative": 6.2,
+      "year": 2006
+    },
+    {
+      "count": 0,
+      "relative": 0.0,
+      "year": 2007
+    },
+    {
+      "count": 0,
+      "relative": 0.0,
+      "year": 2008
+    },
+    {
+      "count": 0,
+      "relative": 0.0,
+      "year": 2009
+    },
+    {
+      "count": 2,
+      "relative": 6.2,
+      "year": 2010
+    },
+    {
+      "count": 8,
+      "relative": 25.0,
+      "year": 2011
+    },
+    {
+      "count": 32,
+      "relative": 100.0,
+      "year": 2012
+    },
+    {
+      "count": 16,
+      "relative": 50.0,
+      "year": 2013
+    },
+    {
+      "count": 2,
+      "relative": 6.2,
+      "year": 2014
+    },
+    {
+      "count": 10,
+      "relative": 31.2,
+      "year": 2015
+    },
+    {
+      "count": 13,
+      "relative": 40.6,
+      "year": 2016
+    },
+    {
+      "count": 12,
+      "relative": 37.5,
+      "year": 2017
+    },
+    {
+      "count": 24,
+      "relative": 75.0,
+      "year": 2018
+    },
+    {
+      "count": 19,
+      "relative": 59.4,
+      "year": 2019
+    },
+    {
+      "count": 6,
+      "relative": 18.8,
+      "year": 2020
+    },
+    {
+      "count": 20,
+      "relative": 62.5,
+      "year": 2021
+    },
+    {
+      "count": 22,
+      "relative": 68.8,
+      "year": 2022
+    },
+    {
+      "count": 32,
+      "relative": 100.0,
+      "year": 2023
+    },
+    {
+      "count": 25,
+      "relative": 78.1,
+      "year": 2024
+    },
+    {
+      "count": 20,
+      "relative": 62.5,
+      "year": 2025
+    },
+    {
+      "count": 10,
+      "relative": 31.2,
+      "year": 2026
+    }
+  ],
+  "top_companions": [
+    {
+      "count": 146,
+      "id": 9,
+      "name": "MF",
+      "slug": "9-mf",
+      "url": "people/9-mf/"
+    },
+    {
+      "count": 23,
+      "id": 31,
+      "name": "FA",
+      "slug": "31-fa",
+      "url": "people/31-fa/"
+    },
+    {
+      "count": 22,
+      "id": 1,
+      "name": "TJ",
+      "slug": "1-tj",
+      "url": "people/1-tj/"
+    },
+    {
+      "count": 14,
+      "id": 32,
+      "name": "IC",
+      "slug": "32-ic",
+      "url": "people/32-ic/"
+    },
+    {
+      "count": 11,
+      "id": 10,
+      "name": "ZW",
+      "slug": "10-zw",
+      "url": "people/10-zw/"
+    },
+    {
+      "count": 9,
+      "id": 18,
+      "name": "AC",
+      "slug": "18-ac",
+      "url": "people/18-ac/"
+    },
+    {
+      "count": 9,
+      "id": 17,
+      "name": "VC",
+      "slug": "17-vc",
+      "url": "people/17-vc/"
+    },
+    {
+      "count": 8,
+      "id": 5,
+      "name": "GS",
+      "slug": "5-gs",
+      "url": "people/5-gs/"
+    },
+    {
+      "count": 6,
+      "id": 30,
+      "name": "APS",
+      "slug": "30-aps",
+      "url": "people/30-aps/"
+    },
+    {
+      "count": 5,
+      "id": 2,
+      "name": "RJ",
+      "slug": "2-rj",
+      "url": "people/2-rj/"
+    },
+    {
+      "count": 4,
+      "id": 3,
+      "name": "JC",
+      "slug": "3-jc",
+      "url": "people/3-jc/"
+    },
+    {
+      "count": 4,
+      "id": 33,
+      "name": "MC",
+      "slug": "33-mc",
+      "url": "people/33-mc/"
+    },
+    {
+      "count": 4,
+      "id": 14,
+      "name": "PL",
+      "slug": "14-pl",
+      "url": "people/14-pl/"
+    },
+    {
+      "count": 4,
+      "id": 50,
+      "name": "SB",
+      "slug": "50-sb",
+      "url": "people/50-sb/"
+    },
+    {
+      "count": 3,
+      "id": 4,
+      "name": "AS",
+      "slug": "4-as",
+      "url": "people/4-as/"
+    },
+    {
+      "count": 3,
+      "id": 11,
+      "name": "CT",
+      "slug": "11-ct",
+      "url": "people/11-ct/"
+    },
+    {
+      "count": 3,
+      "id": 26,
+      "name": "HH",
+      "slug": "26-hh",
+      "url": "people/26-hh/"
+    },
+    {
+      "count": 3,
+      "id": 34,
+      "name": "ML",
+      "slug": "34-ml",
+      "url": "people/34-ml/"
+    },
+    {
+      "count": 3,
+      "id": 16,
+      "name": "PR",
+      "slug": "16-pr",
+      "url": "people/16-pr/"
+    },
+    {
+      "count": 3,
+      "id": 20,
+      "name": "WT",
+      "slug": "20-wt",
+      "url": "people/20-wt/"
+    },
+    {
+      "count": 2,
+      "id": 37,
+      "name": "DS",
+      "slug": "37-ds",
+      "url": "people/37-ds/"
+    },
+    {
+      "count": 2,
+      "id": 35,
+      "name": "LS",
+      "slug": "35-ls",
+      "url": "people/35-ls/"
+    },
+    {
+      "count": 2,
+      "id": 19,
+      "name": "MT",
+      "slug": "19-mt",
+      "url": "people/19-mt/"
+    },
+    {
+      "count": 2,
+      "id": 38,
+      "name": "OK",
+      "slug": "38-ok",
+      "url": "people/38-ok/"
+    },
+    {
+      "count": 2,
+      "id": 55,
+      "name": "SM",
+      "slug": "55-sm",
+      "url": "people/55-sm/"
+    },
+    {
+      "count": 1,
+      "id": 44,
+      "name": "AK",
+      "slug": "44-ak",
+      "url": "people/44-ak/"
+    },
+    {
+      "count": 1,
+      "id": 42,
+      "name": "AL",
+      "slug": "42-al",
+      "url": "people/42-al/"
+    },
+    {
+      "count": 1,
+      "id": 12,
+      "name": "AV",
+      "slug": "12-av",
+      "url": "people/12-av/"
+    },
+    {
+      "count": 1,
+      "id": 25,
+      "name": "CC",
+      "slug": "25-cc",
+      "url": "people/25-cc/"
+    },
+    {
+      "count": 1,
+      "id": 51,
+      "name": "CH",
+      "slug": "51-ch",
+      "url": "people/51-ch/"
+    },
+    {
+      "count": 1,
+      "id": 43,
+      "name": "DM",
+      "slug": "43-dm",
+      "url": "people/43-dm/"
+    },
+    {
+      "count": 1,
+      "id": 41,
+      "name": "ES",
+      "slug": "41-es",
+      "url": "people/41-es/"
+    },
+    {
+      "count": 1,
+      "id": 57,
+      "name": "FM",
+      "slug": "57-fm",
+      "url": "people/57-fm/"
+    },
+    {
+      "count": 1,
+      "id": 39,
+      "name": "GPM",
+      "slug": "39-gpm",
+      "url": "people/39-gpm/"
+    },
+    {
+      "count": 1,
+      "id": 54,
+      "name": "HF",
+      "slug": "54-hf",
+      "url": "people/54-hf/"
+    },
+    {
+      "count": 1,
+      "id": 46,
+      "name": "HM",
+      "slug": "46-hm",
+      "url": "people/46-hm/"
+    },
+    {
+      "count": 1,
+      "id": 27,
+      "name": "JD",
+      "slug": "27-jd",
+      "url": "people/27-jd/"
+    },
+    {
+      "count": 1,
+      "id": 45,
+      "name": "JEMV",
+      "slug": "45-jemv",
+      "url": "people/45-jemv/"
+    },
+    {
+      "count": 1,
+      "id": 52,
+      "name": "JV",
+      "slug": "52-jv",
+      "url": "people/52-jv/"
+    },
+    {
+      "count": 1,
+      "id": 24,
+      "name": "K",
+      "slug": "24-k",
+      "url": "people/24-k/"
+    },
+    {
+      "count": 1,
+      "id": 23,
+      "name": "M",
+      "slug": "23-m",
+      "url": "people/23-m/"
+    },
+    {
+      "count": 1,
+      "id": 22,
+      "name": "MDS",
+      "slug": "22-mds",
+      "url": "people/22-mds/"
+    },
+    {
+      "count": 1,
+      "id": 59,
+      "name": "MS",
+      "slug": "59-ms",
+      "url": "people/59-ms/"
+    },
+    {
+      "count": 1,
+      "id": 60,
+      "name": "NT",
+      "slug": "60-nt",
+      "url": "people/60-nt/"
+    },
+    {
+      "count": 1,
+      "id": 13,
+      "name": "OP",
+      "slug": "13-op",
+      "url": "people/13-op/"
+    },
+    {
+      "count": 1,
+      "id": 49,
+      "name": "PAB",
+      "slug": "49-pab",
+      "url": "people/49-pab/"
+    },
+    {
+      "count": 1,
+      "id": 53,
+      "name": "PM",
+      "slug": "53-pm",
+      "url": "people/53-pm/"
+    },
+    {
+      "count": 1,
+      "id": 47,
+      "name": "PN",
+      "slug": "47-pn",
+      "url": "people/47-pn/"
+    },
+    {
+      "count": 1,
+      "id": 40,
+      "name": "RO",
+      "slug": "40-ro",
+      "url": "people/40-ro/"
+    },
+    {
+      "count": 1,
+      "id": 56,
+      "name": "SBM",
+      "slug": "56-sbm",
+      "url": "people/56-sbm/"
+    },
+    {
+      "count": 1,
+      "id": 36,
+      "name": "SC",
+      "slug": "36-sc",
+      "url": "people/36-sc/"
+    },
+    {
+      "count": 1,
+      "id": 48,
+      "name": "SN",
+      "slug": "48-sn",
+      "url": "people/48-sn/"
+    },
+    {
+      "count": 1,
+      "id": 58,
+      "name": "ST",
+      "slug": "58-st",
+      "url": "people/58-st/"
+    },
+    {
+      "count": 1,
+      "id": 29,
+      "name": "TL",
+      "slug": "29-tl",
+      "url": "people/29-tl/"
+    },
+    {
+      "count": 1,
+      "id": 6,
+      "name": "V1",
+      "slug": "6-v1",
+      "url": "people/6-v1/"
+    },
+    {
+      "count": 1,
+      "id": 7,
+      "name": "V2",
+      "slug": "7-v2",
+      "url": "people/7-v2/"
+    },
+    {
+      "count": 1,
+      "id": 8,
+      "name": "V3",
+      "slug": "8-v3",
+      "url": "people/8-v3/"
+    },
+    {
+      "count": 1,
+      "id": 28,
+      "name": "VM",
+      "slug": "28-vm",
+      "url": "people/28-vm/"
+    }
+  ],
+  "top_countries_by_days": [
+    {
+      "count": 192,
+      "id": 1,
+      "name": "Brazil",
+      "relative": 100.0,
+      "slug": "1-brazil",
+      "url": "countries/1-brazil/"
+    },
+    {
+      "count": 171,
+      "id": 13,
+      "name": "United States",
+      "relative": 89.3,
+      "slug": "13-united-states",
+      "url": "countries/13-united-states/"
+    },
+    {
+      "count": 134,
+      "id": 14,
+      "name": "Netherlands",
+      "relative": 69.8,
+      "slug": "14-netherlands",
+      "url": "countries/14-netherlands/"
+    },
+    {
+      "count": 43,
+      "id": 8,
+      "name": "Italy",
+      "relative": 22.2,
+      "slug": "8-italy",
+      "url": "countries/8-italy/"
+    },
+    {
+      "count": 29,
+      "id": 25,
+      "name": "Norway",
+      "relative": 15.1,
+      "slug": "25-norway",
+      "url": "countries/25-norway/"
+    },
+    {
+      "count": 29,
+      "id": 9,
+      "name": "France",
+      "relative": 14.9,
+      "slug": "9-france",
+      "url": "countries/9-france/"
+    },
+    {
+      "count": 26,
+      "id": 11,
+      "name": "England",
+      "relative": 13.8,
+      "slug": "11-england",
+      "url": "countries/11-england/"
+    },
+    {
+      "count": 23,
+      "id": 18,
+      "name": "Portugal",
+      "relative": 12.0,
+      "slug": "18-portugal",
+      "url": "countries/18-portugal/"
+    },
+    {
+      "count": 23,
+      "id": 12,
+      "name": "Scotland",
+      "relative": 11.8,
+      "slug": "12-scotland",
+      "url": "countries/12-scotland/"
+    },
+    {
+      "count": 21,
+      "id": 16,
+      "name": "Spain",
+      "relative": 10.9,
+      "slug": "16-spain",
+      "url": "countries/16-spain/"
+    },
+    {
+      "count": 14,
+      "id": 62,
+      "name": "Croatia",
+      "relative": 7.3,
+      "slug": "62-croatia",
+      "url": "countries/62-croatia/"
+    },
+    {
+      "count": 14,
+      "id": 19,
+      "name": "Germany",
+      "relative": 7.2,
+      "slug": "19-germany",
+      "url": "countries/19-germany/"
+    },
+    {
+      "count": 13,
+      "id": 15,
+      "name": "Belgium",
+      "relative": 6.8,
+      "slug": "15-belgium",
+      "url": "countries/15-belgium/"
+    },
+    {
+      "count": 12,
+      "id": 17,
+      "name": "Serbia",
+      "relative": 6.2,
+      "slug": "17-serbia",
+      "url": "countries/17-serbia/"
+    },
+    {
+      "count": 11,
+      "id": 129,
+      "name": "Morocco",
+      "relative": 5.7,
+      "slug": "129-morocco",
+      "url": "countries/129-morocco/"
+    },
+    {
+      "count": 10,
+      "id": 93,
+      "name": "India",
+      "relative": 5.2,
+      "slug": "93-india",
+      "url": "countries/93-india/"
+    },
+    {
+      "count": 9,
+      "id": 7,
+      "name": "Switzerland",
+      "relative": 4.8,
+      "slug": "7-switzerland",
+      "url": "countries/7-switzerland/"
+    },
+    {
+      "count": 8,
+      "id": 27,
+      "name": "Maldives",
+      "relative": 4.2,
+      "slug": "27-maldives",
+      "url": "countries/27-maldives/"
+    },
+    {
+      "count": 7,
+      "id": 67,
+      "name": "Denmark",
+      "relative": 3.6,
+      "slug": "67-denmark",
+      "url": "countries/67-denmark/"
+    },
+    {
+      "count": 7,
+      "id": 167,
+      "name": "Slovenia",
+      "relative": 3.6,
+      "slug": "167-slovenia",
+      "url": "countries/167-slovenia/"
+    },
+    {
+      "count": 7,
+      "id": 176,
+      "name": "Sweden",
+      "relative": 3.6,
+      "slug": "176-sweden",
+      "url": "countries/176-sweden/"
+    },
+    {
+      "count": 6,
+      "id": 3,
+      "name": "Argentina",
+      "relative": 3.4,
+      "slug": "3-argentina",
+      "url": "countries/3-argentina/"
+    },
+    {
+      "count": 6,
+      "id": 6,
+      "name": "Chile",
+      "relative": 3.1,
+      "slug": "6-chile",
+      "url": "countries/6-chile/"
+    },
+    {
+      "count": 5,
+      "id": 26,
+      "name": "Iceland",
+      "relative": 2.6,
+      "slug": "26-iceland",
+      "url": "countries/26-iceland/"
+    },
+    {
+      "count": 4,
+      "id": 4,
+      "name": "Uruguay",
+      "relative": 2.3,
+      "slug": "4-uruguay",
+      "url": "countries/4-uruguay/"
+    },
+    {
+      "count": 4,
+      "id": 65,
+      "name": "Czechia",
+      "relative": 2.1,
+      "slug": "65-czechia",
+      "url": "countries/65-czechia/"
+    },
+    {
+      "count": 4,
+      "id": 20,
+      "name": "Greece",
+      "relative": 2.1,
+      "slug": "20-greece",
+      "url": "countries/20-greece/"
+    },
+    {
+      "count": 3,
+      "id": 10,
+      "name": "Vatican",
+      "relative": 1.3,
+      "slug": "10-vatican",
+      "url": "countries/10-vatican/"
+    },
+    {
+      "count": 2,
+      "id": 22,
+      "name": "Bahamas",
+      "relative": 1.1,
+      "slug": "22-bahamas",
+      "url": "countries/22-bahamas/"
+    },
+    {
+      "count": 2,
+      "id": 24,
+      "name": "Cayman Islands",
+      "relative": 1.1,
+      "slug": "24-cayman-islands",
+      "url": "countries/24-cayman-islands/"
+    },
+    {
+      "count": 2,
+      "id": 23,
+      "name": "Jamaica",
+      "relative": 1.1,
+      "slug": "23-jamaica",
+      "url": "countries/23-jamaica/"
+    },
+    {
+      "count": 2,
+      "id": 21,
+      "name": "Mexico",
+      "relative": 1.1,
+      "slug": "21-mexico",
+      "url": "countries/21-mexico/"
+    },
+    {
+      "count": 2,
+      "id": 5,
+      "name": "Falkland Islands",
+      "relative": 1.0,
+      "slug": "5-falkland-islands",
+      "url": "countries/5-falkland-islands/"
+    },
+    {
+      "count": 2,
+      "id": 2,
+      "name": "Paraguay",
+      "relative": 1.0,
+      "slug": "2-paraguay",
+      "url": "countries/2-paraguay/"
+    },
+    {
+      "count": 1,
+      "id": 115,
+      "name": "Luxembourg",
+      "relative": 0.4,
+      "slug": "115-luxembourg",
+      "url": "countries/115-luxembourg/"
+    }
+  ],
+  "top_countries_by_places": [
+    {
+      "count": 61,
+      "id": 14,
+      "name": "Netherlands",
+      "relative": 100.0,
+      "slug": "14-netherlands",
+      "url": "countries/14-netherlands/"
+    },
+    {
+      "count": 43,
+      "id": 8,
+      "name": "Italy",
+      "relative": 70.5,
+      "slug": "8-italy",
+      "url": "countries/8-italy/"
+    },
+    {
+      "count": 33,
+      "id": 1,
+      "name": "Brazil",
+      "relative": 54.1,
+      "slug": "1-brazil",
+      "url": "countries/1-brazil/"
+    },
+    {
+      "count": 16,
+      "id": 12,
+      "name": "Scotland",
+      "relative": 26.2,
+      "slug": "12-scotland",
+      "url": "countries/12-scotland/"
+    },
+    {
+      "count": 15,
+      "id": 9,
+      "name": "France",
+      "relative": 24.6,
+      "slug": "9-france",
+      "url": "countries/9-france/"
+    },
+    {
+      "count": 11,
+      "id": 7,
+      "name": "Switzerland",
+      "relative": 18.0,
+      "slug": "7-switzerland",
+      "url": "countries/7-switzerland/"
+    },
+    {
+      "count": 10,
+      "id": 25,
+      "name": "Norway",
+      "relative": 16.4,
+      "slug": "25-norway",
+      "url": "countries/25-norway/"
+    },
+    {
+      "count": 10,
+      "id": 16,
+      "name": "Spain",
+      "relative": 16.4,
+      "slug": "16-spain",
+      "url": "countries/16-spain/"
+    },
+    {
+      "count": 10,
+      "id": 13,
+      "name": "United States",
+      "relative": 16.4,
+      "slug": "13-united-states",
+      "url": "countries/13-united-states/"
+    },
+    {
+      "count": 9,
+      "id": 18,
+      "name": "Portugal",
+      "relative": 14.8,
+      "slug": "18-portugal",
+      "url": "countries/18-portugal/"
+    },
+    {
+      "count": 8,
+      "id": 19,
+      "name": "Germany",
+      "relative": 13.1,
+      "slug": "19-germany",
+      "url": "countries/19-germany/"
+    },
+    {
+      "count": 7,
+      "id": 15,
+      "name": "Belgium",
+      "relative": 11.5,
+      "slug": "15-belgium",
+      "url": "countries/15-belgium/"
+    },
+    {
+      "count": 6,
+      "id": 11,
+      "name": "England",
+      "relative": 9.8,
+      "slug": "11-england",
+      "url": "countries/11-england/"
+    },
+    {
+      "count": 6,
+      "id": 129,
+      "name": "Morocco",
+      "relative": 9.8,
+      "slug": "129-morocco",
+      "url": "countries/129-morocco/"
+    },
+    {
+      "count": 5,
+      "id": 62,
+      "name": "Croatia",
+      "relative": 8.2,
+      "slug": "62-croatia",
+      "url": "countries/62-croatia/"
+    },
+    {
+      "count": 4,
+      "id": 67,
+      "name": "Denmark",
+      "relative": 6.6,
+      "slug": "67-denmark",
+      "url": "countries/67-denmark/"
+    },
+    {
+      "count": 4,
+      "id": 93,
+      "name": "India",
+      "relative": 6.6,
+      "slug": "93-india",
+      "url": "countries/93-india/"
+    },
+    {
+      "count": 3,
+      "id": 6,
+      "name": "Chile",
+      "relative": 4.9,
+      "slug": "6-chile",
+      "url": "countries/6-chile/"
+    },
+    {
+      "count": 3,
+      "id": 167,
+      "name": "Slovenia",
+      "relative": 4.9,
+      "slug": "167-slovenia",
+      "url": "countries/167-slovenia/"
+    },
+    {
+      "count": 2,
+      "id": 3,
+      "name": "Argentina",
+      "relative": 3.3,
+      "slug": "3-argentina",
+      "url": "countries/3-argentina/"
+    },
+    {
+      "count": 2,
+      "id": 26,
+      "name": "Iceland",
+      "relative": 3.3,
+      "slug": "26-iceland",
+      "url": "countries/26-iceland/"
+    },
+    {
+      "count": 2,
+      "id": 4,
+      "name": "Uruguay",
+      "relative": 3.3,
+      "slug": "4-uruguay",
+      "url": "countries/4-uruguay/"
+    },
+    {
+      "count": 2,
+      "id": 10,
+      "name": "Vatican",
+      "relative": 3.3,
+      "slug": "10-vatican",
+      "url": "countries/10-vatican/"
+    },
+    {
+      "count": 1,
+      "id": 22,
+      "name": "Bahamas",
+      "relative": 1.6,
+      "slug": "22-bahamas",
+      "url": "countries/22-bahamas/"
+    },
+    {
+      "count": 1,
+      "id": 24,
+      "name": "Cayman Islands",
+      "relative": 1.6,
+      "slug": "24-cayman-islands",
+      "url": "countries/24-cayman-islands/"
+    },
+    {
+      "count": 1,
+      "id": 65,
+      "name": "Czechia",
+      "relative": 1.6,
+      "slug": "65-czechia",
+      "url": "countries/65-czechia/"
+    },
+    {
+      "count": 1,
+      "id": 5,
+      "name": "Falkland Islands",
+      "relative": 1.6,
+      "slug": "5-falkland-islands",
+      "url": "countries/5-falkland-islands/"
+    },
+    {
+      "count": 1,
+      "id": 20,
+      "name": "Greece",
+      "relative": 1.6,
+      "slug": "20-greece",
+      "url": "countries/20-greece/"
+    },
+    {
+      "count": 1,
+      "id": 23,
+      "name": "Jamaica",
+      "relative": 1.6,
+      "slug": "23-jamaica",
+      "url": "countries/23-jamaica/"
+    },
+    {
+      "count": 1,
+      "id": 115,
+      "name": "Luxembourg",
+      "relative": 1.6,
+      "slug": "115-luxembourg",
+      "url": "countries/115-luxembourg/"
+    },
+    {
+      "count": 1,
+      "id": 27,
+      "name": "Maldives",
+      "relative": 1.6,
+      "slug": "27-maldives",
+      "url": "countries/27-maldives/"
+    },
+    {
+      "count": 1,
+      "id": 21,
+      "name": "Mexico",
+      "relative": 1.6,
+      "slug": "21-mexico",
+      "url": "countries/21-mexico/"
+    },
+    {
+      "count": 1,
+      "id": 2,
+      "name": "Paraguay",
+      "relative": 1.6,
+      "slug": "2-paraguay",
+      "url": "countries/2-paraguay/"
+    },
+    {
+      "count": 1,
+      "id": 17,
+      "name": "Serbia",
+      "relative": 1.6,
+      "slug": "17-serbia",
+      "url": "countries/17-serbia/"
+    },
+    {
+      "count": 1,
+      "id": 176,
+      "name": "Sweden",
+      "relative": 1.6,
+      "slug": "176-sweden",
+      "url": "countries/176-sweden/"
+    }
+  ],
+  "trip_calendar": [
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 1998
+    },
+    {
+      "months": [
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 1999
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2000
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2001
+    },
+    {
+      "months": [
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2002
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2003
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2004
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Dec"
+        }
+      ],
+      "year": 2005
+    },
+    {
+      "months": [
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jan"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2006
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2007
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2008
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2009
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2010
+    },
+    {
+      "months": [
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jan"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2011
+    },
+    {
+      "months": [
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Dec"
+        }
+      ],
+      "year": 2012
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Dec"
+        }
+      ],
+      "year": 2013
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Dec"
+        }
+      ],
+      "year": 2014
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Nov"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Dec"
+        }
+      ],
+      "year": 2015
+    },
+    {
+      "months": [
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jan"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Feb"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "May"
+        },
+        {
+          "count": 5,
+          "intensity": 4,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Aug"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Sep"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Oct"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Nov"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Dec"
+        }
+      ],
+      "year": 2016
+    },
+    {
+      "months": [
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Jan"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Aug"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Sep"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Dec"
+        }
+      ],
+      "year": 2017
+    },
+    {
+      "months": [
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jan"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Jul"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Aug"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Nov"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Dec"
+        }
+      ],
+      "year": 2018
+    },
+    {
+      "months": [
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Mar"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Apr"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "May"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 4,
+          "intensity": 3,
+          "month": "Aug"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Nov"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Dec"
+        }
+      ],
+      "year": 2019
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Aug"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Dec"
+        }
+      ],
+      "year": 2020
+    },
+    {
+      "months": [
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Jan"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Apr"
+        },
+        {
+          "count": 4,
+          "intensity": 3,
+          "month": "May"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Oct"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Nov"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Dec"
+        }
+      ],
+      "year": 2021
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Feb"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Mar"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Apr"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "May"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Aug"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Sep"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Oct"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Nov"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Dec"
+        }
+      ],
+      "year": 2022
+    },
+    {
+      "months": [
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Jan"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Feb"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Mar"
+        },
+        {
+          "count": 4,
+          "intensity": 3,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Aug"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Sep"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Oct"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Nov"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Dec"
+        }
+      ],
+      "year": 2023
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Feb"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Mar"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 6,
+          "intensity": 4,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Aug"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Sep"
+        },
+        {
+          "count": 4,
+          "intensity": 3,
+          "month": "Oct"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Nov"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Dec"
+        }
+      ],
+      "year": 2024
+    },
+    {
+      "months": [
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jan"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 4,
+          "intensity": 3,
+          "month": "Jun"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Jul"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "Aug"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Sep"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Oct"
+        },
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Nov"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Dec"
+        }
+      ],
+      "year": 2025
+    },
+    {
+      "months": [
+        {
+          "count": 2,
+          "intensity": 2,
+          "month": "Jan"
+        },
+        {
+          "count": 3,
+          "intensity": 3,
+          "month": "Feb"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Mar"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Apr"
+        },
+        {
+          "count": 1,
+          "intensity": 1,
+          "month": "May"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jun"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Jul"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Aug"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Sep"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Oct"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Nov"
+        },
+        {
+          "count": 0,
+          "intensity": 0,
+          "month": "Dec"
+        }
+      ],
+      "year": 2026
+    }
+  ],
+  "years_represented": [
+    1998,
+    1999,
+    2002,
+    2005,
+    2006,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ]
+}

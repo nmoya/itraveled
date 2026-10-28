@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Trip to Valencia and Madrid</title>
+  <desc id="description">An ordered map of 2 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M -198.0 45.2 L -156.6 6.2 L -110.1 -16.2 L -81.5 59.0 L -14.1 58.8 L 5.5 39.5 L 71.9 44.8 L 103.8 121.4 L 51.1 162.5 L 49.6 279.9 L 31.1 301.8 L 26.5 372.1 L -22.8 384.3 L 22.9 472.7 L -8.5 568.8 L 30.8 612.0 L 15.1 651.3 L -27.1 705.3 L -17.6 752.8 L -63.5 789.8 L -123.6 769.7 L -182.5 785.5 L -165.1 673.3 L -175.8 584.3 L -226.8 570.9 L -254.1 515.6 L -245.0 419.4 L -199.5 365.7 L -191.5 305.5 L -167.6 215.4 L -170.2 151.4 L -193.0 96.8 L -198.0 45.2 Z"/><path d="M -17.6 752.8 L -27.1 705.3 L 15.1 651.3 L 30.8 612.0 L -8.5 568.8 L 22.9 472.7 L -22.8 384.3 L 26.5 372.1 L 31.1 301.8 L 49.6 279.9 L 51.1 162.5 L 103.8 121.4 L 71.9 44.8 L 5.5 39.5 L -14.1 58.8 L -81.5 59.0 L -110.1 -16.2 L -156.6 6.2 L -198.0 45.2 L -192.3 -64.5 L -238.9 -132.0 L -77.5 -245.3 L 62.1 -216.8 L 215.3 -217.8 L 336.7 -191.0 L 431.4 -199.2 L 615.8 -194.0 L 661.3 -133.1 L 871.3 -62.4 L 912.8 -96.0 L 1041.1 -25.9 L 1173.4 -46.0 L 1179.5 43.5 L 1071.4 145.0 L 925.2 177.0 L 915.0 227.8 L 844.9 310.8 L 800.9 431.5 L 845.4 515.5 L 779.4 580.5 L 754.8 674.6 L 668.6 703.3 L 587.8 813.2 L 443.0 815.3 L 334.3 812.7 L 262.8 862.8 L 219.3 916.2 L 163.5 904.5 L 121.2 856.7 L 88.9 774.9 L -17.6 752.8 Z"/></g>
+  <g class="countries"><text x="437.5" y="315.7">SPAIN</text></g>
+  <polyline class="route-underlay" points="410.2,267.0 789.8,408.0"/>
+  <polyline class="route" points="410.2,267.0 789.8,408.0"/>
+  <g class="stop"><text class="place" x="424.2" y="253.0" text-anchor="start">Madrid</text><circle cx="410.2" cy="267.0" r="13"/><text class="number" x="410.2" y="271.2">1</text></g><g class="stop"><text class="place" x="803.8" y="433.0" text-anchor="start">Valencia</text><circle cx="789.8" cy="408.0" r="13"/><text class="number" x="789.8" y="412.2">2</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>

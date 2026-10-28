@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Birthday trip to Mallorca</title>
+  <desc id="description">An ordered map of 1 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M -607.3 738.6 L -616.9 691.2 L -574.6 637.2 L -558.9 597.8 L -598.3 554.7 L -566.8 458.6 L -612.5 370.2 L -563.2 358.0 L -558.6 287.7 L -540.1 265.8 L -538.6 148.3 L -485.9 107.3 L -517.8 30.7 L -584.3 25.3 L -603.8 44.7 L -671.2 44.9 L -699.8 -30.3 L -746.3 -7.9 L -787.7 31.1 L -782.0 -78.6 L -828.6 -146.1 L -667.2 -259.4 L -527.6 -230.9 L -374.4 -231.9 L -253.0 -205.1 L -158.3 -213.3 L 26.1 -208.1 L 71.6 -147.2 L 281.6 -76.6 L 323.1 -110.1 L 451.4 -40.0 L 583.7 -60.1 L 589.8 29.4 L 481.7 130.9 L 335.5 162.9 L 325.3 213.7 L 255.2 296.7 L 211.2 417.4 L 255.7 501.4 L 189.7 566.4 L 165.0 660.5 L 78.9 689.1 L -1.9 799.1 L -146.7 801.2 L -255.4 798.5 L -326.9 848.7 L -370.4 902.0 L -426.3 890.3 L -468.5 842.6 L -500.8 760.8 L -607.3 738.6 Z"/><path d="M 1434.4 -769.9 L 1503.5 -746.2 L 1516.7 -777.9 L 1629.5 -807.0 L 1655.0 -748.9 L 1818.1 -706.0 L 1805.8 -624.7 L 1833.1 -555.0 L 1742.3 -578.8 L 1649.5 -521.0 L 1655.8 -440.7 L 1641.9 -394.9 L 1679.2 -313.7 L 1786.2 -234.0 L 1843.6 -104.7 L 1970.5 19.7 L 2059.9 18.8 L 2087.7 52.6 L 2055.7 83.0 L 2157.9 138.0 L 2241.7 183.7 L 2339.5 262.1 L 2351.3 290.0 L 2330.0 343.3 L 2266.7 273.7 L 2167.6 249.1 L 2119.6 345.6 L 2202.0 400.5 L 2188.5 477.3 L 2140.8 486.0 L 2079.9 610.9 L 2032.3 622.0 L 2032.8 577.7 L 2056.0 499.5 L 2080.8 468.2 L 2036.3 382.9 L 2001.5 308.0 L 1954.1 289.4 L 1920.4 224.7 L 1847.1 197.4 L 1797.8 136.6 L 1713.3 126.8 L 1624.2 58.1 L 1519.8 -41.9 L 1442.3 -131.2 L 1406.7 -286.5 L 1349.9 -305.0 L 1257.1 -357.5 L 1204.6 -336.0 L 1138.7 -262.4 L 1091.3 -250.8 L 1104.3 -319.5 L 1042.5 -339.7 L 1013.1 -463.8 L 1052.6 -513.1 L 1019.1 -574.2 L 1023.8 -620.5 L 1072.8 -585.4 L 1127.9 -593.2 L 1191.8 -648.9 L 1211.6 -622.8 L 1265.9 -628.0 L 1290.6 -694.5 L 1375.1 -673.8 L 1425.3 -701.7 L 1434.4 -769.9 Z"/></g>
+  <g class="countries"><text x="600.0" y="395.5">SPAIN</text></g>
+  <polyline class="route-underlay" points="600.0,337.5"/>
+  <polyline class="route" points="600.0,337.5"/>
+  <g class="stop"><text class="place" x="614.0" y="323.5" text-anchor="start">Pollentia</text><circle cx="600.0" cy="337.5" r="13"/><text class="number" x="600.0" y="341.7">1</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>

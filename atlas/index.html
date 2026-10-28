@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    
+    
+    
+
+    
+        <title>
+             Atlas
+            
+        </title>
+
+        
+            <meta property="og:title" content="Atlas" />
+        
+    
+
+    
+        
+            <meta property="og:description" content="Personal travel log by N. Moya." />
+        
+    
+
+    
+        
+            <meta name="description" content="Personal travel log by N. Moya." />
+        
+    
+
+    
+         <link rel="icon" type="image/svg+xml" href="https://itraveled.nikolasmoya.com/icon/favicon.svg" />
+    
+
+    
+
+    
+
+    
+    
+
+
+    
+        <link href="https://itraveled.nikolasmoya.com/css/fonts.css" rel="stylesheet" />
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href="https://itraveled.nikolasmoya.com/css/main.css" />
+
+    
+        <link
+            rel="stylesheet"
+            id="darkModeStyle"
+            type="text/css"
+            href="https://itraveled.nikolasmoya.com/css/dark.css"
+            
+            
+        />
+    
+
+    
+
+
+    
+    
+        
+            <link rel="stylesheet" type="text/css" media="screen" href="https://itraveled.nikolasmoya.com/css/travel.css" />
+        
+            <link rel="stylesheet" type="text/css" media="screen" href="https://itraveled.nikolasmoya.com/vendor/maplibre-gl/6.12.0/maplibre-gl.css" />
+        
+    
+
+    
+    
+
+
+</head>
+
+<body>
+  <div class="content travel-shell">
+    <header>
+    <div class="main" id="main_title">
+        <a href="https://itraveled.nikolasmoya.com">itraveled</a>
+    </div>
+
+    <nav>
+        
+        
+        
+        
+            <a href="https://itraveled.nikolasmoya.com">Statistics</a>
+        
+            <a href="https://itraveled.nikolasmoya.com/timeline">Timeline</a>
+        
+            <a href="https://itraveled.nikolasmoya.com/atlas">Atlas</a>
+        
+            <a href="https://itraveled.nikolasmoya.com/gallery">Gallery</a>
+        
+
+        
+
+        
+    </nav>
+</header>
+
+    
+<main data-atlas data-atlas-url="https://itraveled.nikolasmoya.com/generated/atlas.json" data-site-root="https://itraveled.nikolasmoya.com/">
+  <header class="page-heading atlas-page-heading">
+    <h1>Atlas</h1>
+    <p>A world atlas of recorded places and the journeys connecting them.</p>
+  </header>
+  <section class="atlas-shell" aria-label="Travel atlas">
+    <div class="atlas-grid">
+      <div class="atlas-search" role="search">
+        <label for="atlas-search">Search places</label>
+        <div class="atlas-search-field">
+          <input id="atlas-search" data-atlas-search type="search" role="combobox" autocomplete="off" placeholder="Place or country" aria-autocomplete="list" aria-controls="atlas-search-results" aria-expanded="false">
+          <button type="button" data-atlas-reset>Reset</button>
+        </div>
+        <div class="atlas-search-results" id="atlas-search-results" data-atlas-results role="listbox" hidden></div>
+        <p class="atlas-search-status" data-atlas-status aria-live="polite"></p>
+      </div>
+      <div class="atlas-map" data-atlas-map aria-label="Interactive map of recorded destinations"><p class="atlas-loading">Drawing the atlas...</p></div>
+      <aside class="atlas-dossier" data-atlas-dossier aria-live="polite"></aside>
+    </div>
+  </section>
+  <noscript><p class="data-panel">The interactive atlas requires JavaScript. Browse the journal by <a href="https://itraveled.nikolasmoya.com/places">place</a> or <a href="https://itraveled.nikolasmoya.com/countries">country</a>.</p></noscript>
+</main>
+<script type="module" src="https://itraveled.nikolasmoya.com/js/atlas.mjs"></script>
+
+    
+  </div>
+</body>
+</html>

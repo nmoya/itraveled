@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title description">
+  <title id="title">Route map for Friend visit in Porto</title>
+  <desc id="description">An ordered map of 1 recorded destinations.</desc>
+  <style>.land { fill: #24362c; fill-rule: evenodd; stroke: #526258; stroke-width: 1.1; vector-effect: non-scaling-stroke; }
+.countries text { fill: #9eaaa2; font: 600 13px system-ui, sans-serif; letter-spacing: 2.2px; paint-order: stroke; stroke: #17261f; stroke-width: 4px; stroke-linejoin: round; }
+.route-underlay { fill: none; stroke: #17261f; stroke-linecap: round; stroke-linejoin: round; stroke-width: 10px; }
+.route { fill: none; stroke: #e7b44c; stroke-linecap: round; stroke-linejoin: round; stroke-width: 5px; }
+.stop circle { fill: #f7f3ea; stroke: #ef7d58; stroke-width: 5px; }
+.stop .number { fill: #18201c; font: 700 12px system-ui, sans-serif; text-anchor: middle; }
+.stop .leader { fill: none; stroke: #89978e; stroke-width: 1px; }
+.stop .place { fill: #f7f3ea; font: 700 17px system-ui, sans-serif; paint-order: stroke; stroke: #17261f; stroke-width: 5px; stroke-linejoin: round; }</style>
+  <rect width="1200" height="675" fill="#101914"/>
+  <g class="land"><path d="M 2288.1 -1014.7 L 2341.9 -968.8 L 2506.3 -936.7 L 2448.6 -818.4 L 2434.1 -697.0 L 2402.8 -668.1 L 2350.8 -683.7 L 2354.5 -640.8 L 2271.1 -546.8 L 2269.4 -471.8 L 2323.9 -497.7 L 2363.1 -425.4 L 2358.4 -379.1 L 2391.9 -318.0 L 2352.4 -268.7 L 2381.8 -144.6 L 2443.6 -124.4 L 2430.5 -55.7 L 2327.2 33.0 L 2102.2 -9.4 L 1936.0 41.4 L 1923.0 135.0 L 1790.7 155.0 L 1662.3 85.0 L 1620.9 118.5 L 1410.9 47.9 L 1365.4 -13.0 L 1424.4 -107.7 L 1446.1 -429.3 L 1328.4 -603.4 L 1244.2 -688.5 L 1069.9 -753.8 L 1058.4 -878.9 L 1206.3 -916.6 L 1397.9 -872.0 L 1361.7 -1069.7 L 1469.4 -994.3 L 1735.0 -1131.9 L 1769.3 -1279.0 L 1869.1 -1315.6 L 1885.6 -1251.9 L 1938.6 -1249.0 L 1991.7 -1176.8 L 2071.3 -1092.9 L 2129.8 -1106.7 L 2229.6 -1026.2 L 2255.2 -1011.0 L 2288.1 -1014.7 Z"/><path d="M 551.6 226.2 L 593.0 187.2 L 639.5 164.8 L 668.1 240.0 L 735.5 239.8 L 755.0 220.4 L 821.5 225.8 L 853.4 302.3 L 800.7 343.4 L 799.2 460.9 L 780.7 482.8 L 776.1 553.1 L 726.8 565.3 L 772.5 653.7 L 741.0 749.8 L 780.4 792.9 L 764.7 832.3 L 722.4 886.3 L 732.0 933.7 L 686.1 970.8 L 626.0 950.7 L 567.1 966.4 L 584.5 854.3 L 573.8 765.3 L 522.8 751.9 L 495.5 696.6 L 504.6 600.4 L 550.0 546.7 L 558.1 486.5 L 581.9 396.4 L 579.4 332.3 L 556.6 277.7 L 551.6 226.2 Z"/><path d="M 732.0 933.7 L 722.4 886.3 L 764.7 832.3 L 780.4 792.9 L 741.0 749.8 L 772.5 653.7 L 726.8 565.3 L 776.1 553.1 L 780.7 482.8 L 799.2 460.9 L 800.7 343.4 L 853.4 302.3 L 821.5 225.8 L 755.0 220.4 L 735.5 239.8 L 668.1 240.0 L 639.5 164.8 L 593.0 187.2 L 551.6 226.2 L 557.3 116.5 L 510.7 49.0 L 672.1 -64.3 L 811.7 -35.8 L 964.9 -36.8 L 1086.3 -10.0 L 1181.0 -18.2 L 1365.4 -13.0 L 1410.9 47.9 L 1620.9 118.5 L 1662.3 85.0 L 1790.7 155.0 L 1923.0 135.0 L 1929.1 224.5 L 1821.0 326.0 L 1674.8 358.0 L 1664.6 408.7 L 1594.5 491.8 L 1550.5 612.5 L 1595.0 696.4 L 1529.0 761.5 L 1504.3 855.6 L 1418.2 884.2 L 1337.4 994.2 L 1192.6 996.3 L 1083.9 993.6 L 1012.4 1043.7 L 968.9 1097.1 L 913.0 1085.4 L 870.8 1037.7 L 838.5 955.9 L 732.0 933.7 Z"/></g>
+  <g class="countries"><text x="638.6" y="568.7">PORTUGAL</text></g>
+  <polyline class="route-underlay" points="600.0,337.5"/>
+  <polyline class="route" points="600.0,337.5"/>
+  <g class="stop"><text class="place" x="614.0" y="323.5" text-anchor="start">Porto</text><circle cx="600.0" cy="337.5" r="13"/><text class="number" x="600.0" y="341.7">1</text></g>
+  <rect x="1" y="1" width="1198" height="673" fill="none" stroke="#526258" stroke-width="2"/>
+</svg>
