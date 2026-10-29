@@ -8,6 +8,8 @@ maplibregl.setWorkerUrl(new URL(
 
 const mapRoot = document.querySelector("[data-trip-map]");
 const mapElement = mapRoot?.querySelector("[data-trip-map-canvas]");
+const mapStatus = mapRoot?.querySelector("[data-trip-map-status]");
+const mapFallback = mapRoot?.querySelector(".trip-map-fallback");
 const stops = [...document.querySelectorAll("[data-trip-route] li")]
   .map((element, index) => ({
     order: index + 1,
@@ -15,6 +17,7 @@ const stops = [...document.querySelectorAll("[data-trip-route] li")]
     longitude: Number.parseFloat(element.dataset.longitude),
   }))
   .filter((stop) => Number.isFinite(stop.latitude) && Number.isFinite(stop.longitude));
+const mobileLayout = window.matchMedia("(max-width: 720px)");
 
 const pointCollection = {
   type: "FeatureCollection",
@@ -58,10 +61,26 @@ const routeCollection = {
   })),
 };
 
+const waitForMapEvent = (map, eventName, timeoutMessage) => new Promise((resolve, reject) => {
+  const onEvent = () => {
+    window.clearTimeout(timeout);
+    resolve();
+  };
+  const timeout = window.setTimeout(() => {
+    map.off(eventName, onEvent);
+    reject(new Error(timeoutMessage));
+  }, 15000);
+  map.once(eventName, onEvent);
+});
+
 const start = async () => {
-  if (!mapRoot || !mapElement || !stops.length) return;
+  if (!mapRoot || !mapElement) return;
+  mapRoot.setAttribute("aria-busy", "true");
   let map;
+  let updateMarkers;
+  let resizeObserver;
   try {
+    if (!stops.length) throw new Error("Trip has no mappable stops");
     map = new maplibregl.Map({
       container: mapElement,
       style: new URL("../map/atlas-style.json", import.meta.url).href,
@@ -72,10 +91,10 @@ const start = async () => {
       maxPitch: 0,
     });
     map.on("error", (event) => console.warn("Trip map resource error", event.error));
-    await Promise.race([
-      new Promise((resolve) => map.once("load", resolve)),
-      new Promise((_, reject) => window.setTimeout(() => reject(new Error("Map style timed out")), 15000)),
-    ]);
+    await waitForMapEvent(map, "load", "Map style timed out");
+    const contextualLabels = map.getStyle().layers
+      .filter((layer) => layer.type === "symbol" && !layer.id.startsWith("label_country_"))
+      .map((layer) => ({ id: layer.id, visibility: layer.layout?.visibility ?? "visible" }));
     map.addSource("trip-route", { type: "geojson", data: routeCollection });
     map.addSource("trip-stops", { type: "geojson", data: pointCollection });
     map.addLayer({
@@ -110,21 +129,55 @@ const start = async () => {
       layout: { "text-field": ["get", "order"], "text-size": 12 },
       paint: { "text-color": "#18201c" },
     });
+    updateMarkers = () => {
+      map.setPaintProperty("trip-stops", "circle-radius", mobileLayout.matches ? 4.5 : 12);
+      map.setPaintProperty("trip-stops", "circle-stroke-width", mobileLayout.matches ? 1.5 : 4);
+      map.setLayoutProperty("trip-stop-numbers", "visibility", mobileLayout.matches ? "none" : "visible");
+      map.setPaintProperty("trip-route", "line-width", mobileLayout.matches ? 3 : 4);
+      map.setPaintProperty("trip-route-underlay", "line-width", mobileLayout.matches ? 6 : 8);
+      contextualLabels.forEach(({ id, visibility }) => {
+        map.setLayoutProperty(id, "visibility", mobileLayout.matches ? "none" : visibility);
+      });
+    };
+    updateMarkers();
+    mobileLayout.addEventListener("change", updateMarkers);
 
-    if (stops.length === 1) {
-      map.jumpTo({ center: [stops[0].longitude, stops[0].latitude], zoom: 10 });
-    } else {
-      const bounds = new maplibregl.LngLatBounds();
-      stops.forEach((stop) => bounds.extend([stop.longitude, stop.latitude]));
-      map.fitBounds(bounds, { padding: 64, maxZoom: 11, duration: 0 });
-    }
+    const bounds = new maplibregl.LngLatBounds();
+    stops.forEach((stop) => bounds.extend([stop.longitude, stop.latitude]));
+    const fitRoute = () => {
+      map.resize();
+      if (stops.length === 1) {
+        map.jumpTo({ center: [stops[0].longitude, stops[0].latitude], zoom: 10 });
+      } else {
+        map.fitBounds(bounds, { padding: mobileLayout.matches ? 32 : 64, maxZoom: 11, duration: 0 });
+      }
+    };
+    fitRoute();
+    resizeObserver = new ResizeObserver(fitRoute);
+    resizeObserver.observe(mapElement);
+    await waitForMapEvent(map, "idle", "Map tiles timed out");
     collapseAttribution(mapElement);
-    mapRoot.querySelector(".trip-map-fallback")?.setAttribute("aria-hidden", "true");
     mapElement.removeAttribute("aria-hidden");
     mapRoot.classList.add("is-ready");
+    mapStatus.hidden = true;
+    mapRoot.removeAttribute("aria-busy");
   } catch (error) {
     console.error(error);
+    resizeObserver?.disconnect();
+    if (updateMarkers) mobileLayout.removeEventListener("change", updateMarkers);
     map?.remove();
+    mapStatus.textContent = "Loading fallback map…";
+    mapFallback.onload = () => {
+      mapStatus.hidden = true;
+      mapRoot.removeAttribute("aria-busy");
+    };
+    mapFallback.onerror = () => {
+      mapFallback.hidden = true;
+      mapStatus.textContent = "Map unavailable.";
+      mapRoot.removeAttribute("aria-busy");
+    };
+    mapFallback.hidden = false;
+    mapFallback.src = mapFallback.dataset.src;
   }
 };
 

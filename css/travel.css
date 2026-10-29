@@ -50,8 +50,7 @@ main { min-height: 65vh; }
 .panel-heading > p { color: var(--muted); text-align: right; }
 .panel-link { color: var(--muted); font-size: .8rem; white-space: nowrap; }
 .latest-trip-list { border-top: 1px solid var(--bordercl); display: grid; grid-template-columns: repeat(3, 1fr); }
-.latest-trip { border-bottom: 0; border-right: 1px solid var(--bordercl); color: inherit; display: grid; gap: 7px; min-width: 0; padding: 20px 20px 20px 0; }
-.latest-trip + .latest-trip { padding-left: 20px; }
+.latest-trip { border-bottom: 0; border-right: 1px solid var(--bordercl); color: inherit; display: grid; gap: 7px; min-width: 0; padding: 20px; }
 .latest-trip:last-child { border-right: 0; padding-right: 0; }
 .latest-trip:hover, .latest-trip:focus-visible { background: rgba(var(--moss-rgb), .12); color: inherit; }
 .latest-trip time, .latest-trip span { color: var(--muted); font-size: .75rem; line-height: 1.5; }
@@ -93,9 +92,12 @@ main { min-height: 65vh; }
 .trip-overview.has-map { grid-template-columns: minmax(0, 2fr) minmax(260px, .75fr); }
 .trip-map { align-self: stretch; background: #101914; display: grid; margin: 0; max-width: none; min-height: 420px; overflow: hidden; padding: 0; position: relative; }
 .trip-map-fallback, .trip-map-canvas { grid-area: 1 / 1; height: 100%; width: 100%; }
-.trip-map-fallback { display: block; object-fit: cover; }
-.trip-map-canvas { opacity: 0; position: relative; transition: opacity .2s ease-out; z-index: 1; }
-.trip-map.is-ready .trip-map-canvas { opacity: 1; }
+.trip-map-fallback { border: 0; display: block; object-fit: cover; }
+.trip-map-fallback[hidden], .trip-map-loading[hidden] { display: none; }
+.trip-map-loading { color: var(--muted); left: 50%; margin: 0; position: absolute; top: 50%; transform: translate(-50%, -50%); z-index: 2; }
+.trip-map noscript { grid-area: 1 / 1; }
+.trip-map-canvas { position: relative; visibility: hidden; z-index: 1; }
+.trip-map.is-ready .trip-map-canvas { visibility: visible; }
 .trip-sidebar { display: flex; flex-direction: column; min-width: 0; }
 .trip-overview.has-map .trip-sidebar { border-left: 1px solid var(--bordercl); }
 .route-card { margin: 0; padding: 28px; }
@@ -107,19 +109,21 @@ main { min-height: 65vh; }
 .trip-gallery { border-top: 1px solid var(--bordercl); margin-top: 56px; padding-top: 24px; }
 .trip-gallery-stream { display: grid; gap: clamp(40px, 7vw, 84px); }
 .trip-photograph { margin: 0; min-width: 0; padding: 0; }
-.trip-photograph img { display: block; height: auto; max-height: 82vh; max-width: 100%; width: auto; }
+.trip-photograph img { border: 0; display: block; height: auto; max-height: 82vh; max-width: 100%; width: auto; }
 .trip-photograph figcaption { border-top: 1px solid var(--bordercl); color: var(--muted); font-family: Georgia, serif; font-size: 1rem; line-height: 1.55; margin-top: 10px; max-width: 720px; padding-top: 9px; }
 .trip-closing-note { border-top: 1px solid var(--bordercl); margin-top: 64px; padding-top: 24px; }
 .trip-closing-note h2 { font-size: clamp(2rem, 4vw, 3.3rem); font-weight: 400; letter-spacing: -.045em; line-height: 1; margin: 12px 0 22px; }
 .gallery-heading { max-width: 800px; }
-.global-gallery { columns: 2; column-gap: 18px; }
-.global-photograph { break-inside: avoid; margin: 0 0 32px; }
+.gallery-month-nav { background: var(--paper); border-bottom: 1px solid var(--bordercl); display: flex; gap: 16px; margin-bottom: 28px; overflow-x: auto; padding: 8px 0 12px; position: sticky; top: 0; z-index: 2; }
+.gallery-month-nav a { border-bottom: 0; color: var(--muted); flex: 0 0 auto; font-size: .85rem; padding: 5px 0; }
+.gallery-month-nav a:hover, .gallery-month-nav a:focus-visible, .gallery-month-nav a[aria-current="location"] { border-bottom: 1px solid var(--maincolor); color: var(--ink); }
+.gallery-month[hidden] { display: none; }
+.gallery-month h2 { font-size: 1.8rem; font-weight: 400; margin: 0 0 20px; }
+.global-gallery { columns: 4; column-gap: 12px; }
+.global-photograph { break-inside: avoid; box-sizing: border-box; display: block; margin: 0 0 12px; padding: 0; width: 100%; }
 .global-photograph > a { border-bottom: 0; display: block; }
-.global-photograph img { background: #101914; display: block; height: auto; width: 100%; }
+.global-photograph img { background: #101914; border: 0; box-sizing: border-box; display: block; height: auto; max-height: none; width: 100%; }
 [data-protected-photograph] { -webkit-touch-callout: none; -webkit-user-drag: none; user-select: none; }
-.global-photograph figcaption { border-top: 1px solid var(--bordercl); display: grid; gap: 5px; line-height: 1.45; padding-top: 9px; }
-.global-photograph figcaption span { font-family: Georgia, serif; }
-.global-photograph figcaption a { color: var(--muted); font-size: .75rem; justify-self: start; }
 .gallery-empty { color: var(--muted); }
 .trip-facts { border-top: 1px solid var(--bordercl); margin: auto 28px 0; }
 .trip-facts div { border-bottom: 1px solid var(--bordercl); display: grid; gap: 10px; grid-template-columns: 90px 1fr; padding: 15px 0; }
@@ -130,6 +134,27 @@ main { min-height: 65vh; }
 .place-card:hover, .place-card:focus-visible, .country-grid > a:hover, .country-grid > a:focus-visible { background: var(--moss); color: var(--paper); }
 .place-card span, .country-grid span { color: var(--muted); }
 .place-card small, .country-grid small { margin-top: auto; }
+.country-map-section { border: 1px solid var(--bordercl); margin-bottom: 34px; }
+.country-map-heading { align-items: baseline; display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: space-between; padding: 16px 24px; }
+.country-map-heading p:last-child { color: var(--muted); font-size: .8rem; margin: 0; }
+.country-map { background: #101914; height: clamp(380px, 54vw, 590px); position: relative; }
+.country-map-canvas { height: 100%; visibility: hidden; width: 100%; }
+.country-map.is-ready .country-map-canvas { visibility: visible; }
+.country-map-status, .country-map-noscript { color: var(--muted); left: 50%; margin: 0; position: absolute; text-align: center; top: 50%; transform: translate(-50%, -50%); width: 80%; }
+.country-map-status[hidden] { display: none; }
+.country-map noscript .country-map-noscript { background: #101914; }
+.country-map .maplibregl-ctrl-group { background: #18201c; border: 1px solid var(--bordercl); border-radius: 0; box-shadow: none; }
+.country-map .maplibregl-ctrl-group button + button { border-top-color: var(--bordercl); }
+.country-map .maplibregl-ctrl-icon { filter: invert(1); opacity: .72; }
+.country-map .maplibregl-ctrl.maplibregl-ctrl-attrib { background-color: #000; color: var(--muted); }
+.country-map .maplibregl-ctrl-attrib-button { background-color: var(--muted); }
+.country-map .maplibregl-ctrl-attrib a { border-bottom: 0; color: var(--ink); text-decoration: underline; }
+.country-map-popup .maplibregl-popup-content { background: var(--paper); border: 1px solid var(--bordercl); border-radius: 0; box-shadow: 0 8px 24px #0008; color: var(--ink); font: inherit; padding: 14px 18px; }
+.country-map-popup .maplibregl-popup-content > div { display: grid; }
+.country-map-popup .maplibregl-popup-content a { font-family: "Source Serif 4", Georgia, serif; font-size: 1.2rem; margin-right: 20px; }
+.country-map-popup .maplibregl-popup-content span { color: var(--muted); font-size: .75rem; margin-top: 4px; }
+.country-map-popup .maplibregl-popup-tip { border-top-color: var(--paper); }
+.country-map-popup .maplibregl-popup-close-button { color: var(--ink); font-size: 1.2rem; padding: 2px 6px; }
 .visit-list a { align-items: baseline; display: grid; gap: 20px; grid-template-columns: 130px 1fr; padding: 12px 0; }
 .timeline { border-left: 1px solid var(--bordercl); margin-left: 12px; padding-left: 35px; }
 .timeline-controls { align-items: center; display: flex; gap: 10px; justify-content: end; margin: 0 0 24px; }
@@ -210,7 +235,7 @@ a:focus-visible { outline: 2px solid var(--link-focus); outline-offset: 3px; }
 .stat-link:hover, .stat-link:focus-visible, .latest-trip:hover, .latest-trip:focus-visible, .atlas-trip-card:hover, .atlas-trip-card:focus-visible { color: inherit; }
 .place-card:hover, .place-card:focus-visible, .country-grid > a:hover, .country-grid > a:focus-visible { color: var(--paper); }
 .tag-cloud a:hover, .tag-cloud a:focus-visible { border-color: var(--link); }
-.atlas-map .maplibregl-ctrl-attrib a:hover, .trip-map .maplibregl-ctrl-attrib a:hover { background: transparent; color: var(--link); }
+.atlas-map .maplibregl-ctrl-attrib a:hover, .trip-map .maplibregl-ctrl-attrib a:hover, .country-map .maplibregl-ctrl-attrib a:hover { background: transparent; color: var(--link); }
 
 @media (max-width: 720px) {
   .travel-shell { padding: 0 18px; }
@@ -230,18 +255,25 @@ a:focus-visible { outline: 2px solid var(--link-focus); outline-offset: 3px; }
   .journal-entry time { grid-column: 1 / -1; }
   .trip-overview.has-map { grid-template-columns: 1fr; }
   .trip-map { min-height: 0; }
-  .trip-map-fallback, .trip-map-canvas { aspect-ratio: 16 / 10; }
+  .trip-map-fallback, .trip-map-canvas { aspect-ratio: 4 / 5; }
   .trip-overview.has-map .trip-sidebar { border-left: 0; border-top: 1px solid var(--bordercl); }
   .route-card { padding: 24px 18px; }
   .trip-facts { margin: 0 18px; }
   .trip-facts div, .visit-list a { grid-template-columns: 1fr; gap: 5px; }
-  .global-gallery { columns: 1; }
+  .country-map { height: min(58vh, 490px); min-height: 340px; }
+  .country-map-heading { padding: 14px 18px; }
+  .global-gallery { columns: 2; }
   .atlas-shell { margin-left: -18px; margin-right: -18px; width: calc(100% + 36px); }
   .atlas-search { border-left: 0; padding: 14px 18px; position: sticky; top: 0; }
   .atlas-search-results { top: calc(100% - 14px); }
   .atlas-grid { grid-template-areas: "search" "map" "dossier"; grid-template-columns: 1fr; grid-template-rows: auto auto auto; }
   .atlas-map { min-height: 42vh; }
   .atlas-dossier { border-left: 0; border-top: 1px solid var(--bordercl); max-height: none; min-height: 380px; overflow: visible; padding: 24px 18px 32px; }
+}
+
+@media (max-width: 899px) {
+  .trip-photograph { display: block; width: 100%; }
+  .trip-photograph img { box-sizing: border-box; max-height: none; width: 100%; }
 }
 
 @media (min-width: 900px) {

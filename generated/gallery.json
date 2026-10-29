@@ -1,6 +1,1894 @@
 {
   "photographs": [
     {
+      "caption": "It was 3 years since the last time we visited the event. I'm glad we were able to go this year. The event was even bigger than previous years. We were able to see most of the things we were interested, but a few hours more would not have hurt.",
+      "countries": [
+        {
+          "id": 19,
+          "name": "Germany",
+          "slug": "19-germany",
+          "url": "countries/19-germany/"
+        }
+      ],
+      "featured": false,
+      "height": 2754,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/648-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/648-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/648-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/648-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "October 2026",
+        "id": 240,
+        "month": 10,
+        "month_name": "October",
+        "name": "Spiel de Jahrs 2026",
+        "slug": "240-spiel-de-jahrs-2026",
+        "url": "journal/240-spiel-de-jahrs-2026/",
+        "year": 2026
+      },
+      "url": "generated/photos/648-3840.avif",
+      "width": 4896
+    },
+    {
+      "caption": "Timespan being explained to the public during the event.",
+      "countries": [
+        {
+          "id": 19,
+          "name": "Germany",
+          "slug": "19-germany",
+          "url": "countries/19-germany/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/649-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/649-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/649-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/649-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "October 2026",
+        "id": 240,
+        "month": 10,
+        "month_name": "October",
+        "name": "Spiel de Jahrs 2026",
+        "slug": "240-spiel-de-jahrs-2026",
+        "url": "journal/240-spiel-de-jahrs-2026/",
+        "year": 2026
+      },
+      "url": "generated/photos/649-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "During Durga Puja this year, we were fortunate to visit a celebration here in the Netherlands. An association from Utrecht hosted a dinner and celebrated with a pandal and traditional dances. It was very memorable and nostalgic from our previous trip in 2024!",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/647-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/647-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/647-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/647-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "October 2026",
+        "id": 239,
+        "month": 10,
+        "month_name": "October",
+        "name": "Durga Puja in Utrecht!",
+        "slug": "239-durga-puja-in-utrecht",
+        "url": "journal/239-durga-puja-in-utrecht/",
+        "year": 2026
+      },
+      "url": "generated/photos/647-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Real module for the ISS built by ESA.",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/646-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/646-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/646-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/646-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 238,
+        "month": 9,
+        "month_name": "September",
+        "name": "Open day at ESA",
+        "slug": "238-open-day-at-esa",
+        "url": "journal/238-open-day-at-esa/",
+        "year": 2026
+      },
+      "url": "generated/photos/646-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "We started our trip revisiting the city of Sirmione. It was great for me to return after so many years and to create new memories with my friends.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/641-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/641-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/641-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/641-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/641-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Our first hike was on Seceda. A mountain range near Ortisei. We took a lift that costed us a kidney. On the way down, we used the second kidney. The view was worth it.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 2268,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/636-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/636-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/636-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/636-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/636-3840.avif",
+      "width": 4032
+    },
+    {
+      "caption": "M.F. and S.B near Seceda mountain.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/631-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/631-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/631-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/631-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/631-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "A found a slice of rock that I could go for a picture. The picture was not worth it, but climbing the rock was!",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 2268,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/632-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/632-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/632-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/632-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/632-3840.avif",
+      "width": 4032
+    },
+    {
+      "caption": "Ah, from the same rock, I was able to take this picture, which in my opinion it was worth it.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 5584,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/629-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/629-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/629-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/629-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/629-3840.avif",
+      "width": 8368
+    },
+    {
+      "caption": "We sat on this meadow and enjoyed the day. I took a nap while M.F. and S.B painted.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/642-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/642-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/642-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/642-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/642-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "We then headed towards Tre Cime di Lavaredo. While it was only 30km away, the drive took us more than 2 hours because of the amount of turns in the roads. There were hundreds! No joke.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/633-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/633-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/633-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/633-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/633-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Tre cime on all its glory",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/644-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/644-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/644-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/644-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/644-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Our picture at the top.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 2754,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/630-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/630-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/630-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/630-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/630-3840.avif",
+      "width": 4896
+    },
+    {
+      "caption": "Our picture on the way down.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 5584,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/628-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/628-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/628-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/628-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/628-3840.avif",
+      "width": 8368
+    },
+    {
+      "caption": "",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/640-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/640-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/640-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/640-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/640-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Once we returned to Canazei, the city was having a festival! The Gran Festa da d’Istà in Canazei, a traditional Ladin festival celebrating the end of summer in the Dolomites. Locals gather in traditional Alpine clothing for three days of regional food, beer, folk music, dancing, and a spectacular parade through the village.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/635-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/635-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/635-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/635-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/635-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "For a rest day, we visited Carezza Lake. Just a small hike around the lake without ups and downs.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/627-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/627-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/627-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/627-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/627-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Our last hike was on Trentino alto adige. On the right you can see Marmolada glacier with Lake Fedaia. During World War I, Austro-Hungarian soldiers even built tunnels and shelters inside the ice, creating what became known as the City of Ice. It is still the largest glacier on the dolomites, but retreating very fast.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/639-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/639-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/639-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/639-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/639-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Quick stop for a sandwich break.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/645-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/645-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/645-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/645-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/645-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "On the way back, we visited Treto. This is the view from the city castle.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/634-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/634-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/634-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/634-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/634-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Trento historic downtown.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/637-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/637-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/637-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/637-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/637-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "M.F and I dropped our friends and spent 2 days visiting vilas around Como lake. In the picture is Villa del Balbianello, where they filmed a classic scene from Casino Royale. Worth a visit.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 2268,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/638-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/638-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/638-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/638-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 237,
+        "month": 9,
+        "month_name": "September",
+        "name": "Dolomites + Como",
+        "slug": "237-dolomites-como",
+        "url": "journal/237-dolomites-como/",
+        "year": 2026
+      },
+      "url": "generated/photos/638-3840.avif",
+      "width": 4032
+    },
+    {
+      "caption": "W.T and I re-enacted this picture from 9 years ago. See below!",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/625-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/625-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/625-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/625-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 236,
+        "month": 9,
+        "month_name": "September",
+        "name": "Giethoorn w/ family",
+        "slug": "236-giethoorn-w-family",
+        "url": "journal/236-giethoorn-w-family/",
+        "year": 2026
+      },
+      "url": "generated/photos/625-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "9 years flew by...",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3000,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/626-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/626-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/626-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/626-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 236,
+        "month": 9,
+        "month_name": "September",
+        "name": "Giethoorn w/ family",
+        "slug": "236-giethoorn-w-family",
+        "url": "journal/236-giethoorn-w-family/",
+        "year": 2026
+      },
+      "url": "generated/photos/626-3840.avif",
+      "width": 4496
+    },
+    {
+      "caption": "Dutch wind turbines on the way back. We were waiting for the bridge to close before proceeding. ",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/624-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/624-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/624-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/624-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "September 2026",
+        "id": 236,
+        "month": 9,
+        "month_name": "September",
+        "name": "Giethoorn w/ family",
+        "slug": "236-giethoorn-w-family",
+        "url": "journal/236-giethoorn-w-family/",
+        "year": 2026
+      },
+      "url": "generated/photos/624-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Of course I had to return with M.F.",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/622-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/622-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/622-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/622-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "July 2026",
+        "id": 234,
+        "month": 7,
+        "month_name": "July",
+        "name": "Pinball museum pt 2",
+        "slug": "234-pinball-museum-pt-2",
+        "url": "journal/234-pinball-museum-pt-2/",
+        "year": 2026
+      },
+      "url": "generated/photos/622-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "The museum is in front of this canal, in a very historic part of Rotterdam.",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/623-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/623-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/623-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/623-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "July 2026",
+        "id": 234,
+        "month": 7,
+        "month_name": "July",
+        "name": "Pinball museum pt 2",
+        "slug": "234-pinball-museum-pt-2",
+        "url": "journal/234-pinball-museum-pt-2/",
+        "year": 2026
+      },
+      "url": "generated/photos/623-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "I discovered that the best pinball museum in the world is in Rotterdam! In this incredible place, you pay only the entry ticket and can play on any machine without inserting coins. They have a lot of historical (pre-war) and the latest models from Stern. Highly recommend the visit if you like arcade games.",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/621-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/621-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/621-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/621-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "July 2026",
+        "id": 232,
+        "month": 7,
+        "month_name": "July",
+        "name": "Pinball museum",
+        "slug": "232-pinball-museum",
+        "url": "journal/232-pinball-museum/",
+        "year": 2026
+      },
+      "url": "generated/photos/621-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "I don't know why I was doing a 2 and a 1 with my hands...",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 1050,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/620-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/620-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/620-1450.avif",
+          "width": 1450
+        }
+      ],
+      "trip": {
+        "date_label": "July 2026",
+        "id": 231,
+        "month": 7,
+        "month_name": "July",
+        "name": "Duinrell pt 1",
+        "slug": "231-duinrell-pt-1",
+        "url": "journal/231-duinrell-pt-1/",
+        "year": 2026
+      },
+      "url": "generated/photos/620-1450.avif",
+      "width": 1450
+    },
+    {
+      "caption": "I think a fountain pen conference is more niche than a board game conference. The hotel was packed! I didn't buy a pen because I don't know how to write anymore.",
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/619-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/619-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/619-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/619-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "June 2026",
+        "id": 230,
+        "month": 6,
+        "month_name": "June",
+        "name": "Fountain pen conference",
+        "slug": "230-fountain-pen-conference",
+        "url": "journal/230-fountain-pen-conference/",
+        "year": 2026
+      },
+      "url": "generated/photos/619-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "High view of the roman forum, Colosseum at the background.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 2216,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/593-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/593-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/593-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/593-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/593-3840.avif",
+      "width": 3940
+    },
+    {
+      "caption": "Roman forum ruins",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 5584,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/594-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/594-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/594-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/594-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/594-3840.avif",
+      "width": 8368
+    },
+    {
+      "caption": "Roman forum ruins",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 5584,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/595-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/595-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/595-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/595-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/595-3840.avif",
+      "width": 8368
+    },
+    {
+      "caption": "Colosseum at its glory",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/596-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/596-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/596-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/596-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/596-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Castel Sant’Angelo",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 5584,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/597-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/597-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/597-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/597-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/597-3840.avif",
+      "width": 8368
+    },
+    {
+      "caption": "Saint peter's basilica from castel sant'angelo.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/598-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/598-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/598-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/598-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/598-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "One of the wonders of the ancient world. It is incredible that this building still exists today. It is 2000 years old!",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 5712,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/602-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/602-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/602-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/602-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/602-3840.avif",
+      "width": 3213
+    },
+    {
+      "caption": "Two thousand years ago... no beams, pillars or supporting structure.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 5584,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/603-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/603-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/603-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/603-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/603-3840.avif",
+      "width": 8368
+    },
+    {
+      "caption": "We had to return after dinner! It is still very impressive.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/599-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/599-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/599-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/599-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/599-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Rome landscape from ",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/600-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/600-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/600-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/600-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/600-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Trevi fountain, Italy's largest bank and coin deposit.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/601-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/601-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/601-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/601-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/601-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Saint Peter's basilica from Umberto I bridge.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 3213,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/604-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/604-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/604-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/604-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/604-3840.avif",
+      "width": 5712
+    },
+    {
+      "caption": "Galleria pamphilj, alt attraction if you have an extra day in Rome.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "featured": false,
+      "height": 5584,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/605-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/605-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/605-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/605-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "May 2026",
+        "id": 229,
+        "month": 5,
+        "month_name": "May",
+        "name": "Rome during summer",
+        "slug": "229-rome-during-summer",
+        "url": "journal/229-rome-during-summer/",
+        "year": 2026
+      },
+      "url": "generated/photos/605-3840.avif",
+      "width": 8368
+    },
+    {
       "caption": "Coincidentally, I took this picture before the trip. It would be the last day I would see the moon for the next 9 nights.",
       "countries": [
         {
@@ -16911,6 +18799,650 @@
       "width": 4608
     },
     {
+      "caption": "We finished the trip eating pasta with mussels on top of a beach terrace! The waves were right under our feet!",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 2176,
+      "panoramic": true,
+      "sources": [
+        {
+          "url": "generated/photos/606-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/606-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/606-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/606-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/606-3840.avif",
+      "width": 4608
+    },
+    {
+      "caption": "Road towards Praiano. Everything is so tight!",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 2176,
+      "panoramic": true,
+      "sources": [
+        {
+          "url": "generated/photos/607-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/607-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/607-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/607-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/607-3840.avif",
+      "width": 4608
+    },
+    {
+      "caption": "Amalfi during the evening. Let's pile up some buildings on this corner, please.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 4000,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/608-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/608-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/608-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/608-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/608-3840.avif",
+      "width": 6000
+    },
+    {
+      "caption": "Amalfi's cathedral",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 4000,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/609-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/609-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/609-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/609-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/609-3840.avif",
+      "width": 6000
+    },
+    {
+      "caption": "Amalfi coast from a viewpoint in Ravello",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 4000,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/610-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/610-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/610-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/610-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/610-3840.avif",
+      "width": 6000
+    },
+    {
+      "caption": "Amalfi beach during sunset",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 1852,
+      "panoramic": true,
+      "sources": [
+        {
+          "url": "generated/photos/611-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/611-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/611-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/611-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/611-3840.avif",
+      "width": 3922
+    },
+    {
+      "caption": "Chairlift to visit Anacapri hill. Definitely worth it! If you are scared of heights, close your eyes and enjoy the breeze.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 4000,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/613-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/613-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/613-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/613-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/613-3840.avif",
+      "width": 6000
+    },
+    {
+      "caption": "Sea view from the top of chairlift to Anacapri.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 4000,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/614-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/614-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/614-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/614-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/614-3840.avif",
+      "width": 6000
+    },
+    {
+      "caption": "Winding roads of Capri.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 4608,
+      "panoramic": false,
+      "sources": [
+        {
+          "url": "generated/photos/612-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/612-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/612-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/612-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/612-3840.avif",
+      "width": 2176
+    },
+    {
+      "caption": "Capri hill",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 2176,
+      "panoramic": true,
+      "sources": [
+        {
+          "url": "generated/photos/615-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/615-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/615-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/615-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/615-3840.avif",
+      "width": 4608
+    },
+    {
+      "caption": "Pompeii and Vesuvius at the back.",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 2176,
+      "panoramic": true,
+      "sources": [
+        {
+          "url": "generated/photos/616-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/616-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/616-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/616-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/616-3840.avif",
+      "width": 4608
+    },
+    {
+      "caption": "Statues at the Vatican museum",
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        },
+        {
+          "id": 10,
+          "name": "Vatican",
+          "slug": "10-vatican",
+          "url": "countries/10-vatican/"
+        }
+      ],
+      "featured": false,
+      "height": 2176,
+      "panoramic": true,
+      "sources": [
+        {
+          "url": "generated/photos/617-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/617-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/617-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/617-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 105,
+        "month": 11,
+        "month_name": "November",
+        "name": "Trip to Rome and Amalfi",
+        "slug": "105-trip-to-rome-and-amalfi",
+        "url": "journal/105-trip-to-rome-and-amalfi/",
+        "year": 2019
+      },
+      "url": "generated/photos/617-3840.avif",
+      "width": 4608
+    },
+    {
+      "caption": "Joy wishing I was home",
+      "countries": [
+        {
+          "id": 13,
+          "name": "United States",
+          "slug": "13-united-states",
+          "url": "countries/13-united-states/"
+        }
+      ],
+      "featured": false,
+      "height": 2176,
+      "panoramic": true,
+      "sources": [
+        {
+          "url": "generated/photos/618-640.avif",
+          "width": 640
+        },
+        {
+          "url": "generated/photos/618-1280.avif",
+          "width": 1280
+        },
+        {
+          "url": "generated/photos/618-1920.avif",
+          "width": 1920
+        },
+        {
+          "url": "generated/photos/618-3840.avif",
+          "width": 3840
+        }
+      ],
+      "trip": {
+        "date_label": "November 2019",
+        "id": 104,
+        "month": 11,
+        "month_name": "November",
+        "name": "Work trip to new york",
+        "slug": "104-work-trip-to-new-york",
+        "url": "journal/104-work-trip-to-new-york/",
+        "year": 2019
+      },
+      "url": "generated/photos/618-3840.avif",
+      "width": 4608
+    },
+    {
       "caption": "60km Bike ride for a competition",
       "countries": [
         {
@@ -22028,9 +24560,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/192-3456.avif",
@@ -22090,9 +24622,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/191-3456.avif",
@@ -22152,9 +24684,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/190-3456.avif",
@@ -22214,9 +24746,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/174-3456.avif",
@@ -22276,9 +24808,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/173-3456.avif",
@@ -22338,9 +24870,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/176-3456.avif",
@@ -22400,9 +24932,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/175-3456.avif",
@@ -22462,9 +24994,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/178-3456.avif",
@@ -22524,9 +25056,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/177-3456.avif",
@@ -22586,9 +25118,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/179-3456.avif",
@@ -22648,9 +25180,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/180-3372.avif",
@@ -22710,9 +25242,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/181-3456.avif",
@@ -22772,9 +25304,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/189-3456.avif",
@@ -22834,9 +25366,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/187-3456.avif",
@@ -22896,9 +25428,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/188-3456.avif",
@@ -22958,9 +25490,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/182-3456.avif",
@@ -23020,9 +25552,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/183-3456.avif",
@@ -23082,9 +25614,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/184-3456.avif",
@@ -23144,9 +25676,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/185-3456.avif",
@@ -23206,9 +25738,9 @@
         "id": 14,
         "month": 12,
         "month_name": "December",
-        "name": "Europe trip with Gregory",
-        "slug": "14-europe-trip-with-gregory",
-        "url": "journal/14-europe-trip-with-gregory/",
+        "name": "Europe trip with G.S",
+        "slug": "14-europe-trip-with-g-s",
+        "url": "journal/14-europe-trip-with-g-s/",
         "year": 2012
       },
       "url": "generated/photos/186-3456.avif",

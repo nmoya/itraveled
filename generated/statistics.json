@@ -14,10 +14,10 @@
     "Dec"
   ],
   "headline": {
-    "companions": 58,
+    "companions": 60,
     "countries": 35,
-    "places": 284,
-    "trips": 223
+    "places": 291,
+    "trips": 235
   },
   "milestones": [
     {
@@ -509,7 +509,7 @@
       "id": 14,
       "month": 12,
       "month_name": "December",
-      "name": "Europe trip with Gregory",
+      "name": "Europe trip with G.S",
       "new_countries": [
         {
           "id": 8,
@@ -683,9 +683,9 @@
         }
       ],
       "places_seen": 53,
-      "slug": "14-europe-trip-with-gregory",
+      "slug": "14-europe-trip-with-g-s",
       "trips_taken": 18,
-      "url": "journal/14-europe-trip-with-gregory/",
+      "url": "journal/14-europe-trip-with-g-s/",
       "year": 2012
     },
     {
@@ -5386,6 +5386,18 @@
           "url": "places/281-longyearbyen/"
         },
         {
+          "id": 287,
+          "name": "Tempelfjorden",
+          "slug": "287-tempelfjorden",
+          "url": "places/287-tempelfjorden/"
+        },
+        {
+          "id": 285,
+          "name": "Dicksonfjorden",
+          "slug": "285-dicksonfjorden",
+          "url": "places/285-dicksonfjorden/"
+        },
+        {
           "id": 282,
           "name": "Trollsteinen",
           "slug": "282-trollsteinen",
@@ -5404,22 +5416,10 @@
           "url": "places/284-bjorndalen/"
         },
         {
-          "id": 285,
-          "name": "Dicksonfjorden",
-          "slug": "285-dicksonfjorden",
-          "url": "places/285-dicksonfjorden/"
-        },
-        {
           "id": 286,
           "name": "Ekmanfjorden",
           "slug": "286-ekmanfjorden",
           "url": "places/286-ekmanfjorden/"
-        },
-        {
-          "id": 287,
-          "name": "Tempelfjorden",
-          "slug": "287-tempelfjorden",
-          "url": "places/287-tempelfjorden/"
         }
       ],
       "places_seen": 284,
@@ -5427,10 +5427,234 @@
       "trips_taken": 223,
       "url": "journal/228-svalbard/",
       "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "May 2026",
+      "id": 229,
+      "month": 5,
+      "month_name": "May",
+      "name": "Rome during summer",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 284,
+      "slug": "229-rome-during-summer",
+      "trips_taken": 224,
+      "url": "journal/229-rome-during-summer/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "June 2026",
+      "id": 230,
+      "month": 6,
+      "month_name": "June",
+      "name": "Fountain pen conference",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 284,
+      "slug": "230-fountain-pen-conference",
+      "trips_taken": 225,
+      "url": "journal/230-fountain-pen-conference/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "July 2026",
+      "id": 231,
+      "month": 7,
+      "month_name": "July",
+      "name": "Duinrell pt 1",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 288,
+          "name": "Duinrell",
+          "slug": "288-duinrell",
+          "url": "places/288-duinrell/"
+        }
+      ],
+      "places_seen": 285,
+      "slug": "231-duinrell-pt-1",
+      "trips_taken": 226,
+      "url": "journal/231-duinrell-pt-1/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "July 2026",
+      "id": 232,
+      "month": 7,
+      "month_name": "July",
+      "name": "Pinball museum",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 285,
+      "slug": "232-pinball-museum",
+      "trips_taken": 227,
+      "url": "journal/232-pinball-museum/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "July 2026",
+      "id": 233,
+      "month": 7,
+      "month_name": "July",
+      "name": "Duinrell Pt2",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 285,
+      "slug": "233-duinrell-pt2",
+      "trips_taken": 228,
+      "url": "journal/233-duinrell-pt2/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "July 2026",
+      "id": 234,
+      "month": 7,
+      "month_name": "July",
+      "name": "Pinball museum pt 2",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 285,
+      "slug": "234-pinball-museum-pt-2",
+      "trips_taken": 229,
+      "url": "journal/234-pinball-museum-pt-2/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "August 2026",
+      "id": 235,
+      "month": 8,
+      "month_name": "August",
+      "name": "Lunch w/ friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 285,
+      "slug": "235-lunch-w-friends",
+      "trips_taken": 230,
+      "url": "journal/235-lunch-w-friends/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "September 2026",
+      "id": 236,
+      "month": 9,
+      "month_name": "September",
+      "name": "Giethoorn w/ family",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 285,
+      "slug": "236-giethoorn-w-family",
+      "trips_taken": 231,
+      "url": "journal/236-giethoorn-w-family/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "September 2026",
+      "id": 237,
+      "month": 9,
+      "month_name": "September",
+      "name": "Dolomites + Como",
+      "new_countries": [],
+      "new_places": [
+        {
+          "id": 289,
+          "name": "Canazei",
+          "slug": "289-canazei",
+          "url": "places/289-canazei/"
+        },
+        {
+          "id": 293,
+          "name": "Seceda",
+          "slug": "293-seceda",
+          "url": "places/293-seceda/"
+        },
+        {
+          "id": 291,
+          "name": "Tre Cime di Lavaredo",
+          "slug": "291-tre-cime-di-lavaredo",
+          "url": "places/291-tre-cime-di-lavaredo/"
+        },
+        {
+          "id": 292,
+          "name": "Carezza Lake",
+          "slug": "292-carezza-lake",
+          "url": "places/292-carezza-lake/"
+        },
+        {
+          "id": 290,
+          "name": "Trentino – Alto Adige",
+          "slug": "290-trentino-alto-adige",
+          "url": "places/290-trentino-alto-adige/"
+        },
+        {
+          "id": 294,
+          "name": "Trento",
+          "slug": "294-trento",
+          "url": "places/294-trento/"
+        }
+      ],
+      "places_seen": 291,
+      "slug": "237-dolomites-como",
+      "trips_taken": 232,
+      "url": "journal/237-dolomites-como/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "September 2026",
+      "id": 238,
+      "month": 9,
+      "month_name": "September",
+      "name": "Open day at ESA",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 291,
+      "slug": "238-open-day-at-esa",
+      "trips_taken": 233,
+      "url": "journal/238-open-day-at-esa/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "October 2026",
+      "id": 239,
+      "month": 10,
+      "month_name": "October",
+      "name": "Durga Puja in Utrecht!",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 291,
+      "slug": "239-durga-puja-in-utrecht",
+      "trips_taken": 234,
+      "url": "journal/239-durga-puja-in-utrecht/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "October 2026",
+      "id": 240,
+      "month": 10,
+      "month_name": "October",
+      "name": "Spiel de Jahrs 2026",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 291,
+      "slug": "240-spiel-de-jahrs-2026",
+      "trips_taken": 235,
+      "url": "journal/240-spiel-de-jahrs-2026/",
+      "year": 2026
     }
   ],
   "multi_country_trips": 16,
-  "multi_place_trips": 63,
+  "multi_place_trips": 64,
   "new_countries_by_year": {
     "1998": 1,
     "2010": 1,
@@ -5589,28 +5813,28 @@
       "year": 2025
     },
     {
-      "count": 10,
-      "relative": 31.2,
+      "count": 17,
+      "relative": 53.1,
       "year": 2026
     }
   ],
   "top_companions": [
     {
-      "count": 146,
+      "count": 155,
       "id": 9,
       "name": "MF",
       "slug": "9-mf",
       "url": "people/9-mf/"
     },
     {
-      "count": 23,
+      "count": 24,
       "id": 31,
       "name": "FA",
       "slug": "31-fa",
       "url": "people/31-fa/"
     },
     {
-      "count": 22,
+      "count": 24,
       "id": 1,
       "name": "TJ",
       "slug": "1-tj",
@@ -5624,6 +5848,20 @@
       "url": "people/32-ic/"
     },
     {
+      "count": 12,
+      "id": 17,
+      "name": "VC",
+      "slug": "17-vc",
+      "url": "people/17-vc/"
+    },
+    {
+      "count": 11,
+      "id": 18,
+      "name": "AC",
+      "slug": "18-ac",
+      "url": "people/18-ac/"
+    },
+    {
       "count": 11,
       "id": 10,
       "name": "ZW",
@@ -5632,20 +5870,6 @@
     },
     {
       "count": 9,
-      "id": 18,
-      "name": "AC",
-      "slug": "18-ac",
-      "url": "people/18-ac/"
-    },
-    {
-      "count": 9,
-      "id": 17,
-      "name": "VC",
-      "slug": "17-vc",
-      "url": "people/17-vc/"
-    },
-    {
-      "count": 8,
       "id": 5,
       "name": "GS",
       "slug": "5-gs",
@@ -5657,6 +5881,20 @@
       "name": "APS",
       "slug": "30-aps",
       "url": "people/30-aps/"
+    },
+    {
+      "count": 6,
+      "id": 33,
+      "name": "MC",
+      "slug": "33-mc",
+      "url": "people/33-mc/"
+    },
+    {
+      "count": 6,
+      "id": 50,
+      "name": "SB",
+      "slug": "50-sb",
+      "url": "people/50-sb/"
     },
     {
       "count": 5,
@@ -5674,13 +5912,6 @@
     },
     {
       "count": 4,
-      "id": 33,
-      "name": "MC",
-      "slug": "33-mc",
-      "url": "people/33-mc/"
-    },
-    {
-      "count": 4,
       "id": 14,
       "name": "PL",
       "slug": "14-pl",
@@ -5688,10 +5919,17 @@
     },
     {
       "count": 4,
-      "id": 50,
-      "name": "SB",
-      "slug": "50-sb",
-      "url": "people/50-sb/"
+      "id": 55,
+      "name": "SM",
+      "slug": "55-sm",
+      "url": "people/55-sm/"
+    },
+    {
+      "count": 4,
+      "id": 20,
+      "name": "WT",
+      "slug": "20-wt",
+      "url": "people/20-wt/"
     },
     {
       "count": 3,
@@ -5729,13 +5967,6 @@
       "url": "people/16-pr/"
     },
     {
-      "count": 3,
-      "id": 20,
-      "name": "WT",
-      "slug": "20-wt",
-      "url": "people/20-wt/"
-    },
-    {
       "count": 2,
       "id": 37,
       "name": "DS",
@@ -5762,13 +5993,6 @@
       "name": "OK",
       "slug": "38-ok",
       "url": "people/38-ok/"
-    },
-    {
-      "count": 2,
-      "id": 55,
-      "name": "SM",
-      "slug": "55-sm",
-      "url": "people/55-sm/"
     },
     {
       "count": 1,
@@ -5839,6 +6063,13 @@
       "name": "HF",
       "slug": "54-hf",
       "url": "people/54-hf/"
+    },
+    {
+      "count": 1,
+      "id": 62,
+      "name": "HK",
+      "slug": "62-hk",
+      "url": "people/62-hk/"
     },
     {
       "count": 1,
@@ -5933,6 +6164,13 @@
     },
     {
       "count": 1,
+      "id": 61,
+      "name": "RC",
+      "slug": "61-rc",
+      "url": "people/61-rc/"
+    },
+    {
+      "count": 1,
       "id": 40,
       "name": "RO",
       "slug": "40-ro",
@@ -6020,18 +6258,18 @@
       "url": "countries/13-united-states/"
     },
     {
-      "count": 134,
+      "count": 143,
       "id": 14,
       "name": "Netherlands",
-      "relative": 69.8,
+      "relative": 74.5,
       "slug": "14-netherlands",
       "url": "countries/14-netherlands/"
     },
     {
-      "count": 43,
+      "count": 55,
       "id": 8,
       "name": "Italy",
-      "relative": 22.2,
+      "relative": 28.5,
       "slug": "8-italy",
       "url": "countries/8-italy/"
     },
@@ -6084,20 +6322,20 @@
       "url": "countries/16-spain/"
     },
     {
+      "count": 15,
+      "id": 19,
+      "name": "Germany",
+      "relative": 7.8,
+      "slug": "19-germany",
+      "url": "countries/19-germany/"
+    },
+    {
       "count": 14,
       "id": 62,
       "name": "Croatia",
       "relative": 7.3,
       "slug": "62-croatia",
       "url": "countries/62-croatia/"
-    },
-    {
-      "count": 14,
-      "id": 19,
-      "name": "Germany",
-      "relative": 7.2,
-      "slug": "19-germany",
-      "url": "countries/19-germany/"
     },
     {
       "count": 13,
@@ -6286,7 +6524,7 @@
   ],
   "top_countries_by_places": [
     {
-      "count": 61,
+      "count": 62,
       "id": 14,
       "name": "Netherlands",
       "relative": 100.0,
@@ -6294,10 +6532,10 @@
       "url": "countries/14-netherlands/"
     },
     {
-      "count": 43,
+      "count": 49,
       "id": 8,
       "name": "Italy",
-      "relative": 70.5,
+      "relative": 79.0,
       "slug": "8-italy",
       "url": "countries/8-italy/"
     },
@@ -6305,7 +6543,7 @@
       "count": 33,
       "id": 1,
       "name": "Brazil",
-      "relative": 54.1,
+      "relative": 53.2,
       "slug": "1-brazil",
       "url": "countries/1-brazil/"
     },
@@ -6313,7 +6551,7 @@
       "count": 16,
       "id": 12,
       "name": "Scotland",
-      "relative": 26.2,
+      "relative": 25.8,
       "slug": "12-scotland",
       "url": "countries/12-scotland/"
     },
@@ -6321,7 +6559,7 @@
       "count": 15,
       "id": 9,
       "name": "France",
-      "relative": 24.6,
+      "relative": 24.2,
       "slug": "9-france",
       "url": "countries/9-france/"
     },
@@ -6329,7 +6567,7 @@
       "count": 11,
       "id": 7,
       "name": "Switzerland",
-      "relative": 18.0,
+      "relative": 17.7,
       "slug": "7-switzerland",
       "url": "countries/7-switzerland/"
     },
@@ -6337,7 +6575,7 @@
       "count": 10,
       "id": 25,
       "name": "Norway",
-      "relative": 16.4,
+      "relative": 16.1,
       "slug": "25-norway",
       "url": "countries/25-norway/"
     },
@@ -6345,7 +6583,7 @@
       "count": 10,
       "id": 16,
       "name": "Spain",
-      "relative": 16.4,
+      "relative": 16.1,
       "slug": "16-spain",
       "url": "countries/16-spain/"
     },
@@ -6353,7 +6591,7 @@
       "count": 10,
       "id": 13,
       "name": "United States",
-      "relative": 16.4,
+      "relative": 16.1,
       "slug": "13-united-states",
       "url": "countries/13-united-states/"
     },
@@ -6361,7 +6599,7 @@
       "count": 9,
       "id": 18,
       "name": "Portugal",
-      "relative": 14.8,
+      "relative": 14.5,
       "slug": "18-portugal",
       "url": "countries/18-portugal/"
     },
@@ -6369,7 +6607,7 @@
       "count": 8,
       "id": 19,
       "name": "Germany",
-      "relative": 13.1,
+      "relative": 12.9,
       "slug": "19-germany",
       "url": "countries/19-germany/"
     },
@@ -6377,7 +6615,7 @@
       "count": 7,
       "id": 15,
       "name": "Belgium",
-      "relative": 11.5,
+      "relative": 11.3,
       "slug": "15-belgium",
       "url": "countries/15-belgium/"
     },
@@ -6385,7 +6623,7 @@
       "count": 6,
       "id": 11,
       "name": "England",
-      "relative": 9.8,
+      "relative": 9.7,
       "slug": "11-england",
       "url": "countries/11-england/"
     },
@@ -6393,7 +6631,7 @@
       "count": 6,
       "id": 129,
       "name": "Morocco",
-      "relative": 9.8,
+      "relative": 9.7,
       "slug": "129-morocco",
       "url": "countries/129-morocco/"
     },
@@ -6401,7 +6639,7 @@
       "count": 5,
       "id": 62,
       "name": "Croatia",
-      "relative": 8.2,
+      "relative": 8.1,
       "slug": "62-croatia",
       "url": "countries/62-croatia/"
     },
@@ -6409,7 +6647,7 @@
       "count": 4,
       "id": 67,
       "name": "Denmark",
-      "relative": 6.6,
+      "relative": 6.5,
       "slug": "67-denmark",
       "url": "countries/67-denmark/"
     },
@@ -6417,7 +6655,7 @@
       "count": 4,
       "id": 93,
       "name": "India",
-      "relative": 6.6,
+      "relative": 6.5,
       "slug": "93-india",
       "url": "countries/93-india/"
     },
@@ -6425,7 +6663,7 @@
       "count": 3,
       "id": 6,
       "name": "Chile",
-      "relative": 4.9,
+      "relative": 4.8,
       "slug": "6-chile",
       "url": "countries/6-chile/"
     },
@@ -6433,7 +6671,7 @@
       "count": 3,
       "id": 167,
       "name": "Slovenia",
-      "relative": 4.9,
+      "relative": 4.8,
       "slug": "167-slovenia",
       "url": "countries/167-slovenia/"
     },
@@ -6441,7 +6679,7 @@
       "count": 2,
       "id": 3,
       "name": "Argentina",
-      "relative": 3.3,
+      "relative": 3.2,
       "slug": "3-argentina",
       "url": "countries/3-argentina/"
     },
@@ -6449,7 +6687,7 @@
       "count": 2,
       "id": 26,
       "name": "Iceland",
-      "relative": 3.3,
+      "relative": 3.2,
       "slug": "26-iceland",
       "url": "countries/26-iceland/"
     },
@@ -6457,7 +6695,7 @@
       "count": 2,
       "id": 4,
       "name": "Uruguay",
-      "relative": 3.3,
+      "relative": 3.2,
       "slug": "4-uruguay",
       "url": "countries/4-uruguay/"
     },
@@ -6465,7 +6703,7 @@
       "count": 2,
       "id": 10,
       "name": "Vatican",
-      "relative": 3.3,
+      "relative": 3.2,
       "slug": "10-vatican",
       "url": "countries/10-vatican/"
     },
@@ -8410,33 +8648,33 @@
           "month": "Apr"
         },
         {
-          "count": 1,
-          "intensity": 1,
+          "count": 2,
+          "intensity": 2,
           "month": "May"
         },
         {
-          "count": 0,
-          "intensity": 0,
+          "count": 1,
+          "intensity": 1,
           "month": "Jun"
         },
         {
-          "count": 0,
-          "intensity": 0,
+          "count": 4,
+          "intensity": 3,
           "month": "Jul"
         },
         {
-          "count": 0,
-          "intensity": 0,
+          "count": 1,
+          "intensity": 1,
           "month": "Aug"
         },
         {
-          "count": 0,
-          "intensity": 0,
+          "count": 3,
+          "intensity": 3,
           "month": "Sep"
         },
         {
-          "count": 0,
-          "intensity": 0,
+          "count": 2,
+          "intensity": 2,
           "month": "Oct"
         },
         {

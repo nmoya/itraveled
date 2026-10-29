@@ -93,7 +93,7 @@
         
             <a href="https://itraveled.nikolasmoya.com">Statistics</a>
         
-            <a href="https://itraveled.nikolasmoya.com/timeline">Timeline</a>
+            <a href="https://itraveled.nikolasmoya.com/timeline">All trips</a>
         
             <a href="https://itraveled.nikolasmoya.com/atlas">Atlas</a>
         
@@ -117,8 +117,13 @@
     <section class="trip-overview has-map" aria-label="Trip overview">
       
         <figure class="trip-map" data-trip-map>
-          <img class="trip-map-fallback" src="https://itraveled.nikolasmoya.com/generated/trip-plates/130-trip-to-keukenhof.svg" width="1200" height="675" alt="Map showing the ordered stops for Trip to Keukenhof.">
+          <p class="trip-map-loading" role="status" data-trip-map-status>Loading map…</p>
+          <img class="trip-map-fallback" data-src="https://itraveled.nikolasmoya.com/generated/trip-plates/130-trip-to-keukenhof.svg" width="1200" height="675" alt="Map showing the ordered stops for Trip to Keukenhof." hidden>
           <div class="trip-map-canvas" data-trip-map-canvas role="img" aria-label="Map showing the ordered stops for Trip to Keukenhof." aria-hidden="true"></div>
+          <noscript>
+            <style>.trip-map-loading { display: none; }</style>
+            <img class="trip-map-fallback" src="https://itraveled.nikolasmoya.com/generated/trip-plates/130-trip-to-keukenhof.svg" width="1200" height="675" alt="Map showing the ordered stops for Trip to Keukenhof.">
+          </noscript>
         </figure>
       
 
@@ -158,7 +163,7 @@
 <script type="module" src="https://itraveled.nikolasmoya.com/js/photo-protection.mjs"></script>
 
     <footer>
-  <div class="footer-info">Travel log · N. Moya · All photographs © N. Moya. All rights reserved.</div>
+  <div class="footer-info">Travel log · All photographs © N. Moya. All rights reserved.</div>
 </footer>
 
   </div>

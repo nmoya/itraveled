@@ -913,7 +913,7 @@
       "id": 14,
       "month": 12,
       "month_name": "December",
-      "name": "Europe trip with Gregory",
+      "name": "Europe trip with G.S",
       "route": [
         {
           "id": 28,
@@ -1060,9 +1060,9 @@
           "url": "places/44-vaticano/"
         }
       ],
-      "slug": "14-europe-trip-with-gregory",
+      "slug": "14-europe-trip-with-g-s",
       "timeline_order": 17,
-      "url": "journal/14-europe-trip-with-gregory/",
+      "url": "journal/14-europe-trip-with-g-s/",
       "weeks_from_previous": 2.6,
       "year": 2012
     },
@@ -4882,7 +4882,14 @@
       "year": 2019
     },
     {
-      "companions": [],
+      "companions": [
+        {
+          "id": 1,
+          "name": "TJ",
+          "slug": "1-tj",
+          "url": "people/1-tj/"
+        }
+      ],
       "countries": [
         {
           "id": 8,
@@ -10264,6 +10271,18 @@
           "url": "places/281-longyearbyen/"
         },
         {
+          "id": 287,
+          "name": "Tempelfjorden",
+          "slug": "287-tempelfjorden",
+          "url": "places/287-tempelfjorden/"
+        },
+        {
+          "id": 285,
+          "name": "Dicksonfjorden",
+          "slug": "285-dicksonfjorden",
+          "url": "places/285-dicksonfjorden/"
+        },
+        {
           "id": 282,
           "name": "Trollsteinen",
           "slug": "282-trollsteinen",
@@ -10282,28 +10301,598 @@
           "url": "places/284-bjorndalen/"
         },
         {
-          "id": 285,
-          "name": "Dicksonfjorden",
-          "slug": "285-dicksonfjorden",
-          "url": "places/285-dicksonfjorden/"
-        },
-        {
           "id": 286,
           "name": "Ekmanfjorden",
           "slug": "286-ekmanfjorden",
           "url": "places/286-ekmanfjorden/"
-        },
-        {
-          "id": 287,
-          "name": "Tempelfjorden",
-          "slug": "287-tempelfjorden",
-          "url": "places/287-tempelfjorden/"
         }
       ],
       "slug": "228-svalbard",
       "timeline_order": 222,
       "url": "journal/228-svalbard/",
       "weeks_from_previous": 8.9,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        },
+        {
+          "id": 1,
+          "name": "TJ",
+          "slug": "1-tj",
+          "url": "people/1-tj/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "date_label": "May 2026",
+      "duration_days": 4,
+      "id": 229,
+      "month": 5,
+      "month_name": "May",
+      "name": "Rome during summer",
+      "route": [
+        {
+          "id": 41,
+          "name": "Rome",
+          "slug": "41-rome",
+          "url": "places/41-rome/"
+        }
+      ],
+      "slug": "229-rome-during-summer",
+      "timeline_order": 223,
+      "url": "journal/229-rome-during-summer/",
+      "weeks_from_previous": 2.9,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "June 2026",
+      "duration_days": 1,
+      "id": 230,
+      "month": 6,
+      "month_name": "June",
+      "name": "Fountain pen conference",
+      "route": [
+        {
+          "id": 124,
+          "name": "Utrecht",
+          "slug": "124-utrecht",
+          "url": "places/124-utrecht/"
+        }
+      ],
+      "slug": "230-fountain-pen-conference",
+      "timeline_order": 224,
+      "url": "journal/230-fountain-pen-conference/",
+      "weeks_from_previous": 2.3,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 18,
+          "name": "AC",
+          "slug": "18-ac",
+          "url": "people/18-ac/"
+        },
+        {
+          "id": 33,
+          "name": "MC",
+          "slug": "33-mc",
+          "url": "people/33-mc/"
+        },
+        {
+          "id": 61,
+          "name": "RC",
+          "slug": "61-rc",
+          "url": "people/61-rc/"
+        },
+        {
+          "id": 17,
+          "name": "VC",
+          "slug": "17-vc",
+          "url": "people/17-vc/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "July 2026",
+      "duration_days": 1,
+      "id": 231,
+      "month": 7,
+      "month_name": "July",
+      "name": "Duinrell pt 1",
+      "route": [
+        {
+          "id": 288,
+          "name": "Duinrell",
+          "slug": "288-duinrell",
+          "url": "places/288-duinrell/"
+        }
+      ],
+      "slug": "231-duinrell-pt-1",
+      "timeline_order": 225,
+      "url": "journal/231-duinrell-pt-1/",
+      "weeks_from_previous": 3.6,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 5,
+          "name": "GS",
+          "slug": "5-gs",
+          "url": "people/5-gs/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "July 2026",
+      "duration_days": 1,
+      "id": 232,
+      "month": 7,
+      "month_name": "July",
+      "name": "Pinball museum",
+      "route": [
+        {
+          "id": 221,
+          "name": "Rotterdam",
+          "slug": "221-rotterdam",
+          "url": "places/221-rotterdam/"
+        }
+      ],
+      "slug": "232-pinball-museum",
+      "timeline_order": 226,
+      "url": "journal/232-pinball-museum/",
+      "weeks_from_previous": 0.4,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 18,
+          "name": "AC",
+          "slug": "18-ac",
+          "url": "people/18-ac/"
+        },
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        },
+        {
+          "id": 17,
+          "name": "VC",
+          "slug": "17-vc",
+          "url": "people/17-vc/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "July 2026",
+      "duration_days": 1,
+      "id": 233,
+      "month": 7,
+      "month_name": "July",
+      "name": "Duinrell Pt2",
+      "route": [
+        {
+          "id": 288,
+          "name": "Duinrell",
+          "slug": "288-duinrell",
+          "url": "places/288-duinrell/"
+        }
+      ],
+      "slug": "233-duinrell-pt2",
+      "timeline_order": 227,
+      "url": "journal/233-duinrell-pt2/",
+      "weeks_from_previous": 2.1,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "July 2026",
+      "duration_days": 1,
+      "id": 234,
+      "month": 7,
+      "month_name": "July",
+      "name": "Pinball museum pt 2",
+      "route": [
+        {
+          "id": 221,
+          "name": "Rotterdam",
+          "slug": "221-rotterdam",
+          "url": "places/221-rotterdam/"
+        }
+      ],
+      "slug": "234-pinball-museum-pt-2",
+      "timeline_order": 228,
+      "url": "journal/234-pinball-museum-pt-2/",
+      "weeks_from_previous": 1.0,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "August 2026",
+      "duration_days": 1,
+      "id": 235,
+      "month": 8,
+      "month_name": "August",
+      "name": "Lunch w/ friends",
+      "route": [
+        {
+          "id": 271,
+          "name": "Rijswijk",
+          "slug": "271-rijswijk",
+          "url": "places/271-rijswijk/"
+        }
+      ],
+      "slug": "235-lunch-w-friends",
+      "timeline_order": 229,
+      "url": "journal/235-lunch-w-friends/",
+      "weeks_from_previous": 1.9,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 62,
+          "name": "HK",
+          "slug": "62-hk",
+          "url": "people/62-hk/"
+        },
+        {
+          "id": 20,
+          "name": "WT",
+          "slug": "20-wt",
+          "url": "people/20-wt/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "September 2026",
+      "duration_days": 1,
+      "id": 236,
+      "month": 9,
+      "month_name": "September",
+      "name": "Giethoorn w/ family",
+      "route": [
+        {
+          "id": 86,
+          "name": "Giethoorn",
+          "slug": "86-giethoorn",
+          "url": "places/86-giethoorn/"
+        }
+      ],
+      "slug": "236-giethoorn-w-family",
+      "timeline_order": 230,
+      "url": "journal/236-giethoorn-w-family/",
+      "weeks_from_previous": 4.3,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        },
+        {
+          "id": 50,
+          "name": "SB",
+          "slug": "50-sb",
+          "url": "people/50-sb/"
+        },
+        {
+          "id": 55,
+          "name": "SM",
+          "slug": "55-sm",
+          "url": "people/55-sm/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 8,
+          "name": "Italy",
+          "slug": "8-italy",
+          "url": "countries/8-italy/"
+        }
+      ],
+      "date_label": "September 2026",
+      "duration_days": 8,
+      "id": 237,
+      "month": 9,
+      "month_name": "September",
+      "name": "Dolomites + Como",
+      "route": [
+        {
+          "id": 42,
+          "name": "Sirmione",
+          "slug": "42-sirmione",
+          "url": "places/42-sirmione/"
+        },
+        {
+          "id": 289,
+          "name": "Canazei",
+          "slug": "289-canazei",
+          "url": "places/289-canazei/"
+        },
+        {
+          "id": 293,
+          "name": "Seceda",
+          "slug": "293-seceda",
+          "url": "places/293-seceda/"
+        },
+        {
+          "id": 291,
+          "name": "Tre Cime di Lavaredo",
+          "slug": "291-tre-cime-di-lavaredo",
+          "url": "places/291-tre-cime-di-lavaredo/"
+        },
+        {
+          "id": 292,
+          "name": "Carezza Lake",
+          "slug": "292-carezza-lake",
+          "url": "places/292-carezza-lake/"
+        },
+        {
+          "id": 290,
+          "name": "Trentino – Alto Adige",
+          "slug": "290-trentino-alto-adige",
+          "url": "places/290-trentino-alto-adige/"
+        },
+        {
+          "id": 197,
+          "name": "Belaggio",
+          "slug": "197-belaggio",
+          "url": "places/197-belaggio/"
+        },
+        {
+          "id": 201,
+          "name": "Cadenabbia",
+          "slug": "201-cadenabbia",
+          "url": "places/201-cadenabbia/"
+        },
+        {
+          "id": 199,
+          "name": "Varenna",
+          "slug": "199-varenna",
+          "url": "places/199-varenna/"
+        },
+        {
+          "id": 294,
+          "name": "Trento",
+          "slug": "294-trento",
+          "url": "places/294-trento/"
+        }
+      ],
+      "slug": "237-dolomites-como",
+      "timeline_order": 231,
+      "url": "journal/237-dolomites-como/",
+      "weeks_from_previous": 0.7,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 33,
+          "name": "MC",
+          "slug": "33-mc",
+          "url": "people/33-mc/"
+        },
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        },
+        {
+          "id": 17,
+          "name": "VC",
+          "slug": "17-vc",
+          "url": "people/17-vc/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "September 2026",
+      "duration_days": 1,
+      "id": 238,
+      "month": 9,
+      "month_name": "September",
+      "name": "Open day at ESA",
+      "route": [
+        {
+          "id": 183,
+          "name": "Noordwijk aan zee",
+          "slug": "183-noordwijk-aan-zee",
+          "url": "places/183-noordwijk-aan-zee/"
+        }
+      ],
+      "slug": "238-open-day-at-esa",
+      "timeline_order": 232,
+      "url": "journal/238-open-day-at-esa/",
+      "weeks_from_previous": 2.1,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        },
+        {
+          "id": 50,
+          "name": "SB",
+          "slug": "50-sb",
+          "url": "people/50-sb/"
+        },
+        {
+          "id": 55,
+          "name": "SM",
+          "slug": "55-sm",
+          "url": "people/55-sm/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "October 2026",
+      "duration_days": 1,
+      "id": 239,
+      "month": 10,
+      "month_name": "October",
+      "name": "Durga Puja in Utrecht!",
+      "route": [
+        {
+          "id": 124,
+          "name": "Utrecht",
+          "slug": "124-utrecht",
+          "url": "places/124-utrecht/"
+        }
+      ],
+      "slug": "239-durga-puja-in-utrecht",
+      "timeline_order": 233,
+      "url": "journal/239-durga-puja-in-utrecht/",
+      "weeks_from_previous": 3.0,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 31,
+          "name": "FA",
+          "slug": "31-fa",
+          "url": "people/31-fa/"
+        },
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 19,
+          "name": "Germany",
+          "slug": "19-germany",
+          "url": "countries/19-germany/"
+        }
+      ],
+      "date_label": "October 2026",
+      "duration_days": 1,
+      "id": 240,
+      "month": 10,
+      "month_name": "October",
+      "name": "Spiel de Jahrs 2026",
+      "route": [
+        {
+          "id": 186,
+          "name": "Essen",
+          "slug": "186-essen",
+          "url": "places/186-essen/"
+        }
+      ],
+      "slug": "240-spiel-de-jahrs-2026",
+      "timeline_order": 234,
+      "url": "journal/240-spiel-de-jahrs-2026/",
+      "weeks_from_previous": 0.7,
       "year": 2026
     }
   ]

@@ -93,7 +93,7 @@
         
             <a href="https://itraveled.nikolasmoya.com">Statistics</a>
         
-            <a href="https://itraveled.nikolasmoya.com/timeline">Timeline</a>
+            <a href="https://itraveled.nikolasmoya.com/timeline">All trips</a>
         
             <a href="https://itraveled.nikolasmoya.com/atlas">Atlas</a>
         
@@ -109,18 +109,29 @@
     
 <main>
   <header class="page-heading"><h1>England</h1><p>6 places across 7 trips.</p></header>
+  
+    <section class="country-map-section" aria-label="Places visited in England">
+      <div class="country-map-heading"><p class="eyebrow">Across the journeys</p><p>6 mapped places · Select a marker to explore</p></div>
+      <div class="country-map" data-country-map>
+        <p class="country-map-status" role="status" data-country-map-status>Loading map…</p>
+        <div class="country-map-canvas" data-country-map-canvas role="region" aria-label="Interactive map of places visited in England" aria-hidden="true"></div>
+        <noscript><p class="country-map-noscript">The map requires JavaScript. All places are linked below.</p></noscript>
+      </div>
+    </section>
+  
   <section class="data-panel">
     <p class="eyebrow">Places</p>
-    <div class="tag-cloud"><a href="https://itraveled.nikolasmoya.com/places/55-basingstoke">Basingstoke</a><a href="https://itraveled.nikolasmoya.com/places/60-london">London</a><a href="https://itraveled.nikolasmoya.com/places/62-portsmouth">Portsmouth</a><a href="https://itraveled.nikolasmoya.com/places/63-reading">Reading</a><a href="https://itraveled.nikolasmoya.com/places/64-stonehenge">Stonehenge</a><a href="https://itraveled.nikolasmoya.com/places/65-winchester">Winchester</a></div>
+    <div class="tag-cloud" data-country-places><a href="https://itraveled.nikolasmoya.com/places/55-basingstoke" data-latitude="51.262826" data-longitude="-1.0861976" data-visits="1">Basingstoke</a><a href="https://itraveled.nikolasmoya.com/places/60-london" data-latitude="51.5074456" data-longitude="-0.1277653" data-visits="7">London</a><a href="https://itraveled.nikolasmoya.com/places/62-portsmouth" data-latitude="50.800031" data-longitude="-1.0906023" data-visits="1">Portsmouth</a><a href="https://itraveled.nikolasmoya.com/places/63-reading" data-latitude="51.4564242" data-longitude="-0.9700664" data-visits="1">Reading</a><a href="https://itraveled.nikolasmoya.com/places/64-stonehenge" data-latitude="51.1788293" data-longitude="-1.826183" data-visits="1">Stonehenge</a><a href="https://itraveled.nikolasmoya.com/places/65-winchester" data-latitude="51.0612766" data-longitude="-1.3131692" data-visits="1">Winchester</a></div>
   </section>
   <section class="visit-list data-panel">
     <p class="eyebrow">Journal entries</p>
     <a href="https://itraveled.nikolasmoya.com/journal/200-weekend-in-ldn"><time>November 2024</time><strong>Weekend in LDN</strong></a><a href="https://itraveled.nikolasmoya.com/journal/135-beautiful-scotland"><time>July 2022</time><strong>Beautiful Scotland</strong></a><a href="https://itraveled.nikolasmoya.com/journal/98-buckingham-palace"><time>August 2019</time><strong>Buckingham palace</strong></a><a href="https://itraveled.nikolasmoya.com/journal/77-trip-to-london"><time>July 2018</time><strong>Trip to London</strong></a><a href="https://itraveled.nikolasmoya.com/journal/58-party-in-london"><time>March 2017</time><strong>Party in London</strong></a><a href="https://itraveled.nikolasmoya.com/journal/41-birthday-party-in-london"><time>March 2016</time><strong>Birthday party in London</strong></a><a href="https://itraveled.nikolasmoya.com/journal/21-visit-marilia-escocia"><time>December 2013</time><strong>Visit Marilia Escócia</strong></a>
   </section>
 </main>
+<script type="module" src="https://itraveled.nikolasmoya.com/js/country-map.mjs"></script>
 
     <footer>
-  <div class="footer-info">Travel log · N. Moya · All photographs © N. Moya. All rights reserved.</div>
+  <div class="footer-info">Travel log · All photographs © N. Moya. All rights reserved.</div>
 </footer>
 
   </div>

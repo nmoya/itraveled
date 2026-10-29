@@ -93,7 +93,7 @@
         
             <a href="https://itraveled.nikolasmoya.com">Statistics</a>
         
-            <a href="https://itraveled.nikolasmoya.com/timeline">Timeline</a>
+            <a href="https://itraveled.nikolasmoya.com/timeline">All trips</a>
         
             <a href="https://itraveled.nikolasmoya.com/atlas">Atlas</a>
         
@@ -109,18 +109,29 @@
     
 <main>
   <header class="page-heading"><h1>Argentina</h1><p>2 places across 2 trips.</p></header>
+  
+    <section class="country-map-section" aria-label="Places visited in Argentina">
+      <div class="country-map-heading"><p class="eyebrow">Across the journeys</p><p>2 mapped places · Select a marker to explore</p></div>
+      <div class="country-map" data-country-map>
+        <p class="country-map-status" role="status" data-country-map-status>Loading map…</p>
+        <div class="country-map-canvas" data-country-map-canvas role="region" aria-label="Interactive map of places visited in Argentina" aria-hidden="true"></div>
+        <noscript><p class="country-map-noscript">The map requires JavaScript. All places are linked below.</p></noscript>
+      </div>
+    </section>
+  
   <section class="data-panel">
     <p class="eyebrow">Places</p>
-    <div class="tag-cloud"><a href="https://itraveled.nikolasmoya.com/places/12-buenos-aires">Buenos Aires</a><a href="https://itraveled.nikolasmoya.com/places/23-ushuaia">Ushuaia</a></div>
+    <div class="tag-cloud" data-country-places><a href="https://itraveled.nikolasmoya.com/places/12-buenos-aires" data-latitude="-34.6095579" data-longitude="-58.3887904" data-visits="2">Buenos Aires</a><a href="https://itraveled.nikolasmoya.com/places/23-ushuaia" data-latitude="-54.807306" data-longitude="-68.3084133" data-visits="1">Ushuaia</a></div>
   </section>
   <section class="visit-list data-panel">
     <p class="eyebrow">Journal entries</p>
     <a href="https://itraveled.nikolasmoya.com/journal/12-princess-cruises"><time>January 2012</time><strong>Princess Cruises</strong></a><a href="https://itraveled.nikolasmoya.com/journal/10-first-cruise-trip"><time>January 2011</time><strong>First cruise trip</strong></a>
   </section>
 </main>
+<script type="module" src="https://itraveled.nikolasmoya.com/js/country-map.mjs"></script>
 
     <footer>
-  <div class="footer-info">Travel log · N. Moya · All photographs © N. Moya. All rights reserved.</div>
+  <div class="footer-info">Travel log · All photographs © N. Moya. All rights reserved.</div>
 </footer>
 
   </div>

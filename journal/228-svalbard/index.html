@@ -93,7 +93,7 @@
         
             <a href="https://itraveled.nikolasmoya.com">Statistics</a>
         
-            <a href="https://itraveled.nikolasmoya.com/timeline">Timeline</a>
+            <a href="https://itraveled.nikolasmoya.com/timeline">All trips</a>
         
             <a href="https://itraveled.nikolasmoya.com/atlas">Atlas</a>
         
@@ -117,8 +117,13 @@
     <section class="trip-overview has-map" aria-label="Trip overview">
       
         <figure class="trip-map" data-trip-map>
-          <img class="trip-map-fallback" src="https://itraveled.nikolasmoya.com/generated/trip-plates/228-svalbard.svg" width="1200" height="675" alt="Map showing the ordered stops for Svalbard.">
+          <p class="trip-map-loading" role="status" data-trip-map-status>Loading map…</p>
+          <img class="trip-map-fallback" data-src="https://itraveled.nikolasmoya.com/generated/trip-plates/228-svalbard.svg" width="1200" height="675" alt="Map showing the ordered stops for Svalbard." hidden>
           <div class="trip-map-canvas" data-trip-map-canvas role="img" aria-label="Map showing the ordered stops for Svalbard." aria-hidden="true"></div>
+          <noscript>
+            <style>.trip-map-loading { display: none; }</style>
+            <img class="trip-map-fallback" src="https://itraveled.nikolasmoya.com/generated/trip-plates/228-svalbard.svg" width="1200" height="675" alt="Map showing the ordered stops for Svalbard.">
+          </noscript>
         </figure>
       
 
@@ -129,17 +134,17 @@
             
               <li data-latitude="78.2231558" data-longitude="15.6463656"><span>1</span><a href="https://itraveled.nikolasmoya.com/places/281-longyearbyen">Longyearbyen</a></li>
             
-              <li data-latitude="78.1669945" data-longitude="15.5835729"><span>2</span><a href="https://itraveled.nikolasmoya.com/places/282-trollsteinen">Trollsteinen</a></li>
+              <li data-latitude="78.3934238" data-longitude="16.5056985"><span>2</span><a href="https://itraveled.nikolasmoya.com/places/287-tempelfjorden">Tempelfjorden</a></li>
             
-              <li data-latitude="78.5838833" data-longitude="16.4658488"><span>3</span><a href="https://itraveled.nikolasmoya.com/places/283-billefjorden">Billefjorden</a></li>
+              <li data-latitude="78.8217" data-longitude="15.3656"><span>3</span><a href="https://itraveled.nikolasmoya.com/places/285-dicksonfjorden">Dicksonfjorden</a></li>
             
-              <li data-latitude="78.1069" data-longitude="14.9949"><span>4</span><a href="https://itraveled.nikolasmoya.com/places/284-bjorndalen">Björndalen</a></li>
+              <li data-latitude="78.1669945" data-longitude="15.5835729"><span>4</span><a href="https://itraveled.nikolasmoya.com/places/282-trollsteinen">Trollsteinen</a></li>
             
-              <li data-latitude="78.8217" data-longitude="15.3656"><span>5</span><a href="https://itraveled.nikolasmoya.com/places/285-dicksonfjorden">Dicksonfjorden</a></li>
+              <li data-latitude="78.5838833" data-longitude="16.4658488"><span>5</span><a href="https://itraveled.nikolasmoya.com/places/283-billefjorden">Billefjorden</a></li>
             
-              <li data-latitude="78.6862" data-longitude="14.6152"><span>6</span><a href="https://itraveled.nikolasmoya.com/places/286-ekmanfjorden">Ekmanfjorden</a></li>
+              <li data-latitude="78.1069" data-longitude="14.9949"><span>6</span><a href="https://itraveled.nikolasmoya.com/places/284-bjorndalen">Björndalen</a></li>
             
-              <li data-latitude="78.3934238" data-longitude="16.5056985"><span>7</span><a href="https://itraveled.nikolasmoya.com/places/287-tempelfjorden">Tempelfjorden</a></li>
+              <li data-latitude="78.6862" data-longitude="14.6152"><span>7</span><a href="https://itraveled.nikolasmoya.com/places/286-ekmanfjorden">Ekmanfjorden</a></li>
             
           </ol>
         </section>
@@ -445,7 +450,7 @@
 <script type="module" src="https://itraveled.nikolasmoya.com/js/photo-protection.mjs"></script>
 
     <footer>
-  <div class="footer-info">Travel log · N. Moya · All photographs © N. Moya. All rights reserved.</div>
+  <div class="footer-info">Travel log · All photographs © N. Moya. All rights reserved.</div>
 </footer>
 
   </div>

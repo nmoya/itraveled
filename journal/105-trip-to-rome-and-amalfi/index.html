@@ -93,7 +93,7 @@
         
             <a href="https://itraveled.nikolasmoya.com">Statistics</a>
         
-            <a href="https://itraveled.nikolasmoya.com/timeline">Timeline</a>
+            <a href="https://itraveled.nikolasmoya.com/timeline">All trips</a>
         
             <a href="https://itraveled.nikolasmoya.com/atlas">Atlas</a>
         
@@ -117,8 +117,13 @@
     <section class="trip-overview has-map" aria-label="Trip overview">
       
         <figure class="trip-map" data-trip-map>
-          <img class="trip-map-fallback" src="https://itraveled.nikolasmoya.com/generated/trip-plates/105-trip-to-rome-and-amalfi.svg" width="1200" height="675" alt="Map showing the ordered stops for Trip to Rome and Amalfi.">
+          <p class="trip-map-loading" role="status" data-trip-map-status>Loading map…</p>
+          <img class="trip-map-fallback" data-src="https://itraveled.nikolasmoya.com/generated/trip-plates/105-trip-to-rome-and-amalfi.svg" width="1200" height="675" alt="Map showing the ordered stops for Trip to Rome and Amalfi." hidden>
           <div class="trip-map-canvas" data-trip-map-canvas role="img" aria-label="Map showing the ordered stops for Trip to Rome and Amalfi." aria-hidden="true"></div>
+          <noscript>
+            <style>.trip-map-loading { display: none; }</style>
+            <img class="trip-map-fallback" src="https://itraveled.nikolasmoya.com/generated/trip-plates/105-trip-to-rome-and-amalfi.svg" width="1200" height="675" alt="Map showing the ordered stops for Trip to Rome and Amalfi.">
+          </noscript>
         </figure>
       
 
@@ -158,11 +163,77 @@
 
         <dl class="trip-facts">
           <div><dt>Countries</dt><dd><a href="https://itraveled.nikolasmoya.com/countries/8-italy">Italy</a>, <a href="https://itraveled.nikolasmoya.com/countries/10-vatican">Vatican</a></dd></div>
-          
+          <div><dt>With</dt><dd>TJ</dd></div>
         </dl>
       </aside>
     </section>
 
+    
+      <section class="trip-gallery" aria-label="Trip photographs">
+        <div class="trip-gallery-stream">
+          
+            <figure class="trip-photograph is-featured is-panoramic">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/606-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/606-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/606-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/606-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/606-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="4608" height="2176" alt="We finished the trip eating pasta with mussels on top of a beach terrace! The waves were right under our feet!" draggable="false" data-protected-photograph fetchpriority="high">
+              <figcaption>We finished the trip eating pasta with mussels on top of a beach terrace! The waves were right under our feet!</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph is-panoramic">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/607-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/607-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/607-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/607-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/607-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="4608" height="2176" alt="Road towards Praiano. Everything is so tight!" draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Road towards Praiano. Everything is so tight!</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/608-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/608-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/608-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/608-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/608-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="6000" height="4000" alt="Amalfi during the evening. Let&#39;s pile up some buildings on this corner, please." draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Amalfi during the evening. Let&#39;s pile up some buildings on this corner, please.</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/609-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/609-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/609-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/609-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/609-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="6000" height="4000" alt="Amalfi&#39;s cathedral" draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Amalfi&#39;s cathedral</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/610-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/610-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/610-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/610-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/610-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="6000" height="4000" alt="Amalfi coast from a viewpoint in Ravello" draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Amalfi coast from a viewpoint in Ravello</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph is-panoramic">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/611-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/611-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/611-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/611-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/611-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="3922" height="1852" alt="Amalfi beach during sunset" draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Amalfi beach during sunset</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/613-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/613-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/613-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/613-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/613-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="6000" height="4000" alt="Chairlift to visit Anacapri hill. Definitely worth it! If you are scared of heights, close your eyes and enjoy the breeze." draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Chairlift to visit Anacapri hill. Definitely worth it! If you are scared of heights, close your eyes and enjoy the breeze.</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/614-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/614-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/614-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/614-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/614-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="6000" height="4000" alt="Sea view from the top of chairlift to Anacapri." draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Sea view from the top of chairlift to Anacapri.</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph is-portrait">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/612-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/612-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/612-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/612-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/612-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="2176" height="4608" alt="Winding roads of Capri." draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Winding roads of Capri.</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph is-panoramic">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/615-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/615-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/615-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/615-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/615-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="4608" height="2176" alt="Capri hill" draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Capri hill</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph is-panoramic">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/616-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/616-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/616-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/616-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/616-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="4608" height="2176" alt="Pompeii and Vesuvius at the back." draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Pompeii and Vesuvius at the back.</figcaption>
+            </figure>
+          
+            <figure class="trip-photograph is-panoramic">
+              <img src="https://itraveled.nikolasmoya.com/generated/photos/617-3840.avif" srcset="https://itraveled.nikolasmoya.com/generated/photos/617-640.avif 640w, https://itraveled.nikolasmoya.com/generated/photos/617-1280.avif 1280w, https://itraveled.nikolasmoya.com/generated/photos/617-1920.avif 1920w, https://itraveled.nikolasmoya.com/generated/photos/617-3840.avif 3840w" sizes="(max-width: 899px) 100vw, 860px" width="4608" height="2176" alt="Statues at the Vatican museum" draggable="false" data-protected-photograph loading="lazy">
+              <figcaption>Statues at the Vatican museum</figcaption>
+            </figure>
+          
+        </div>
+      </section>
     
     
   </article>
@@ -171,7 +242,7 @@
 <script type="module" src="https://itraveled.nikolasmoya.com/js/photo-protection.mjs"></script>
 
     <footer>
-  <div class="footer-info">Travel log · N. Moya · All photographs © N. Moya. All rights reserved.</div>
+  <div class="footer-info">Travel log · All photographs © N. Moya. All rights reserved.</div>
 </footer>
 
   </div>

@@ -93,7 +93,7 @@
         
             <a href="https://itraveled.nikolasmoya.com">Statistics</a>
         
-            <a href="https://itraveled.nikolasmoya.com/timeline">Timeline</a>
+            <a href="https://itraveled.nikolasmoya.com/timeline">All trips</a>
         
             <a href="https://itraveled.nikolasmoya.com/atlas">Atlas</a>
         
@@ -109,18 +109,29 @@
     
 <main>
   <header class="page-heading"><h1>Chile</h1><p>3 places across 1 trips.</p></header>
+  
+    <section class="country-map-section" aria-label="Places visited in Chile">
+      <div class="country-map-heading"><p class="eyebrow">Across the journeys</p><p>3 mapped places · Select a marker to explore</p></div>
+      <div class="country-map" data-country-map>
+        <p class="country-map-status" role="status" data-country-map-status>Loading map…</p>
+        <div class="country-map-canvas" data-country-map-canvas role="region" aria-label="Interactive map of places visited in Chile" aria-hidden="true"></div>
+        <noscript><p class="country-map-noscript">The map requires JavaScript. All places are linked below.</p></noscript>
+      </div>
+    </section>
+  
   <section class="data-panel">
     <p class="eyebrow">Places</p>
-    <div class="tag-cloud"><a href="https://itraveled.nikolasmoya.com/places/21-punta-arenas">Punta Arenas</a><a href="https://itraveled.nikolasmoya.com/places/22-santiago">Santiago</a><a href="https://itraveled.nikolasmoya.com/places/24-valparaiso">Valparaíso</a></div>
+    <div class="tag-cloud" data-country-places><a href="https://itraveled.nikolasmoya.com/places/21-punta-arenas" data-latitude="-53.1625688" data-longitude="-70.907822" data-visits="1">Punta Arenas</a><a href="https://itraveled.nikolasmoya.com/places/22-santiago" data-latitude="-33.4376995" data-longitude="-70.6510671" data-visits="1">Santiago</a><a href="https://itraveled.nikolasmoya.com/places/24-valparaiso" data-latitude="-33.0458456" data-longitude="-71.6196749" data-visits="1">Valparaíso</a></div>
   </section>
   <section class="visit-list data-panel">
     <p class="eyebrow">Journal entries</p>
     <a href="https://itraveled.nikolasmoya.com/journal/12-princess-cruises"><time>January 2012</time><strong>Princess Cruises</strong></a>
   </section>
 </main>
+<script type="module" src="https://itraveled.nikolasmoya.com/js/country-map.mjs"></script>
 
     <footer>
-  <div class="footer-info">Travel log · N. Moya · All photographs © N. Moya. All rights reserved.</div>
+  <div class="footer-info">Travel log · All photographs © N. Moya. All rights reserved.</div>
 </footer>
 
   </div>

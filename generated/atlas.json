@@ -126,7 +126,7 @@
     {
       "id": 8,
       "name": "Italy",
-      "place_count": 43,
+      "place_count": 49,
       "places": [
         27,
         28,
@@ -170,10 +170,16 @@
         200,
         201,
         202,
-        218
+        218,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294
       ],
       "slug": "8-italy",
-      "trip_count": 6,
+      "trip_count": 8,
       "url": "countries/8-italy/"
     },
     {
@@ -278,7 +284,7 @@
     {
       "id": 14,
       "name": "Netherlands",
-      "place_count": 61,
+      "place_count": 62,
       "places": [
         78,
         80,
@@ -340,10 +346,11 @@
         272,
         273,
         277,
-        279
+        279,
+        288
       ],
       "slug": "14-netherlands",
-      "trip_count": 118,
+      "trip_count": 127,
       "url": "countries/14-netherlands/"
     },
     {
@@ -428,7 +435,7 @@
         275
       ],
       "slug": "19-germany",
-      "trip_count": 6,
+      "trip_count": 7,
       "url": "countries/19-germany/"
     },
     {
@@ -1493,9 +1500,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1522,9 +1529,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1551,9 +1558,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1590,9 +1597,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1619,9 +1626,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1648,9 +1655,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1677,9 +1684,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1706,9 +1713,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1735,9 +1742,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1774,9 +1781,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1813,9 +1820,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1842,9 +1849,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1921,9 +1928,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1960,9 +1967,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -1999,9 +2006,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2015,14 +2022,24 @@
       },
       "first_year": 2012,
       "id": 41,
-      "last_year": 2019,
+      "last_year": 2026,
       "latitude": 41.8933203,
       "longitude": 12.4829321,
       "name": "Rome",
       "slug": "41-rome",
       "url": "places/41-rome/",
-      "visit_count": 2,
+      "visit_count": 3,
       "visits": [
+        {
+          "date_label": "May 2026",
+          "id": 229,
+          "month": 5,
+          "month_name": "May",
+          "name": "Rome during summer",
+          "slug": "229-rome-during-summer",
+          "url": "journal/229-rome-during-summer/",
+          "year": 2026
+        },
         {
           "date_label": "November 2019",
           "id": 105,
@@ -2038,9 +2055,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2054,22 +2071,32 @@
       },
       "first_year": 2012,
       "id": 42,
-      "last_year": 2012,
+      "last_year": 2026,
       "latitude": 45.492869,
       "longitude": 10.6077258,
       "name": "Sirmione",
       "slug": "42-sirmione",
       "url": "places/42-sirmione/",
-      "visit_count": 1,
+      "visit_count": 2,
       "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        },
         {
           "date_label": "December 2012",
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2106,9 +2133,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2135,9 +2162,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2174,9 +2201,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2203,9 +2230,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2252,9 +2279,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2281,9 +2308,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -2310,9 +2337,9 @@
           "id": 14,
           "month": 12,
           "month_name": "December",
-          "name": "Europe trip with Gregory",
-          "slug": "14-europe-trip-with-gregory",
-          "url": "journal/14-europe-trip-with-gregory/",
+          "name": "Europe trip with G.S",
+          "slug": "14-europe-trip-with-g-s",
+          "url": "journal/14-europe-trip-with-g-s/",
           "year": 2012
         }
       ]
@@ -3840,14 +3867,24 @@
       },
       "first_year": 2016,
       "id": 86,
-      "last_year": 2020,
+      "last_year": 2026,
       "latitude": 52.741105,
       "longitude": 6.077431,
       "name": "Giethoorn",
       "slug": "86-giethoorn",
       "url": "places/86-giethoorn/",
-      "visit_count": 4,
+      "visit_count": 5,
       "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 236,
+          "month": 9,
+          "month_name": "September",
+          "name": "Giethoorn w/ family",
+          "slug": "236-giethoorn-w-family",
+          "url": "journal/236-giethoorn-w-family/",
+          "year": 2026
+        },
         {
           "date_label": "December 2020",
           "id": 113,
@@ -5163,14 +5200,34 @@
       },
       "first_year": 2018,
       "id": 124,
-      "last_year": 2025,
+      "last_year": 2026,
       "latitude": 52.0907006,
       "longitude": 5.1215634,
       "name": "Utrecht",
       "slug": "124-utrecht",
       "url": "places/124-utrecht/",
-      "visit_count": 5,
+      "visit_count": 7,
       "visits": [
+        {
+          "date_label": "October 2026",
+          "id": 239,
+          "month": 10,
+          "month_name": "October",
+          "name": "Durga Puja in Utrecht!",
+          "slug": "239-durga-puja-in-utrecht",
+          "url": "journal/239-durga-puja-in-utrecht/",
+          "year": 2026
+        },
+        {
+          "date_label": "June 2026",
+          "id": 230,
+          "month": 6,
+          "month_name": "June",
+          "name": "Fountain pen conference",
+          "slug": "230-fountain-pen-conference",
+          "url": "journal/230-fountain-pen-conference/",
+          "year": 2026
+        },
         {
           "date_label": "November 2025",
           "id": 218,
@@ -7115,14 +7172,24 @@
       },
       "first_year": 2022,
       "id": 183,
-      "last_year": 2024,
+      "last_year": 2026,
       "latitude": 52.2484451,
       "longitude": 4.4344787,
       "name": "Noordwijk aan zee",
       "slug": "183-noordwijk-aan-zee",
       "url": "places/183-noordwijk-aan-zee/",
-      "visit_count": 2,
+      "visit_count": 3,
       "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 238,
+          "month": 9,
+          "month_name": "September",
+          "name": "Open day at ESA",
+          "slug": "238-open-day-at-esa",
+          "url": "journal/238-open-day-at-esa/",
+          "year": 2026
+        },
         {
           "date_label": "June 2024",
           "id": 187,
@@ -7212,14 +7279,24 @@
       },
       "first_year": 2022,
       "id": 186,
-      "last_year": 2023,
+      "last_year": 2026,
       "latitude": 51.4582235,
       "longitude": 7.0158171,
       "name": "Essen",
       "slug": "186-essen",
       "url": "places/186-essen/",
-      "visit_count": 2,
+      "visit_count": 3,
       "visits": [
+        {
+          "date_label": "October 2026",
+          "id": 240,
+          "month": 10,
+          "month_name": "October",
+          "name": "Spiel de Jahrs 2026",
+          "slug": "240-spiel-de-jahrs-2026",
+          "url": "journal/240-spiel-de-jahrs-2026/",
+          "year": 2026
+        },
         {
           "date_label": "October 2023",
           "id": 168,
@@ -7581,14 +7658,24 @@
       },
       "first_year": 2023,
       "id": 197,
-      "last_year": 2023,
+      "last_year": 2026,
       "latitude": 45.9872549,
       "longitude": 9.2613001,
       "name": "Belaggio",
       "slug": "197-belaggio",
       "url": "places/197-belaggio/",
-      "visit_count": 1,
+      "visit_count": 2,
       "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        },
         {
           "date_label": "March 2023",
           "id": 156,
@@ -7639,14 +7726,24 @@
       },
       "first_year": 2023,
       "id": 199,
-      "last_year": 2023,
+      "last_year": 2026,
       "latitude": 46.0099785,
       "longitude": 9.2831593,
       "name": "Varenna",
       "slug": "199-varenna",
       "url": "places/199-varenna/",
-      "visit_count": 1,
+      "visit_count": 2,
       "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        },
         {
           "date_label": "March 2023",
           "id": 156,
@@ -7697,14 +7794,24 @@
       },
       "first_year": 2023,
       "id": 201,
-      "last_year": 2023,
+      "last_year": 2026,
       "latitude": 45.9912752,
       "longitude": 9.2370248,
       "name": "Cadenabbia",
       "slug": "201-cadenabbia",
       "url": "places/201-cadenabbia/",
-      "visit_count": 1,
+      "visit_count": 2,
       "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        },
         {
           "date_label": "March 2023",
           "id": 156,
@@ -8457,14 +8564,34 @@
       },
       "first_year": 2021,
       "id": 221,
-      "last_year": 2025,
+      "last_year": 2026,
       "latitude": 51.9244424,
       "longitude": 4.47775,
       "name": "Rotterdam",
       "slug": "221-rotterdam",
       "url": "places/221-rotterdam/",
-      "visit_count": 2,
+      "visit_count": 4,
       "visits": [
+        {
+          "date_label": "July 2026",
+          "id": 234,
+          "month": 7,
+          "month_name": "July",
+          "name": "Pinball museum pt 2",
+          "slug": "234-pinball-museum-pt-2",
+          "url": "journal/234-pinball-museum-pt-2/",
+          "year": 2026
+        },
+        {
+          "date_label": "July 2026",
+          "id": 232,
+          "month": 7,
+          "month_name": "July",
+          "name": "Pinball museum",
+          "slug": "232-pinball-museum",
+          "url": "journal/232-pinball-museum/",
+          "year": 2026
+        },
         {
           "date_label": "July 2025",
           "id": 212,
@@ -9904,8 +10031,18 @@
       "name": "Rijswijk",
       "slug": "271-rijswijk",
       "url": "places/271-rijswijk/",
-      "visit_count": 2,
+      "visit_count": 3,
       "visits": [
+        {
+          "date_label": "August 2026",
+          "id": 235,
+          "month": 8,
+          "month_name": "August",
+          "name": "Lunch w/ friends",
+          "slug": "235-lunch-w-friends",
+          "url": "journal/235-lunch-w-friends/",
+          "year": 2026
+        },
         {
           "date_label": "February 2026",
           "id": 226,
@@ -10391,6 +10528,219 @@
           "year": 2026
         }
       ]
+    },
+    {
+      "country": {
+        "id": 14,
+        "name": "Netherlands",
+        "slug": "14-netherlands",
+        "url": "countries/14-netherlands/"
+      },
+      "first_year": 2026,
+      "id": 288,
+      "last_year": 2026,
+      "latitude": 52.1475159,
+      "longitude": 4.3803108,
+      "name": "Duinrell",
+      "slug": "288-duinrell",
+      "url": "places/288-duinrell/",
+      "visit_count": 2,
+      "visits": [
+        {
+          "date_label": "July 2026",
+          "id": 233,
+          "month": 7,
+          "month_name": "July",
+          "name": "Duinrell Pt2",
+          "slug": "233-duinrell-pt2",
+          "url": "journal/233-duinrell-pt2/",
+          "year": 2026
+        },
+        {
+          "date_label": "July 2026",
+          "id": 231,
+          "month": 7,
+          "month_name": "July",
+          "name": "Duinrell pt 1",
+          "slug": "231-duinrell-pt-1",
+          "url": "journal/231-duinrell-pt-1/",
+          "year": 2026
+        }
+      ]
+    },
+    {
+      "country": {
+        "id": 8,
+        "name": "Italy",
+        "slug": "8-italy",
+        "url": "countries/8-italy/"
+      },
+      "first_year": 2026,
+      "id": 289,
+      "last_year": 2026,
+      "latitude": 46.4503316,
+      "longitude": 12.0089063,
+      "name": "Canazei",
+      "slug": "289-canazei",
+      "url": "places/289-canazei/",
+      "visit_count": 1,
+      "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        }
+      ]
+    },
+    {
+      "country": {
+        "id": 8,
+        "name": "Italy",
+        "slug": "8-italy",
+        "url": "countries/8-italy/"
+      },
+      "first_year": 2026,
+      "id": 290,
+      "last_year": 2026,
+      "latitude": 46.441472,
+      "longitude": 11.282121,
+      "name": "Trentino – Alto Adige",
+      "slug": "290-trentino-alto-adige",
+      "url": "places/290-trentino-alto-adige/",
+      "visit_count": 1,
+      "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        }
+      ]
+    },
+    {
+      "country": {
+        "id": 8,
+        "name": "Italy",
+        "slug": "8-italy",
+        "url": "countries/8-italy/"
+      },
+      "first_year": 2026,
+      "id": 291,
+      "last_year": 2026,
+      "latitude": 46.6177504,
+      "longitude": 12.2953929,
+      "name": "Tre Cime di Lavaredo",
+      "slug": "291-tre-cime-di-lavaredo",
+      "url": "places/291-tre-cime-di-lavaredo/",
+      "visit_count": 1,
+      "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        }
+      ]
+    },
+    {
+      "country": {
+        "id": 8,
+        "name": "Italy",
+        "slug": "8-italy",
+        "url": "countries/8-italy/"
+      },
+      "first_year": 2026,
+      "id": 292,
+      "last_year": 2026,
+      "latitude": 46.4102642,
+      "longitude": 11.5752176,
+      "name": "Carezza Lake",
+      "slug": "292-carezza-lake",
+      "url": "places/292-carezza-lake/",
+      "visit_count": 1,
+      "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        }
+      ]
+    },
+    {
+      "country": {
+        "id": 8,
+        "name": "Italy",
+        "slug": "8-italy",
+        "url": "countries/8-italy/"
+      },
+      "first_year": 2026,
+      "id": 293,
+      "last_year": 2026,
+      "latitude": 46.596998,
+      "longitude": 11.7277587,
+      "name": "Seceda",
+      "slug": "293-seceda",
+      "url": "places/293-seceda/",
+      "visit_count": 1,
+      "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        }
+      ]
+    },
+    {
+      "country": {
+        "id": 8,
+        "name": "Italy",
+        "slug": "8-italy",
+        "url": "countries/8-italy/"
+      },
+      "first_year": 2026,
+      "id": 294,
+      "last_year": 2026,
+      "latitude": 46.0664228,
+      "longitude": 11.1257601,
+      "name": "Trento",
+      "slug": "294-trento",
+      "url": "places/294-trento/",
+      "visit_count": 1,
+      "visits": [
+        {
+          "date_label": "September 2026",
+          "id": 237,
+          "month": 9,
+          "month_name": "September",
+          "name": "Dolomites + Como",
+          "slug": "237-dolomites-como",
+          "url": "journal/237-dolomites-como/",
+          "year": 2026
+        }
+      ]
     }
   ],
   "trips": [
@@ -10656,7 +11006,7 @@
       "id": 14,
       "month": 12,
       "month_name": "December",
-      "name": "Europe trip with Gregory",
+      "name": "Europe trip with G.S",
       "route": [
         28,
         31,
@@ -10683,8 +11033,8 @@
         43,
         44
       ],
-      "slug": "14-europe-trip-with-gregory",
-      "url": "journal/14-europe-trip-with-gregory/",
+      "slug": "14-europe-trip-with-g-s",
+      "url": "journal/14-europe-trip-with-g-s/",
       "year": 2012
     },
     {
@@ -13718,15 +14068,192 @@
       "name": "Svalbard",
       "route": [
         281,
+        287,
+        285,
         282,
         283,
         284,
-        285,
-        286,
-        287
+        286
       ],
       "slug": "228-svalbard",
       "url": "journal/228-svalbard/",
+      "year": 2026
+    },
+    {
+      "date_label": "May 2026",
+      "duration_days": 4,
+      "id": 229,
+      "month": 5,
+      "month_name": "May",
+      "name": "Rome during summer",
+      "route": [
+        41
+      ],
+      "slug": "229-rome-during-summer",
+      "url": "journal/229-rome-during-summer/",
+      "year": 2026
+    },
+    {
+      "date_label": "June 2026",
+      "duration_days": 1,
+      "id": 230,
+      "month": 6,
+      "month_name": "June",
+      "name": "Fountain pen conference",
+      "route": [
+        124
+      ],
+      "slug": "230-fountain-pen-conference",
+      "url": "journal/230-fountain-pen-conference/",
+      "year": 2026
+    },
+    {
+      "date_label": "July 2026",
+      "duration_days": 1,
+      "id": 231,
+      "month": 7,
+      "month_name": "July",
+      "name": "Duinrell pt 1",
+      "route": [
+        288
+      ],
+      "slug": "231-duinrell-pt-1",
+      "url": "journal/231-duinrell-pt-1/",
+      "year": 2026
+    },
+    {
+      "date_label": "July 2026",
+      "duration_days": 1,
+      "id": 232,
+      "month": 7,
+      "month_name": "July",
+      "name": "Pinball museum",
+      "route": [
+        221
+      ],
+      "slug": "232-pinball-museum",
+      "url": "journal/232-pinball-museum/",
+      "year": 2026
+    },
+    {
+      "date_label": "July 2026",
+      "duration_days": 1,
+      "id": 233,
+      "month": 7,
+      "month_name": "July",
+      "name": "Duinrell Pt2",
+      "route": [
+        288
+      ],
+      "slug": "233-duinrell-pt2",
+      "url": "journal/233-duinrell-pt2/",
+      "year": 2026
+    },
+    {
+      "date_label": "July 2026",
+      "duration_days": 1,
+      "id": 234,
+      "month": 7,
+      "month_name": "July",
+      "name": "Pinball museum pt 2",
+      "route": [
+        221
+      ],
+      "slug": "234-pinball-museum-pt-2",
+      "url": "journal/234-pinball-museum-pt-2/",
+      "year": 2026
+    },
+    {
+      "date_label": "August 2026",
+      "duration_days": 1,
+      "id": 235,
+      "month": 8,
+      "month_name": "August",
+      "name": "Lunch w/ friends",
+      "route": [
+        271
+      ],
+      "slug": "235-lunch-w-friends",
+      "url": "journal/235-lunch-w-friends/",
+      "year": 2026
+    },
+    {
+      "date_label": "September 2026",
+      "duration_days": 1,
+      "id": 236,
+      "month": 9,
+      "month_name": "September",
+      "name": "Giethoorn w/ family",
+      "route": [
+        86
+      ],
+      "slug": "236-giethoorn-w-family",
+      "url": "journal/236-giethoorn-w-family/",
+      "year": 2026
+    },
+    {
+      "date_label": "September 2026",
+      "duration_days": 8,
+      "id": 237,
+      "month": 9,
+      "month_name": "September",
+      "name": "Dolomites + Como",
+      "route": [
+        42,
+        289,
+        293,
+        291,
+        292,
+        290,
+        197,
+        201,
+        199,
+        294
+      ],
+      "slug": "237-dolomites-como",
+      "url": "journal/237-dolomites-como/",
+      "year": 2026
+    },
+    {
+      "date_label": "September 2026",
+      "duration_days": 1,
+      "id": 238,
+      "month": 9,
+      "month_name": "September",
+      "name": "Open day at ESA",
+      "route": [
+        183
+      ],
+      "slug": "238-open-day-at-esa",
+      "url": "journal/238-open-day-at-esa/",
+      "year": 2026
+    },
+    {
+      "date_label": "October 2026",
+      "duration_days": 1,
+      "id": 239,
+      "month": 10,
+      "month_name": "October",
+      "name": "Durga Puja in Utrecht!",
+      "route": [
+        124
+      ],
+      "slug": "239-durga-puja-in-utrecht",
+      "url": "journal/239-durga-puja-in-utrecht/",
+      "year": 2026
+    },
+    {
+      "date_label": "October 2026",
+      "duration_days": 1,
+      "id": 240,
+      "month": 10,
+      "month_name": "October",
+      "name": "Spiel de Jahrs 2026",
+      "route": [
+        186
+      ],
+      "slug": "240-spiel-de-jahrs-2026",
+      "url": "journal/240-spiel-de-jahrs-2026/",
       "year": 2026
     }
   ]
