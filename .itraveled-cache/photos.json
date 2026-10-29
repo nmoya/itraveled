@@ -21826,6 +21826,1221 @@
       },
       "source_sha256": "d7f75edcd9d4bedca6c0f6abc86dfe53711cb509f0451a8f00c455d8e977a9cc"
     },
+    "593": {
+      "derivatives": [
+        {
+          "filename": "593-640.avif",
+          "sha256": "8c3c72aee74e1b94f84a06c6554684273d954623e3f80b9a9f34a82fcb0ef2f1",
+          "size": 28436
+        },
+        {
+          "filename": "593-1280.avif",
+          "sha256": "eba0200cd6b753e7fefb6442d8d2c8b63f141d2ef58ba56c9a9188b10ba4a19f",
+          "size": 101756
+        },
+        {
+          "filename": "593-1920.avif",
+          "sha256": "aaaca007854584c2d50d4b3929d6ebdddf85952664faa5c31345e1a237947725",
+          "size": 201539
+        },
+        {
+          "filename": "593-3840.avif",
+          "sha256": "4207903c92063eb897235f6098b92d26f8f5dc3571dd48e564be2058a2b69e6e",
+          "size": 544137
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2216,
+        "width": 3940
+      },
+      "source_sha256": "6a39ffbad6f3a74ea6ff39a3fd65e13c1f894fca7c6d971d8f9be9d9eb932c37"
+    },
+    "594": {
+      "derivatives": [
+        {
+          "filename": "594-640.avif",
+          "sha256": "7ad3333472054ca27087ac408f4620272169a480f09efea9fe8156e69b35f407",
+          "size": 23738
+        },
+        {
+          "filename": "594-1280.avif",
+          "sha256": "dbe550457e65c35d6727df5638b3a3fff447022d4ba66bf70cf6a8c212f9e07a",
+          "size": 82242
+        },
+        {
+          "filename": "594-1920.avif",
+          "sha256": "acbdaf69359cd2074b19c6923560b5748407c6d4d20effe680e8bf4d4f407812",
+          "size": 174717
+        },
+        {
+          "filename": "594-3840.avif",
+          "sha256": "705f2131b7d79c55c26a055c7428d4811db1b576498f90fb848000b8c8312b7e",
+          "size": 674786
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 5584,
+        "width": 8368
+      },
+      "source_sha256": "9185b1279b31905e6554a19cda051071cb349002032fbcff7d677e88e2967195"
+    },
+    "595": {
+      "derivatives": [
+        {
+          "filename": "595-640.avif",
+          "sha256": "3f85f887b62c448b62a4c4a204aab36fd13e637e788fd01fe80e28ad8c02f196",
+          "size": 26032
+        },
+        {
+          "filename": "595-1280.avif",
+          "sha256": "15e17c5a9365deae56364cdb2d7fd9229bf0f760e08450d772f3805b4988f872",
+          "size": 94281
+        },
+        {
+          "filename": "595-1920.avif",
+          "sha256": "0590efd85275b987ed9669d2f582d013a229e337e8909fe5db273db4e177e5c3",
+          "size": 206490
+        },
+        {
+          "filename": "595-3840.avif",
+          "sha256": "ff2bf21c492752bc71f6962ebf14a965ddda3defef2e5b649472997b6b7f7625",
+          "size": 814203
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 5584,
+        "width": 8368
+      },
+      "source_sha256": "bf62c38eb70b8ad3b2b13539e998f9af1101e78f0141dcfbaa4238cb7dc89bd3"
+    },
+    "596": {
+      "derivatives": [
+        {
+          "filename": "596-640.avif",
+          "sha256": "5f86a13f7675f1e1f5c1b168683d68df91bb4f233799fd96ad848dd1da80bc91",
+          "size": 24281
+        },
+        {
+          "filename": "596-1280.avif",
+          "sha256": "2449ae02bc0547d0eeb67c67e1172d7dd6fdf2ec3286fd6451d4ea82cce77505",
+          "size": 89230
+        },
+        {
+          "filename": "596-1920.avif",
+          "sha256": "1a9922fcca303a754b31edf7d54df92164cd469b8830c92ed7fe4d01a795be01",
+          "size": 201278
+        },
+        {
+          "filename": "596-3840.avif",
+          "sha256": "dec3f44c28c0523bfcdaf5bae880ec065e0463618975bc762b9e061c2a35bd6a",
+          "size": 675539
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "580f57a2efd8454d16d43788f5eefb3aab55bd82215feda842f1f9bccc3691b6"
+    },
+    "597": {
+      "derivatives": [
+        {
+          "filename": "597-640.avif",
+          "sha256": "c0b53da3bcaab9382fbec405444ce90871567706062c4d0c54a0da7578146ca2",
+          "size": 37827
+        },
+        {
+          "filename": "597-1280.avif",
+          "sha256": "ff8beb55a7ce63b4c8fb16fb72452646c35e3085597f9f656b8af1ec176b8284",
+          "size": 123784
+        },
+        {
+          "filename": "597-1920.avif",
+          "sha256": "8dc20e619b10d3e467c781dbe59ed766ccad7dfa95c2727540acbbe623e9e176",
+          "size": 239059
+        },
+        {
+          "filename": "597-3840.avif",
+          "sha256": "e845689fc9c44997cd765e990edfa5b8d164ab3f3e6b98b0501ab74f4073ac38",
+          "size": 732342
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 5584,
+        "width": 8368
+      },
+      "source_sha256": "67341d9171b04f7c902a79e66d4a17f2886dede5ffa41a0bab4a2a974417d1a9"
+    },
+    "598": {
+      "derivatives": [
+        {
+          "filename": "598-640.avif",
+          "sha256": "3e9af796ecf5514891c76c2cb9a1e37150459c7294f143edd2bd1070afc58c68",
+          "size": 17377
+        },
+        {
+          "filename": "598-1280.avif",
+          "sha256": "c143c211f0a16287794fea0e1fcdde676d03777bf681601e6345d5766cdcff50",
+          "size": 61599
+        },
+        {
+          "filename": "598-1920.avif",
+          "sha256": "8bd8dcac64a5b19923008c30971ac9ecb275ac9ad0f6f91de6831881cbb53cf1",
+          "size": 126183
+        },
+        {
+          "filename": "598-3840.avif",
+          "sha256": "23e5b42020052a30f5151e10b5d9006919b869f03c9f040bcdfc3e00af776b46",
+          "size": 349179
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "3e54bba2f0f78660a47b8049f4e5f41e9992b1bf6debd6d894dc9a2da68965c1"
+    },
+    "599": {
+      "derivatives": [
+        {
+          "filename": "599-640.avif",
+          "sha256": "fcae80d5cd364e8a94327c6553dd2b6039a06de367de5d0377cab8d7623557d6",
+          "size": 21194
+        },
+        {
+          "filename": "599-1280.avif",
+          "sha256": "a447f221867fd77a19e7612e39549114fd1b3383c86485a30713923a3c598634",
+          "size": 73351
+        },
+        {
+          "filename": "599-1920.avif",
+          "sha256": "15338b8e8f819f5ce6da8ab85408f1194af679af6227a1c14215a856c4132654",
+          "size": 149136
+        },
+        {
+          "filename": "599-3840.avif",
+          "sha256": "dab9946074566beb1fa3b4b1cce5cdf8f4d5a60b17171e40f2bb54d631b0d4da",
+          "size": 470313
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "52d740d10d6895c9b49be026d81e0d0dad34225156ca274a13cf742af6a3a415"
+    },
+    "600": {
+      "derivatives": [
+        {
+          "filename": "600-640.avif",
+          "sha256": "9ef030ed87f1fdbcb886c2d373cc9eeddd6332a56e4f235bfc3d67468e695692",
+          "size": 15453
+        },
+        {
+          "filename": "600-1280.avif",
+          "sha256": "a2ef2fa187d15ed4dc5a0cf78a3144c929eee7eaff3e4d794922ebfc0d2ee666",
+          "size": 56939
+        },
+        {
+          "filename": "600-1920.avif",
+          "sha256": "e4744b499b26d0ee2014fa544ed027420f15cf33999911110c2ee2f838aba61f",
+          "size": 127420
+        },
+        {
+          "filename": "600-3840.avif",
+          "sha256": "18cc565f8b5c7852d7ff2174218094e078df6a6a21f435a02055c9800a16fb4a",
+          "size": 424818
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "9dda46763971d8594822e4bf0f630e783771640d32c4cc4515d2f9ee63ae91bd"
+    },
+    "601": {
+      "derivatives": [
+        {
+          "filename": "601-640.avif",
+          "sha256": "f834464a7996f5abf5102045380579da5f58d364a8e47869ed8d314b5c3074fa",
+          "size": 26085
+        },
+        {
+          "filename": "601-1280.avif",
+          "sha256": "2db884c6ef88d08b7ec8ef047e0c96052bf82cd094d7dbd160d455e37977797c",
+          "size": 93367
+        },
+        {
+          "filename": "601-1920.avif",
+          "sha256": "ffb852a834aa36dd74867c0783667673fbb5c4b6359ee9d681819032138d3800",
+          "size": 204923
+        },
+        {
+          "filename": "601-3840.avif",
+          "sha256": "c7980ace3a5bc9ea1dcc62f47c8a41ebce50f7bda09e4724a20885afbc1622a0",
+          "size": 670914
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "1f850013f3d64b3e763f05ed52ec4ae4c65cd0df1bead82e5e1612402cbead9b"
+    },
+    "602": {
+      "derivatives": [
+        {
+          "filename": "602-640.avif",
+          "sha256": "4864b3e019b368fa415a93843e4bb37bec458e287788631da405951d32b6ed76",
+          "size": 21420
+        },
+        {
+          "filename": "602-1280.avif",
+          "sha256": "6cfc6e52a2c38f207e90238623cdf95fcffd72535a3d21f2a9899521f089202f",
+          "size": 80700
+        },
+        {
+          "filename": "602-1920.avif",
+          "sha256": "88be66fba2db31417690dbd6ce94f43da8140d70645fe0132600691615295c57",
+          "size": 175605
+        },
+        {
+          "filename": "602-3840.avif",
+          "sha256": "62428df7bc92057531177ece309959727dd0b5a8b04d9e0183de9dbb0934ee41",
+          "size": 548011
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 5712,
+        "width": 3213
+      },
+      "source_sha256": "baac2563bf0f0d40d9961bfc3ec672323f722d44f8454e6a525661c6151b50fb"
+    },
+    "603": {
+      "derivatives": [
+        {
+          "filename": "603-640.avif",
+          "sha256": "91dfd46ace207114f80886a4a502112aab5e28de3706d866a4371ee5f764429f",
+          "size": 19199
+        },
+        {
+          "filename": "603-1280.avif",
+          "sha256": "722b02751e3c1b8370336b8ebc3ec10ecbb2cba3a3a43a75c72c2291c7ed946d",
+          "size": 56991
+        },
+        {
+          "filename": "603-1920.avif",
+          "sha256": "3d81406e70d561ddfa23efa2c334ef059550af20eb539c72a580928fa50eb5e7",
+          "size": 110618
+        },
+        {
+          "filename": "603-3840.avif",
+          "sha256": "73418a9cb8519529896d7a654815535350fef273deab9cf96f1a61e9b387dd9f",
+          "size": 354616
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 5584,
+        "width": 8368
+      },
+      "source_sha256": "9b4d56b5f22243e8d3803ffe76e3d9f735715e11013d8d040fee2bb823faf705"
+    },
+    "604": {
+      "derivatives": [
+        {
+          "filename": "604-640.avif",
+          "sha256": "9b3bca7ac2f126c5e5b42e5060880b8c5c58d76fd4352246d5458b22040b50a1",
+          "size": 23037
+        },
+        {
+          "filename": "604-1280.avif",
+          "sha256": "84f45e08c6adf47e24d7eaa57f2beb5d496823f1f056f4313eda2b27424afee1",
+          "size": 83198
+        },
+        {
+          "filename": "604-1920.avif",
+          "sha256": "1d8735e84b8ba6962e6030690049368eb8c0dc3df63154f35b87e23ad71eaf29",
+          "size": 178570
+        },
+        {
+          "filename": "604-3840.avif",
+          "sha256": "86a1115802f31fddb349e0a72006fa0bddfacd7c4a81f6879da64a341825c9a1",
+          "size": 529762
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "6da54bf78756e4a643179169aea6dae86f99649d36c2807c7bd6b1efa54b2f81"
+    },
+    "605": {
+      "derivatives": [
+        {
+          "filename": "605-640.avif",
+          "sha256": "0aa6c460029849c6b34b86b996dfb4673d36d41e51d0f08c97732276db2b00ee",
+          "size": 21871
+        },
+        {
+          "filename": "605-1280.avif",
+          "sha256": "6e678b01b70f870a00e6a61be19aa074ec181da073bc055ff011c28977851856",
+          "size": 64805
+        },
+        {
+          "filename": "605-1920.avif",
+          "sha256": "8a8340c7cd99bf2b9fa45820c919aa1d5df36b191a90028665347e958627a1cd",
+          "size": 120725
+        },
+        {
+          "filename": "605-3840.avif",
+          "sha256": "30cab1f2b204135c82302458d4755056cf21613b17e91e3f5e4b34dcd2161cc6",
+          "size": 360984
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 5584,
+        "width": 8368
+      },
+      "source_sha256": "fe3b8f0e0e0e1d5d7f212e2658a85ad1af089bdcab7a3a6bc5d65a36c67e3863"
+    },
+    "606": {
+      "derivatives": [
+        {
+          "filename": "606-640.avif",
+          "sha256": "6a1365b0c8f2b369b167b359bbe72555547267af4bf8681c3b34c5332bf8995e",
+          "size": 12755
+        },
+        {
+          "filename": "606-1280.avif",
+          "sha256": "2ef344a369e1bd876723b4a14ff850477703da690bdfecb1253dbfba5a8b2088",
+          "size": 40828
+        },
+        {
+          "filename": "606-1920.avif",
+          "sha256": "891fff25efe2bc44d1374928263e723e26921f2c1688a6554324d9a396fccb4b",
+          "size": 79221
+        },
+        {
+          "filename": "606-3840.avif",
+          "sha256": "fe81f0f5032efe8d7f0c91673cb7f847dcded7fc7953b67cca7646859224238e",
+          "size": 234171
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2176,
+        "width": 4608
+      },
+      "source_sha256": "2b52117cda3cbbe1752ceb91625449d0d568f60649b61326e47f709657c3da6e"
+    },
+    "607": {
+      "derivatives": [
+        {
+          "filename": "607-640.avif",
+          "sha256": "8642413b91281173b130e5619f259a5a19cb1833f3c30e3de83f72898b275334",
+          "size": 24155
+        },
+        {
+          "filename": "607-1280.avif",
+          "sha256": "673b4e821a81b3764e26e8b21131e7549d8d69736de25e257af0df9a22de2edc",
+          "size": 85276
+        },
+        {
+          "filename": "607-1920.avif",
+          "sha256": "1b1fdb44ee2a1b3afbe55592d923339da48a57561a0420f1808e643fdb716416",
+          "size": 177113
+        },
+        {
+          "filename": "607-3840.avif",
+          "sha256": "1d8eadff10db20d35b7cc04407f92eb7567aced1b9d2b221e96ba5e234f8d0b2",
+          "size": 563009
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2176,
+        "width": 4608
+      },
+      "source_sha256": "d3c8efe89a38202f1a71a8dcf7cdd7386a720470bd740081561ea5b1a8a9de6c"
+    },
+    "608": {
+      "derivatives": [
+        {
+          "filename": "608-640.avif",
+          "sha256": "13425361300a335ce1f4c4d20e581feef98c17d239e68ebff2b34a0252f6ba95",
+          "size": 24360
+        },
+        {
+          "filename": "608-1280.avif",
+          "sha256": "ad2b2e42272071d06574834ae9f1161752f0bc0bf2ab9a5e8d19a025053bb5a9",
+          "size": 81457
+        },
+        {
+          "filename": "608-1920.avif",
+          "sha256": "27d8786e574678efd1582545231a2eb8e8992601ae43bb9e3cf592a8e2fce77f",
+          "size": 159428
+        },
+        {
+          "filename": "608-3840.avif",
+          "sha256": "5cb97fa7f1d94632557ce03bb660f44aedd346d8512fef69392422bdb6f06993",
+          "size": 429393
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 4000,
+        "width": 6000
+      },
+      "source_sha256": "ba2c040849ccc0bf969963a879d7c585f3ae3c66bfd4f5a18d310676e6055b6b"
+    },
+    "609": {
+      "derivatives": [
+        {
+          "filename": "609-640.avif",
+          "sha256": "9281955ed216b289e68bedd547a4e61644086cd7282fca093dd90b234f40c5e7",
+          "size": 20307
+        },
+        {
+          "filename": "609-1280.avif",
+          "sha256": "977dabd59686931772a2e068f894345055c90cf0613f20c93b899c37ea362ed3",
+          "size": 56884
+        },
+        {
+          "filename": "609-1920.avif",
+          "sha256": "012dfcb0a86601bb6d6a47b32c175c2461b156650e66542bf5b91ce03ed15e0d",
+          "size": 100468
+        },
+        {
+          "filename": "609-3840.avif",
+          "sha256": "ca8eaf944ca628200b0c3652d5de17ad0985ac274124eb3d0de8fe73d2a53125",
+          "size": 243376
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 4000,
+        "width": 6000
+      },
+      "source_sha256": "e9e670eb34d84e931ec0096c95be412a7fd152af45ab07d8570af6ef0279acf4"
+    },
+    "610": {
+      "derivatives": [
+        {
+          "filename": "610-640.avif",
+          "sha256": "7e3f3dde94aa62b1011822b464a84fa881091e8e410c309170a6b7f160e69c7d",
+          "size": 26542
+        },
+        {
+          "filename": "610-1280.avif",
+          "sha256": "4b1807fdfd5f67723e68a342d8aa3b8c38707c86c895aad08f55e3f92bfc719c",
+          "size": 90401
+        },
+        {
+          "filename": "610-1920.avif",
+          "sha256": "1edbf64651aed39ecf1aec33d9e5098417e205b9c97a0b0a4adfb00c3e778d4c",
+          "size": 182924
+        },
+        {
+          "filename": "610-3840.avif",
+          "sha256": "a0d817d22a10f68f5dd2cac4da04d6bd514032e008f27c8aed9c0ef3c054ec10",
+          "size": 504848
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 4000,
+        "width": 6000
+      },
+      "source_sha256": "03a18fd857e699ad3363ced0ba102cd6f8cfb68b36b982012c3f40b6cc30029c"
+    },
+    "611": {
+      "derivatives": [
+        {
+          "filename": "611-640.avif",
+          "sha256": "2cf9d0b2e712e3e538aad5e4ee20e52a81fa2b0fd43aaae03476f6599a927235",
+          "size": 18682
+        },
+        {
+          "filename": "611-1280.avif",
+          "sha256": "965dd5d0e5a478135ae43a0c2851f9a6a3fb06a70c93c082102be2ca073e52a9",
+          "size": 67776
+        },
+        {
+          "filename": "611-1920.avif",
+          "sha256": "df8461aa973a951f585e0837c259679a220108efb5b702f2e26baf3c73f5c956",
+          "size": 134096
+        },
+        {
+          "filename": "611-3840.avif",
+          "sha256": "9843084c63842928147394c819d4a0c1812c6bca4869e321f749d7be75f6eede",
+          "size": 354057
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 1852,
+        "width": 3922
+      },
+      "source_sha256": "8934b430a7b84a375f3473e1b55193c2334ed1d9803a47b2de125d894fd2a0cf"
+    },
+    "612": {
+      "derivatives": [
+        {
+          "filename": "612-640.avif",
+          "sha256": "3d419e98c5b593a5a1eb7d6203dbb8f984c79480c7d1f7769c2e21fe838926c0",
+          "size": 29350
+        },
+        {
+          "filename": "612-1280.avif",
+          "sha256": "119abc40d8ee7cce246348cc05963fd2a334fbc10e8a4bd45c9330ee83fe86fc",
+          "size": 119642
+        },
+        {
+          "filename": "612-1920.avif",
+          "sha256": "19dd157ac7d9d33ba5b0fb3e608817d44adcba38a006399c4ba689e80a4b6b9c",
+          "size": 255381
+        },
+        {
+          "filename": "612-3840.avif",
+          "sha256": "787fb1f5302c0602e98ff15f3f89bf7cea303fee0c14ec263e5de6cedf3bede5",
+          "size": 750554
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 4608,
+        "width": 2176
+      },
+      "source_sha256": "0e84d5610605acaf40b6466c9ebeb850a91a8186d4c3edc511b1a9631b16040a"
+    },
+    "613": {
+      "derivatives": [
+        {
+          "filename": "613-640.avif",
+          "sha256": "4107c14888516fabe21d30a9f1b823eac97af0241f0dfcb87ae5fee02896ea4f",
+          "size": 28242
+        },
+        {
+          "filename": "613-1280.avif",
+          "sha256": "0250bf638f6c7a881cd75d5c8907503d8ad93fc4a8d6589772bf4ea78ea6c1f3",
+          "size": 94941
+        },
+        {
+          "filename": "613-1920.avif",
+          "sha256": "331e81c823dac48a026f9fb940e1b6ab9d289e43bdcaf537a096f6e33e232f39",
+          "size": 188568
+        },
+        {
+          "filename": "613-3840.avif",
+          "sha256": "6f14f6a04a514c25be657bfb711da96b66fb574c74b558d130ed9fe4b7dcad37",
+          "size": 518398
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 4000,
+        "width": 6000
+      },
+      "source_sha256": "9f2f54d18cf5c5232b436dc5d54868576282d7ec6d8f81586d8b127ac41efd6c"
+    },
+    "614": {
+      "derivatives": [
+        {
+          "filename": "614-640.avif",
+          "sha256": "13cc4b64077028f4ea9253b7ca6d87902db13eb6cb280ce2486e1cdd8ff306ba",
+          "size": 26739
+        },
+        {
+          "filename": "614-1280.avif",
+          "sha256": "166f75458606935cc9b339f06c9b636b67da30eaed658364330be3a849f29b40",
+          "size": 93127
+        },
+        {
+          "filename": "614-1920.avif",
+          "sha256": "a141c109b5b83b08e10bbb3e4194ea17ebf306f26b79427818f76d755e75c099",
+          "size": 188511
+        },
+        {
+          "filename": "614-3840.avif",
+          "sha256": "a4dc7dd16a326a4ee240cbaf3f720037111ef3754cbfa5a74d807c67463116c7",
+          "size": 539829
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 4000,
+        "width": 6000
+      },
+      "source_sha256": "f085f224c62cb62205256167e82549e0f7901d77b489b8a4e3eeee97a5949eba"
+    },
+    "615": {
+      "derivatives": [
+        {
+          "filename": "615-640.avif",
+          "sha256": "cd6d840d0675c0bc3bcf2b6b1d95ce082213447bedee6f06b66ebb1dcc0918d5",
+          "size": 24712
+        },
+        {
+          "filename": "615-1280.avif",
+          "sha256": "685ad4b6dbd5db47b9c7bf3dff09bbb7b2e7bcc67976e400c88a23f23cb985c8",
+          "size": 97475
+        },
+        {
+          "filename": "615-1920.avif",
+          "sha256": "eafc7cd5b4fe3990e074f69849ad8f9006f08a57e5b61e96886b3c1b335cf64a",
+          "size": 209295
+        },
+        {
+          "filename": "615-3840.avif",
+          "sha256": "d919fcaceab14f582cf13ef608a600548080ad48e069102b9587a066bf611258",
+          "size": 651288
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2176,
+        "width": 4608
+      },
+      "source_sha256": "6b2c657047d9243f243bfb99d698fb5a56c841581fd6476275726e2cfda757ed"
+    },
+    "616": {
+      "derivatives": [
+        {
+          "filename": "616-640.avif",
+          "sha256": "b3a694bae2cc625205abe7e70480f346f9efe54bdee692a9d8a449fce4f601a1",
+          "size": 13813
+        },
+        {
+          "filename": "616-1280.avif",
+          "sha256": "ce82dac3f0a184f5989fec2bd84c152f12c0c11a518d255aca0b001f94fb960b",
+          "size": 50086
+        },
+        {
+          "filename": "616-1920.avif",
+          "sha256": "c77fea475a6af1f443646902e774198fd7c08cae2b428d7c254c9d7ca3e59ff4",
+          "size": 102872
+        },
+        {
+          "filename": "616-3840.avif",
+          "sha256": "500bad00687f85b83bf23869e4bd507b5608f3e31a44aa5bd8724d8e2726666e",
+          "size": 308283
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2176,
+        "width": 4608
+      },
+      "source_sha256": "d7c2c4e018452c909796bd9ea5a9d5573567fcc97cba67be6d5e2af853f8a1f5"
+    },
+    "617": {
+      "derivatives": [
+        {
+          "filename": "617-640.avif",
+          "sha256": "c94a55610fda2a975edba5f766e594d54ad51d9cb2e4e2ce7f79a74ae97b3a57",
+          "size": 16117
+        },
+        {
+          "filename": "617-1280.avif",
+          "sha256": "7d24dcc4c16fd3a531579fdc1ef1b92ddda8652b5316244c5e397bff2eb12a1b",
+          "size": 51945
+        },
+        {
+          "filename": "617-1920.avif",
+          "sha256": "29214b1625a734b3b959ca121445ff3d719de47806f1940c4d10d00fb9a224d9",
+          "size": 101925
+        },
+        {
+          "filename": "617-3840.avif",
+          "sha256": "12b788286aa7267f2cdc468f4e8cd7fd684fe8a48863e2afc9e534305507d0be",
+          "size": 308053
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2176,
+        "width": 4608
+      },
+      "source_sha256": "1c49905f446774019ae5ecae51cf106b9f2e6c79421978a4f2c0d4e7bf3a0b8c"
+    },
+    "618": {
+      "derivatives": [
+        {
+          "filename": "618-640.avif",
+          "sha256": "b75b8e04d90013bddf5803a748315cac56e07fc5587a0048e56abebb4d147e10",
+          "size": 11075
+        },
+        {
+          "filename": "618-1280.avif",
+          "sha256": "10d302c174357cf94ce72bf400c29d8631b64c644e6faf0ac02a2adfbe8fc271",
+          "size": 36648
+        },
+        {
+          "filename": "618-1920.avif",
+          "sha256": "49f96d04df45556aaeab8eb7b9a08cf097067d016389d626be18e5b1aef6639d",
+          "size": 69542
+        },
+        {
+          "filename": "618-3840.avif",
+          "sha256": "79cc611e945011ed3fa6fc88f27d379fe47e7bdb17c226a5b9f8bb653fdd43a5",
+          "size": 209973
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2176,
+        "width": 4608
+      },
+      "source_sha256": "70a69cde5cb228f2e500298f0f03008a14de6ba14e574e17a85e0ea304412a5f"
+    },
+    "619": {
+      "derivatives": [
+        {
+          "filename": "619-640.avif",
+          "sha256": "a968c0a577ae8fab1cd8af19098edf2c8fef732a955f7edb9fbdfe7320b952fe",
+          "size": 24911
+        },
+        {
+          "filename": "619-1280.avif",
+          "sha256": "97b181ec4d6495ceed0a3fcb838199391768c779d5f49327cdef982cdda026d9",
+          "size": 94360
+        },
+        {
+          "filename": "619-1920.avif",
+          "sha256": "30c68f260cf50ab625e1709eca7d3b9fb95bff96bb5d9395db34f66bdeaad544",
+          "size": 208825
+        },
+        {
+          "filename": "619-3840.avif",
+          "sha256": "65526900ddd3f23074a6bae9996336d2099734cd26f13c0866134319fd998bc4",
+          "size": 635889
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "748915314b8e46cc7ba8f2ecd74fdb87d505f4d901f9c8c9404348981ed4c615"
+    },
     "62": {
       "derivatives": [
         {
@@ -21870,6 +23085,450 @@
         "width": 4032
       },
       "source_sha256": "e51e756c40b9578a5036ed4adefe574c39d53166e0b56a2b942622c81cd08987"
+    },
+    "620": {
+      "derivatives": [
+        {
+          "filename": "620-640.avif",
+          "sha256": "97a93eb54726fdb1d88bd8f19c966c95a2f87747eb65c5cd0305bf9d461c8afd",
+          "size": 25139
+        },
+        {
+          "filename": "620-1280.avif",
+          "sha256": "19cce4d44733bbb8f21ce750bd0d31a9137c3c749ef13c915cfc731f578883be",
+          "size": 60064
+        },
+        {
+          "filename": "620-1450.avif",
+          "sha256": "70bea5b075870fe04b5cbc0a9477a6cb828f3cb81032e12a2273bd16f5dbe1e6",
+          "size": 71511
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1450
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 1050,
+        "width": 1450
+      },
+      "source_sha256": "b2c79498774abdd4a0be4e015df22ae921ab254ff5bbb731583626cd517a4a58"
+    },
+    "621": {
+      "derivatives": [
+        {
+          "filename": "621-640.avif",
+          "sha256": "b0c9df6c95e4cec8e166d9e906bd7a081b6a8a362225ceee1781a15bf36b7824",
+          "size": 25229
+        },
+        {
+          "filename": "621-1280.avif",
+          "sha256": "0a532b73a71cd2cd758d310f2613d88635e7477cb21d6971083bece06ac9694b",
+          "size": 86568
+        },
+        {
+          "filename": "621-1920.avif",
+          "sha256": "93db2a12bda1722167308e7e876c96581ad650c11f3bce1bb77c29b8b0710f8e",
+          "size": 173649
+        },
+        {
+          "filename": "621-3840.avif",
+          "sha256": "140e4a9bff8b7071849eb11631c76c0a89ea677b0b5a062b328653897559a4e5",
+          "size": 511005
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "fc57b2cbd09ce23ff3b04f17cabc022a2d8fb3e67d1eac79d22ac0ad86326939"
+    },
+    "622": {
+      "derivatives": [
+        {
+          "filename": "622-640.avif",
+          "sha256": "359aa5917d72f0b8571d238e2f27b039283d8f40a6d920eb869e652e94b898b5",
+          "size": 29051
+        },
+        {
+          "filename": "622-1280.avif",
+          "sha256": "4e2ccb1364a4e37797ac3b424e8f878db2359ddd2e1fecbfef8d0d26ce871f8c",
+          "size": 92699
+        },
+        {
+          "filename": "622-1920.avif",
+          "sha256": "ff3a7a217330aff8e36f5d15c4b9197284cdc67eba1ea180f0a765c884a277f8",
+          "size": 171967
+        },
+        {
+          "filename": "622-3840.avif",
+          "sha256": "91bde0195f76143881e139225d7aadc7af84cfebb9ec1c89fcf6b13debbfd07d",
+          "size": 472294
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "0aec379b48bcd133def105811ba55b220a9d877c8f0e34d8bc7c8f4be95dbaee"
+    },
+    "623": {
+      "derivatives": [
+        {
+          "filename": "623-640.avif",
+          "sha256": "8050dc0a71110af56534e892b82f56b4f7c814113178184d365e2a264edd43c7",
+          "size": 24064
+        },
+        {
+          "filename": "623-1280.avif",
+          "sha256": "4127aaf89e6767d4920368f6aa3151c4570d79168bbbba3ef545f9ebe7c93f66",
+          "size": 84712
+        },
+        {
+          "filename": "623-1920.avif",
+          "sha256": "fcf8fdace295c56207e23781e4946bfae6d29c79a968b0931ceb268fc116bc7d",
+          "size": 181829
+        },
+        {
+          "filename": "623-3840.avif",
+          "sha256": "15772b8cfbd165ea66eb2ace1e5c35fc8560486c732c811757d6f0864ec9ded4",
+          "size": 544074
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "3e06ed68551c7ea42a4f722623fe850395f1b762805e15edf339cee4f2b845ac"
+    },
+    "624": {
+      "derivatives": [
+        {
+          "filename": "624-640.avif",
+          "sha256": "be5ab838381108411333d64141619666dec859b549455a46b78c74bb16720ad0",
+          "size": 15586
+        },
+        {
+          "filename": "624-1280.avif",
+          "sha256": "82ddfbeeddd9c9267710ea6c322d0e7bbc6a179fc75d7a8c555ccce9e490be77",
+          "size": 63321
+        },
+        {
+          "filename": "624-1920.avif",
+          "sha256": "e87535b2245a993e329ead978f4ff7c59df51eaee5751a3b4b6eb0261ef18a10",
+          "size": 137808
+        },
+        {
+          "filename": "624-3840.avif",
+          "sha256": "b50a1d0326ae9f63445f1b6c48ee22694736637ef448f205775a7f855f50e1b2",
+          "size": 391366
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "f8a1b22045d2fe67805afb8119143bde44abb7531a877a43a99cced01a0bf7aa"
+    },
+    "625": {
+      "derivatives": [
+        {
+          "filename": "625-640.avif",
+          "sha256": "4b5fb4f533fc65e1f8b86b99f427de2c824932ca95c73b0abbf43f3da8d41719",
+          "size": 32757
+        },
+        {
+          "filename": "625-1280.avif",
+          "sha256": "381cf18ef16772f040c92868c23518b1ec69b66bd804b70dd7dfb0274a05b893",
+          "size": 120851
+        },
+        {
+          "filename": "625-1920.avif",
+          "sha256": "b4def76b22fde1665e1426369eb05f6a8d1188bce7b0703a34a9f5ee51563d60",
+          "size": 244666
+        },
+        {
+          "filename": "625-3840.avif",
+          "sha256": "be932f68cc3087f6b670f45c0cfe8647f8a0fcc9a8176042577d7b34d8a2ce9c",
+          "size": 682321
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "6cffa26c6c833cd3c92fbe86ece522252749b9a9cf14a81fe3d73533dbf9fa00"
+    },
+    "626": {
+      "derivatives": [
+        {
+          "filename": "626-640.avif",
+          "sha256": "5d0dfe014a2d6b5ef279f67322b07449ea61e5243b51c43c3f6bfbcc459ee9ee",
+          "size": 35436
+        },
+        {
+          "filename": "626-1280.avif",
+          "sha256": "6f2a17b892281e431d9547ae1d82f96a756e088b2130f7b02acef92d160bd85e",
+          "size": 96594
+        },
+        {
+          "filename": "626-1920.avif",
+          "sha256": "2be567cc21d50e7f852babf524736a1aa5c658d7d54bc26abf867f68f34b940c",
+          "size": 169355
+        },
+        {
+          "filename": "626-3840.avif",
+          "sha256": "cada2872150e8e409aa76826ad4483043269775a5f34e163a336fea7e5fca513",
+          "size": 456372
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3000,
+        "width": 4496
+      },
+      "source_sha256": "fca6ff891ee7a53da7d5ad804bffee4f4a650876fd7ed22af78c0305889e1f1e"
+    },
+    "627": {
+      "derivatives": [
+        {
+          "filename": "627-640.avif",
+          "sha256": "da1274cfcddcf7d4eb2aaee06e9761842bc203980f52174ba859732aa34a353e",
+          "size": 23332
+        },
+        {
+          "filename": "627-1280.avif",
+          "sha256": "a75d70dc193d25df177a847c390a666a18c8987caf79be279276f2cbaabfb365",
+          "size": 88371
+        },
+        {
+          "filename": "627-1920.avif",
+          "sha256": "15e1426f1d274cd6b9dda57f88ed160cde62131a62ed80fa721fcf781fe87a90",
+          "size": 194883
+        },
+        {
+          "filename": "627-3840.avif",
+          "sha256": "1faa3a1b153c96f21a014c7187361696b6ce920754eeb33c2a7d6afa5575aef3",
+          "size": 615888
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "92d21632d9e008485b3f42fe58037e31b48c8e221c160bf3632d9ca5b3942775"
+    },
+    "628": {
+      "derivatives": [
+        {
+          "filename": "628-640.avif",
+          "sha256": "7c0dfa101ea6f4dd471f70d2b57aaa24e52841fd56e4a8b1a0679e2b1751f9fc",
+          "size": 41171
+        },
+        {
+          "filename": "628-1280.avif",
+          "sha256": "b5e0eecef1333a5bf1a4db99fbf35cc59228849b7bef52149c4f4086d1fb05a1",
+          "size": 160480
+        },
+        {
+          "filename": "628-1920.avif",
+          "sha256": "df5c290a39caccdf13926f0054f51bbe590d1418ac5b2ad6df8b8a417bd9dd79",
+          "size": 343540
+        },
+        {
+          "filename": "628-3840.avif",
+          "sha256": "5d316f32f60fa46bbf28879371d5f975c6276242e58d7b9ca62d81e683d812a7",
+          "size": 1153559
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 5584,
+        "width": 8368
+      },
+      "source_sha256": "84f3784bce4c8ca7452b18cf5b718d765722197a9a9609ffd6eb89266f605335"
+    },
+    "629": {
+      "derivatives": [
+        {
+          "filename": "629-640.avif",
+          "sha256": "0ac2b1f3a2f2bb0a74ac04920618cb47a8e6a25f01ac75cf5fcfd6de5ebe8a3e",
+          "size": 34528
+        },
+        {
+          "filename": "629-1280.avif",
+          "sha256": "2e7ecce7ab9d063665953ca35939fa25e4e0e6beebbdfc197eaf077dc3f3c6ab",
+          "size": 125784
+        },
+        {
+          "filename": "629-1920.avif",
+          "sha256": "aec5bce7bf15c23afa7939b871cc05442525cd891ef6a48823728155831e2bfd",
+          "size": 272594
+        },
+        {
+          "filename": "629-3840.avif",
+          "sha256": "90b159ec98a2f36ade057438c6e8006742e2aeda0c656072a9aed1529600101c",
+          "size": 1036959
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 5584,
+        "width": 8368
+      },
+      "source_sha256": "b98b50b037d43d85f1fe5223ca76763198fa46ab49a5370c98c685d0ff5a072a"
     },
     "63": {
       "derivatives": [
@@ -21916,6 +23575,456 @@
       },
       "source_sha256": "3dccc1e35a3106da2d6329d070e3d0e1db7840e49d2e9a9a001ee04022f97a82"
     },
+    "630": {
+      "derivatives": [
+        {
+          "filename": "630-640.avif",
+          "sha256": "e99bd3e34708d6fe2038a4811c3e2649d9101753577d070a9d0fea17d6598b0d",
+          "size": 25402
+        },
+        {
+          "filename": "630-1280.avif",
+          "sha256": "c4ea5e3816ae78e22a78e299deb15fcbf5104b54061ff21dde145a9e9b67e854",
+          "size": 84691
+        },
+        {
+          "filename": "630-1920.avif",
+          "sha256": "94911ac52dbc5daa53639f1adb802756b75e4a78ac0eb774030e37d6d245fc7d",
+          "size": 164082
+        },
+        {
+          "filename": "630-3840.avif",
+          "sha256": "57d6712d1ec2e86db67c958ddabd01241ee3e95a9a5c7821c9c7713f73a947d0",
+          "size": 498829
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2754,
+        "width": 4896
+      },
+      "source_sha256": "127dca1fc93622950b7c98f343a09ea6cc5a0ed89b6f6f2d6d6874d4fdffbc56"
+    },
+    "631": {
+      "derivatives": [
+        {
+          "filename": "631-640.avif",
+          "sha256": "b1642da53b1610f9ec6203340f6ec7ceda9a623c33fbb0d4335bfa750504be32",
+          "size": 24808
+        },
+        {
+          "filename": "631-1280.avif",
+          "sha256": "6fa06ef555fd7f61606014531bb0d9ebb4f8a9a029f6c48a36555de3fed4663c",
+          "size": 101891
+        },
+        {
+          "filename": "631-1920.avif",
+          "sha256": "600a6b9a220eb96d465042e073e42e40bf74cf633c18f8d796086dbd45ad6919",
+          "size": 238675
+        },
+        {
+          "filename": "631-3840.avif",
+          "sha256": "2e7f1eb5931e3a1fe5f6df523877f43ba1e5691822fd510706c873f5629965f3",
+          "size": 823677
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "55cababa8de2b8eb3e19f54762102216f96b622391b58a10a297ed56898c7381"
+    },
+    "632": {
+      "derivatives": [
+        {
+          "filename": "632-640.avif",
+          "sha256": "8860b79485d6071d0c8bf67c02f9646db70327cd3b88417ef7e15e7e05d37546",
+          "size": 27057
+        },
+        {
+          "filename": "632-1280.avif",
+          "sha256": "6beeaf1cd4317d7406450770ff7a07fb91f42ccf5eeb4845a99e785812124a9b",
+          "size": 101223
+        },
+        {
+          "filename": "632-1920.avif",
+          "sha256": "b1e95b39dbf5b98ef1c1199bd4e617d6f371dbe297a89b42e9c94d98065b88a5",
+          "size": 205038
+        },
+        {
+          "filename": "632-3840.avif",
+          "sha256": "9dfbbbac1773c4c57a5bff9a3ef3b7fee31575cd46ba09639f164458ec7c6b88",
+          "size": 546800
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2268,
+        "width": 4032
+      },
+      "source_sha256": "015c3f83e1e42d490c13717a37a59272ae4879b626e1fd148ac306b4c540b03b"
+    },
+    "633": {
+      "derivatives": [
+        {
+          "filename": "633-640.avif",
+          "sha256": "d29b7e9608c99a4e66de4523b0d9c04ea345885ed975e04598990cc92bb68dca",
+          "size": 21318
+        },
+        {
+          "filename": "633-1280.avif",
+          "sha256": "c4569b55c6618df259e3a4c0c22e73e9f36e3bf2ff2d33d7d5be4f76a6e0d1f5",
+          "size": 84139
+        },
+        {
+          "filename": "633-1920.avif",
+          "sha256": "ede84acc9afd47e5f04c2dafe5a84dca8bbe5fbcb3f555700023bf00e0a098bb",
+          "size": 193796
+        },
+        {
+          "filename": "633-3840.avif",
+          "sha256": "901774dea913cdc829440c4d7fa2cdbcf344b94ee29a81185eb8fd90a16e7ae7",
+          "size": 661599
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "87458d56791a41d0c74634931bcab33908648f1aa410ad540107f00cb3ff694c"
+    },
+    "634": {
+      "derivatives": [
+        {
+          "filename": "634-640.avif",
+          "sha256": "275d86c04e0b31ed39b187b49be5893872c208e7d0baa58c0ccfae33c1eea243",
+          "size": 24575
+        },
+        {
+          "filename": "634-1280.avif",
+          "sha256": "74a27fc1c2048aab90d43f7be40a882cc262fb6d969e4c69d27e93b1e9c15427",
+          "size": 90513
+        },
+        {
+          "filename": "634-1920.avif",
+          "sha256": "e253838fcce8e5785f921f35d7a57a363e8c86db229769db2a54b3e0f420ca6b",
+          "size": 191580
+        },
+        {
+          "filename": "634-3840.avif",
+          "sha256": "3eaff07dc2b2b29c61255a31881de09acc3a0e16feb4d3bb2a2c2fc8887b3551",
+          "size": 548297
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "ed0a308777f277055b3ff52022b71aca8d452b7fcbc7f37c0f17924e5c3cd146"
+    },
+    "635": {
+      "derivatives": [
+        {
+          "filename": "635-640.avif",
+          "sha256": "dd07cf668536481d712cf9c70fefa003b086cb60dcc1f5115d5ec05507b074e5",
+          "size": 28468
+        },
+        {
+          "filename": "635-1280.avif",
+          "sha256": "ba4a306d79555534e7bd22f3a80c8467c9f88f5ff713e3eb6de221dbbd8a90bd",
+          "size": 94270
+        },
+        {
+          "filename": "635-1920.avif",
+          "sha256": "7ffa7ec04c690e5fec507e5894a217f536dc1b6a08862a950fa2ad105bf19f99",
+          "size": 189377
+        },
+        {
+          "filename": "635-3840.avif",
+          "sha256": "fabdbd52ceeb0adbf880945184f7615846c7d63dfe4990de7f46ed0b00503606",
+          "size": 543876
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "fa2644f797c9890df9dec2d2680089031d24d930617bc84c5462a35c21e9ee66"
+    },
+    "636": {
+      "derivatives": [
+        {
+          "filename": "636-640.avif",
+          "sha256": "4ceaf782723d413f59d394d54ee10b406c9daa32974f788bbf9af57b871c501b",
+          "size": 23572
+        },
+        {
+          "filename": "636-1280.avif",
+          "sha256": "0107c7a457d8f11bc816620f9b826a0066e2f290ab7095cf4ba5f563c5c922aa",
+          "size": 87695
+        },
+        {
+          "filename": "636-1920.avif",
+          "sha256": "9e9c93f545a062c5633b31d4305fa6ca24d4c4f2368f0311ecea2df75ace0431",
+          "size": 185209
+        },
+        {
+          "filename": "636-3840.avif",
+          "sha256": "c6240c2721b03cb0f6e87595ecac048e39b781b63deb65c9aebbdeddf36a1095",
+          "size": 553729
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2268,
+        "width": 4032
+      },
+      "source_sha256": "e92bd299fada263583741efec03fe78f9796f14e3a0a9495277813988669cfcd"
+    },
+    "637": {
+      "derivatives": [
+        {
+          "filename": "637-640.avif",
+          "sha256": "3bcc20b96e816743fd1c722047369f0b8480f69edf0d409b3d9ace33303798bc",
+          "size": 20320
+        },
+        {
+          "filename": "637-1280.avif",
+          "sha256": "e69b62c1a6a1abd1b85c8cdc17fa5104ce6dc86ddd0e7ca960e671676e317f33",
+          "size": 75116
+        },
+        {
+          "filename": "637-1920.avif",
+          "sha256": "db42a2fcd8102abd14c99fa795c2728c656916f7e8983991f748f1d172261996",
+          "size": 169205
+        },
+        {
+          "filename": "637-3840.avif",
+          "sha256": "636c409ba670386ee901cf33729c5d7f6cc61b9d54ffad671961521febc06fa4",
+          "size": 542340
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "d077c1b3fea62841e1e5f4f2dfe810a281957dda0ff52d848ea48ff1cf0c67df"
+    },
+    "638": {
+      "derivatives": [
+        {
+          "filename": "638-640.avif",
+          "sha256": "a9e74daa1d48a54d60b0543a20254ba6ed3a1af39db26be3a74859ef387756d1",
+          "size": 32038
+        },
+        {
+          "filename": "638-1280.avif",
+          "sha256": "7ae41758e292a688771cf58ea907847927b3e99da057da872266585081125c2c",
+          "size": 129862
+        },
+        {
+          "filename": "638-1920.avif",
+          "sha256": "8439bd8e092f9aad62523d51a969cb86999acd0dadbdded0c50e6effa6dbf7d9",
+          "size": 269551
+        },
+        {
+          "filename": "638-3840.avif",
+          "sha256": "899c0187a0c326772b27a493be58380af7b345624624d9cb4d1c36f2042aef8f",
+          "size": 746257
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2268,
+        "width": 4032
+      },
+      "source_sha256": "ccdbc8b8a4885afda22b36e7e595cbe152bf4928a186b216a4fb5743145ed2f4"
+    },
+    "639": {
+      "derivatives": [
+        {
+          "filename": "639-640.avif",
+          "sha256": "6adc031863ad638546dbb092c9db472685c28a08d5aacc0af97b25324d32762e",
+          "size": 21673
+        },
+        {
+          "filename": "639-1280.avif",
+          "sha256": "8f824e9c0b1ee1bbdc4ed5b3d60cfad02bdb51b450d9613dd10b7bf76e2b43ad",
+          "size": 85697
+        },
+        {
+          "filename": "639-1920.avif",
+          "sha256": "11ed9bd7baf8926550a01427a8b655431cb7e790c156a5eb5ce87aa6b859924d",
+          "size": 198369
+        },
+        {
+          "filename": "639-3840.avif",
+          "sha256": "ab36c72080cd0ffd6a9153e399b85cf596fd31f9aa7460f015c42ace6b9b9003",
+          "size": 662294
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "42e44d15eb6f7aac5392bc9a5e7b1f727abec9879f5c3ab949752f126b76bc65"
+    },
     "64": {
       "derivatives": [
         {
@@ -21960,6 +24069,411 @@
         "width": 4032
       },
       "source_sha256": "13f78f2761a906bc0291ed56cc8ce8da693a5b774858e20541b12d5a017a32ad"
+    },
+    "640": {
+      "derivatives": [
+        {
+          "filename": "640-640.avif",
+          "sha256": "e6b7063fef25b38babaff0d815e2d73f567b32740745f5c581d8234cadd850ce",
+          "size": 29240
+        },
+        {
+          "filename": "640-1280.avif",
+          "sha256": "003181930556c02fc393e86ebec324a21ae9b8b7be1e00f6d7bf8d374b8b197d",
+          "size": 115656
+        },
+        {
+          "filename": "640-1920.avif",
+          "sha256": "d05eb3056fc7bad17797d4c9f857471d308ff9f45b5d427bb722ec33a51aed81",
+          "size": 263990
+        },
+        {
+          "filename": "640-3840.avif",
+          "sha256": "699eff3dfeec06a715b33b5a8c8407104615d052a1d2e0670363ef43165269cb",
+          "size": 848048
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "8eb7ef2cf38c675df0470ac6636eca1d9e8de4b53eadd4401681b2ee2e66238b"
+    },
+    "641": {
+      "derivatives": [
+        {
+          "filename": "641-640.avif",
+          "sha256": "f5aa74b99cd853a1f8ae5a9787cb5cf7f2b60ddfdbc66de812512e92e8c863c2",
+          "size": 33544
+        },
+        {
+          "filename": "641-1280.avif",
+          "sha256": "aaa2b4134847c0f237868761a11aaac2c3f25d0e0857cfccd322f8c3df9101e4",
+          "size": 128513
+        },
+        {
+          "filename": "641-1920.avif",
+          "sha256": "1f843300c91e00f8c3d0b3a7d8bc625fe502e8c96115341515b65b2c13225345",
+          "size": 265943
+        },
+        {
+          "filename": "641-3840.avif",
+          "sha256": "8c23fa2f1709a3a746dee52003bdc220f4223a1146eb6243b0206a7019d3b99d",
+          "size": 732569
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "9f3331b4c3ab3190fafe43991847b1a00f70f75025e0651f9e4e40273a0f1e6e"
+    },
+    "642": {
+      "derivatives": [
+        {
+          "filename": "642-640.avif",
+          "sha256": "a839b91a6d2cb380cb2eefbfbab5b4d26105e453c957eee69d81cfb5b2c594f1",
+          "size": 28296
+        },
+        {
+          "filename": "642-1280.avif",
+          "sha256": "3896b1c2c4e246d326912a34c4a88a36d77103429e67437d8506f6086b15f8db",
+          "size": 125404
+        },
+        {
+          "filename": "642-1920.avif",
+          "sha256": "852fd61fd3862afd9315686f0f7821a6f8fb9d1b98918346158c72dffc690b8a",
+          "size": 305001
+        },
+        {
+          "filename": "642-3840.avif",
+          "sha256": "b479c1205d0a4204dd7c051689f78445cb9ac323d857b428dc41d45c4220da43",
+          "size": 1073923
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "c45e9a4f39ad45792220a055b0843373e9d6996d3e509798538355fd80b629ef"
+    },
+    "644": {
+      "derivatives": [
+        {
+          "filename": "644-640.avif",
+          "sha256": "e6ec3691a8ac25d91a7eeefed3302c94613b641c0d5af37f453d3e9cc9a77bbe",
+          "size": 21961
+        },
+        {
+          "filename": "644-1280.avif",
+          "sha256": "4f3c6d12a09463a39e7861c79ed4918b6d9b134145994c64b13097e84dca9a27",
+          "size": 93296
+        },
+        {
+          "filename": "644-1920.avif",
+          "sha256": "b4482030f5cee9438ecd335559ce93706f26bce54037d7e15b70b15688411c23",
+          "size": 222050
+        },
+        {
+          "filename": "644-3840.avif",
+          "sha256": "73e64011b16765509d14e3b9f0ed9b126f56ec834c57ba8019688399a0775848",
+          "size": 781323
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "b5b92ef32138210e86614db48c4b8c4ff46535ef9f3ae9986f06786cdc7a52c6"
+    },
+    "645": {
+      "derivatives": [
+        {
+          "filename": "645-640.avif",
+          "sha256": "30982bb5836600b3b86cb9ff48d22e20adb5cb524e23a134cbc75f6389105be0",
+          "size": 28318
+        },
+        {
+          "filename": "645-1280.avif",
+          "sha256": "3de6ee4250170541ba68d5f6d27d46c177b524d8d26d9e1541626bff52c47e7a",
+          "size": 116507
+        },
+        {
+          "filename": "645-1920.avif",
+          "sha256": "788edad816ee510f1195601b1aa91877826df0fac427a49b8ecbf0f0e4f77304",
+          "size": 267413
+        },
+        {
+          "filename": "645-3840.avif",
+          "sha256": "c396487458e802c68fe29ad69d90782bee4d19b3b4e0074f7eeb535bcca1939f",
+          "size": 859914
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "62a431ecd29e0ebd259fefdad282004b9c739ca8cfcf2b3f6d450f044974561c"
+    },
+    "646": {
+      "derivatives": [
+        {
+          "filename": "646-640.avif",
+          "sha256": "f112cdd28b31f5ebabe2e8c3e00a7ba7dac89544f42902ce8b0bd809287400f9",
+          "size": 21117
+        },
+        {
+          "filename": "646-1280.avif",
+          "sha256": "f3f0cd699275161e2dff64e14fe964bfe8dc9cc0fa6c73dc1eaeab4ac483794b",
+          "size": 65078
+        },
+        {
+          "filename": "646-1920.avif",
+          "sha256": "9e5605de3d4a9d218af23fda91d42e3d29bd81f4fc2726a06ed1df605ce3a852",
+          "size": 119428
+        },
+        {
+          "filename": "646-3840.avif",
+          "sha256": "b2a753df1287881085f16121ac08920a95c71a3973cffcdf8f94b813614321cb",
+          "size": 325114
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "edeee5a419766b1ec3ee7e9ae743224ce756be0d828bdda3c5b376f9d778d388"
+    },
+    "647": {
+      "derivatives": [
+        {
+          "filename": "647-640.avif",
+          "sha256": "794f888ff84f56c5b5779b5f6203965ae827f6dd03dc98d6bd62bc261ef5c129",
+          "size": 35150
+        },
+        {
+          "filename": "647-1280.avif",
+          "sha256": "5a608a478f58ff9445f857aee9411c6b0b2c1d92e1a2bbf8c5bcd9b50af4266d",
+          "size": 133195
+        },
+        {
+          "filename": "647-1920.avif",
+          "sha256": "28ca83264800c438465ea8284a05eae6e40e5fc0a46345c279fd7cc51840eff2",
+          "size": 283535
+        },
+        {
+          "filename": "647-3840.avif",
+          "sha256": "05bf3def99e836d165e559a9089f3b76f984efd8b1ecf8eb091fed731c9a2bd3",
+          "size": 785911
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "a548f65f5708f6e27374dbb3767ee9703501caa6dc1a0fff0a65ea6213666866"
+    },
+    "648": {
+      "derivatives": [
+        {
+          "filename": "648-640.avif",
+          "sha256": "d042cb7e016eb4617b94b89555e1dded22e4cfc37cc965e0484889afdb51a3e0",
+          "size": 24259
+        },
+        {
+          "filename": "648-1280.avif",
+          "sha256": "11f93845b0aab40ee77f27b26e964190a9c8df144f9b75690cf5477e7d2d27cd",
+          "size": 73134
+        },
+        {
+          "filename": "648-1920.avif",
+          "sha256": "ed23691a064887b05647f5ffb0a8db180fadb5c7072adaa78403fe93b52e4aeb",
+          "size": 138896
+        },
+        {
+          "filename": "648-3840.avif",
+          "sha256": "79c49c288448eb0785598980149d40381f29171b9ea2c08a4ecf469f937a2100",
+          "size": 486339
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 2754,
+        "width": 4896
+      },
+      "source_sha256": "c491e5b3692d77e8d3b8095c76449a9afca6ff656b59902d012e6416ec2fbce4"
+    },
+    "649": {
+      "derivatives": [
+        {
+          "filename": "649-640.avif",
+          "sha256": "a248e4823139f8b436dace9798ef6865e1af9eb3508da61bc0e29b6f249cf4fd",
+          "size": 29752
+        },
+        {
+          "filename": "649-1280.avif",
+          "sha256": "afce2d77295b3235fe8efafcab2e44286984e66e891d8c8920571a5d3684720b",
+          "size": 101311
+        },
+        {
+          "filename": "649-1920.avif",
+          "sha256": "0580670161266f2c0e75adcb0efd14940bd897b00fe2e24b1921ad7957d9e0b6",
+          "size": 201580
+        },
+        {
+          "filename": "649-3840.avif",
+          "sha256": "bca99b1d50800de6acd701f2b6dea05be54675168daa142c4d586239c0fc4e97",
+          "size": 577049
+        }
+      ],
+      "expected_widths": [
+        640,
+        1280,
+        1920,
+        3840
+      ],
+      "recipe": {
+        "command": "vips thumbnail",
+        "options": [
+          "strip",
+          "Q=50",
+          "height=width",
+          "size=down"
+        ],
+        "version": 1
+      },
+      "source_dimensions": {
+        "height": 3213,
+        "width": 5712
+      },
+      "source_sha256": "48597f7eff0d0e645287ffda120dced78234f7fc444b9e0dabf0432ef2ae55b1"
     },
     "65": {
       "derivatives": [
