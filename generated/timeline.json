@@ -29,6 +29,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Beto carreiro",
+      "photograph_count": 1,
       "route": [
         {
           "id": 1,
@@ -78,6 +79,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Trip to Lapa",
+      "photograph_count": 1,
       "route": [
         {
           "id": 68,
@@ -115,6 +117,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Campinas with the cousins",
+      "photograph_count": 1,
       "route": [
         {
           "id": 52,
@@ -176,6 +179,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Betaras Beach",
+      "photograph_count": 0,
       "route": [
         {
           "id": 2,
@@ -219,6 +223,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Gaivotas Beach",
+      "photograph_count": 0,
       "route": [
         {
           "id": 5,
@@ -267,6 +272,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Guaratuba",
+      "photograph_count": 0,
       "route": [
         {
           "id": 7,
@@ -316,6 +322,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Carnival at Canasvieiras beach",
+      "photograph_count": 0,
       "route": [
         {
           "id": 8,
@@ -365,6 +372,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Carnival at Ingleses beach",
+      "photograph_count": 0,
       "route": [
         {
           "id": 8,
@@ -402,6 +410,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Visit Gregory Floripa",
+      "photograph_count": 0,
       "route": [
         {
           "id": 8,
@@ -445,6 +454,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Foz do Iguaçu",
+      "photograph_count": 1,
       "route": [
         {
           "id": 11,
@@ -454,9 +464,9 @@
         },
         {
           "id": 10,
-          "name": "Asunción",
-          "slug": "10-asuncion",
-          "url": "places/10-asuncion/"
+          "name": "Ciudad del Este",
+          "slug": "10-ciudad-del-este",
+          "url": "places/10-ciudad-del-este/"
         }
       ],
       "slug": "8-foz-do-iguacu",
@@ -530,6 +540,7 @@
       "month": 1,
       "month_name": "January",
       "name": "First cruise trip",
+      "photograph_count": 2,
       "route": [
         {
           "id": 15,
@@ -597,6 +608,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Beach Carnival in Northeastern Brazil",
+      "photograph_count": 2,
       "route": [
         {
           "id": 18,
@@ -646,6 +658,7 @@
       "month": 8,
       "month_name": "August",
       "name": "PUCPR Volunteering",
+      "photograph_count": 0,
       "route": [
         {
           "id": 71,
@@ -707,6 +720,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Princess Cruises",
+      "photograph_count": 11,
       "route": [
         {
           "id": 14,
@@ -792,6 +806,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Trip Boxmob",
+      "photograph_count": 1,
       "route": [
         {
           "id": 25,
@@ -829,6 +844,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Visit grandfather",
+      "photograph_count": 1,
       "route": [
         {
           "id": 9,
@@ -859,6 +875,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Trip in preparation for my move to Campinas",
+      "photograph_count": 0,
       "route": [
         {
           "id": 52,
@@ -914,6 +931,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Europe trip with G.S",
+      "photograph_count": 20,
       "route": [
         {
           "id": 28,
@@ -1101,6 +1119,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Barco do principe",
+      "photograph_count": 0,
       "route": [
         {
           "id": 50,
@@ -1137,6 +1156,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Move to campinas",
+      "photograph_count": 1,
       "route": [
         {
           "id": 52,
@@ -1167,6 +1187,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Trip graduation Curitiba",
+      "photograph_count": 1,
       "route": [
         {
           "id": 53,
@@ -1210,6 +1231,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Trip Hackathon Facebook",
+      "photograph_count": 1,
       "route": [
         {
           "id": 54,
@@ -1247,6 +1269,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Marilia & Nikolas visa trip",
+      "photograph_count": 0,
       "route": [
         {
           "id": 54,
@@ -1302,6 +1325,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Visit Marilia Escócia",
+      "photograph_count": 9,
       "route": [
         {
           "id": 63,
@@ -1405,6 +1429,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Wet & Wild",
+      "photograph_count": 1,
       "route": [
         {
           "id": 168,
@@ -1448,6 +1473,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Curitiba and Beto Carreiro",
+      "photograph_count": 1,
       "route": [
         {
           "id": 53,
@@ -1497,6 +1523,7 @@
       "month": 12,
       "month_name": "December",
       "name": "First scuba diving trip!",
+      "photograph_count": 1,
       "route": [
         {
           "id": 66,
@@ -1534,6 +1561,7 @@
       "month": 3,
       "month_name": "March",
       "name": "First visit S. J. Do Triunfo",
+      "photograph_count": 4,
       "route": [
         {
           "id": 67,
@@ -1564,6 +1592,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Interview Google",
+      "photograph_count": 0,
       "route": [
         {
           "id": 54,
@@ -1601,6 +1630,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Sao joao do triunfo",
+      "photograph_count": 0,
       "route": [
         {
           "id": 67,
@@ -1650,6 +1680,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Visit Lapa",
+      "photograph_count": 1,
       "route": [
         {
           "id": 68,
@@ -1680,6 +1711,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Wedding Mattioli",
+      "photograph_count": 0,
       "route": [
         {
           "id": 70,
@@ -1716,6 +1748,7 @@
       "month": 7,
       "month_name": "July",
       "name": "New york - Work&Co",
+      "photograph_count": 7,
       "route": [
         {
           "id": 75,
@@ -1777,6 +1810,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Chiago trip",
+      "photograph_count": 3,
       "route": [
         {
           "id": 76,
@@ -1807,6 +1841,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Work trip to Rio",
+      "photograph_count": 0,
       "route": [
         {
           "id": 14,
@@ -1844,6 +1879,7 @@
       "month": 12,
       "month_name": "December",
       "name": "NL Visa in Sao Paulo",
+      "photograph_count": 0,
       "route": [
         {
           "id": 54,
@@ -1874,6 +1910,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Witmarsum City",
+      "photograph_count": 1,
       "route": [
         {
           "id": 77,
@@ -1917,6 +1954,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Move to Amsterdam",
+      "photograph_count": 0,
       "route": [
         {
           "id": 78,
@@ -1947,6 +1985,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Work trip for Virgin America",
+      "photograph_count": 1,
       "route": [
         {
           "id": 75,
@@ -1990,6 +2029,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Bring If to Amsterdam",
+      "photograph_count": 1,
       "route": [
         {
           "id": 53,
@@ -2033,6 +2073,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Trip to Zaanse Schaans",
+      "photograph_count": 1,
       "route": [
         {
           "id": 80,
@@ -2082,6 +2123,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Trip to Paris",
+      "photograph_count": 1,
       "route": [
         {
           "id": 38,
@@ -2119,6 +2161,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Birthday party in London",
+      "photograph_count": 0,
       "route": [
         {
           "id": 60,
@@ -2156,6 +2199,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Trip to Keukenhof",
+      "photograph_count": 1,
       "route": [
         {
           "id": 82,
@@ -2199,6 +2243,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Trip to Scheveninge",
+      "photograph_count": 0,
       "route": [
         {
           "id": 84,
@@ -2236,6 +2281,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Trip to Brugges",
+      "photograph_count": 2,
       "route": [
         {
           "id": 85,
@@ -2279,6 +2325,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Trip to Giethoorn",
+      "photograph_count": 1,
       "route": [
         {
           "id": 86,
@@ -2316,6 +2363,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Trip to Zaanse Schaans",
+      "photograph_count": 0,
       "route": [
         {
           "id": 80,
@@ -2359,6 +2407,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Trip to Paris",
+      "photograph_count": 0,
       "route": [
         {
           "id": 38,
@@ -2402,6 +2451,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Trip to Valencia and Madrid",
+      "photograph_count": 2,
       "route": [
         {
           "id": 87,
@@ -2438,6 +2488,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Work trip to Serbia",
+      "photograph_count": 3,
       "route": [
         {
           "id": 89,
@@ -2475,6 +2526,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Birthday trip to Mallorca",
+      "photograph_count": 3,
       "route": [
         {
           "id": 90,
@@ -2505,6 +2557,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Trip to New York",
+      "photograph_count": 1,
       "route": [
         {
           "id": 75,
@@ -2542,6 +2595,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Het Loo & Tennis match",
+      "photograph_count": 1,
       "route": [
         {
           "id": 91,
@@ -2572,6 +2626,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Trip to Curitiba",
+      "photograph_count": 3,
       "route": [
         {
           "id": 53,
@@ -2602,6 +2657,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Trip to New York",
+      "photograph_count": 0,
       "route": [
         {
           "id": 75,
@@ -2639,6 +2695,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Trip to Milan",
+      "photograph_count": 0,
       "route": [
         {
           "id": 92,
@@ -2676,6 +2733,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Trip to Porto",
+      "photograph_count": 1,
       "route": [
         {
           "id": 93,
@@ -2725,6 +2783,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Trip to Groningen",
+      "photograph_count": 1,
       "route": [
         {
           "id": 94,
@@ -2762,6 +2821,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Party in London",
+      "photograph_count": 0,
       "route": [
         {
           "id": 60,
@@ -2799,6 +2859,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Trip to Muiden",
+      "photograph_count": 0,
       "route": [
         {
           "id": 95,
@@ -2842,6 +2903,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Trip to Keukenhof",
+      "photograph_count": 0,
       "route": [
         {
           "id": 82,
@@ -2878,6 +2940,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Work trip to New York",
+      "photograph_count": 0,
       "route": [
         {
           "id": 75,
@@ -2908,6 +2971,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Trip to Marken",
+      "photograph_count": 0,
       "route": [
         {
           "id": 96,
@@ -2969,6 +3033,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Trip to Het Loo",
+      "photograph_count": 0,
       "route": [
         {
           "id": 91,
@@ -3024,6 +3089,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Trip to Giethoorn",
+      "photograph_count": 1,
       "route": [
         {
           "id": 86,
@@ -3091,6 +3157,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Bike trip from Amsterdam to Muiden!",
+      "photograph_count": 1,
       "route": [
         {
           "id": 95,
@@ -3128,6 +3195,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Trip to Groeningen",
+      "photograph_count": 1,
       "route": [
         {
           "id": 94,
@@ -3165,6 +3233,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Trip to Alphen and Rijn",
+      "photograph_count": 0,
       "route": [
         {
           "id": 98,
@@ -3220,6 +3289,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Trip to Germany",
+      "photograph_count": 3,
       "route": [
         {
           "id": 95,
@@ -3317,6 +3387,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Muiden with Thiago and girlfriend",
+      "photograph_count": 0,
       "route": [
         {
           "id": 95,
@@ -3360,6 +3431,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Paris with Halanna",
+      "photograph_count": 0,
       "route": [
         {
           "id": 38,
@@ -3397,6 +3469,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Trip to eat a fish that was not fried!",
+      "photograph_count": 0,
       "route": [
         {
           "id": 84,
@@ -3434,6 +3507,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Zaanse Schans w/ Halanna",
+      "photograph_count": 0,
       "route": [
         {
           "id": 80,
@@ -3477,6 +3551,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Trip to Berlin",
+      "photograph_count": 1,
       "route": [
         {
           "id": 103,
@@ -3514,6 +3589,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Trip to Athens",
+      "photograph_count": 3,
       "route": [
         {
           "id": 104,
@@ -3551,6 +3627,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Work trip to NY",
+      "photograph_count": 2,
       "route": [
         {
           "id": 75,
@@ -3594,6 +3671,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Trip to Cinque Terre",
+      "photograph_count": 7,
       "route": [
         {
           "id": 39,
@@ -3697,6 +3775,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Trip to London",
+      "photograph_count": 1,
       "route": [
         {
           "id": 60,
@@ -3740,6 +3819,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Trip to Portland",
+      "photograph_count": 2,
       "route": [
         {
           "id": 112,
@@ -3783,6 +3863,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Visiting Haarlem city center",
+      "photograph_count": 1,
       "route": [
         {
           "id": 113,
@@ -3820,6 +3901,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Trip to Ibiza and Barcelona",
+      "photograph_count": 4,
       "route": [
         {
           "id": 114,
@@ -3863,6 +3945,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Day trip to Delft",
+      "photograph_count": 0,
       "route": [
         {
           "id": 116,
@@ -3936,6 +4019,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Trip to United States & Caribean",
+      "photograph_count": 7,
       "route": [
         {
           "id": 119,
@@ -4009,6 +4093,7 @@
       "month": 11,
       "month_name": "November",
       "name": "De Haar Castle",
+      "photograph_count": 0,
       "route": [
         {
           "id": 124,
@@ -4046,6 +4131,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Lily Allen concert",
+      "photograph_count": 1,
       "route": [
         {
           "id": 124,
@@ -4083,6 +4169,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Oslo city tour",
+      "photograph_count": 0,
       "route": [
         {
           "id": 125,
@@ -4113,6 +4200,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Work trip to Belgrade",
+      "photograph_count": 0,
       "route": [
         {
           "id": 89,
@@ -4150,6 +4238,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Part in Texel",
+      "photograph_count": 1,
       "route": [
         {
           "id": 126,
@@ -4180,6 +4269,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Work trip to Portland",
+      "photograph_count": 1,
       "route": [
         {
           "id": 112,
@@ -4217,6 +4307,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Bike ride to Muidenberg",
+      "photograph_count": 0,
       "route": [
         {
           "id": 127,
@@ -4266,6 +4357,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Trip to Bruges and Paris",
+      "photograph_count": 4,
       "route": [
         {
           "id": 85,
@@ -4333,6 +4425,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Family to Giethoorn",
+      "photograph_count": 0,
       "route": [
         {
           "id": 86,
@@ -4388,6 +4481,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Full car to keukenhof!",
+      "photograph_count": 2,
       "route": [
         {
           "id": 83,
@@ -4437,6 +4531,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Trip to Muiden + Volendam",
+      "photograph_count": 0,
       "route": [
         {
           "id": 95,
@@ -4473,6 +4568,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Work trip to the Portland Office",
+      "photograph_count": 0,
       "route": [
         {
           "id": 112,
@@ -4510,6 +4606,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Road trip in the land of ice and fire",
+      "photograph_count": 10,
       "route": [
         {
           "id": 129,
@@ -4553,6 +4650,7 @@
       "month": 7,
       "month_name": "July",
       "name": "White Lies Concert",
+      "photograph_count": 0,
       "route": [
         {
           "id": 124,
@@ -4596,6 +4694,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Clojure conference in Belgium",
+      "photograph_count": 1,
       "route": [
         {
           "id": 131,
@@ -4633,6 +4732,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Buckingham palace",
+      "photograph_count": 1,
       "route": [
         {
           "id": 60,
@@ -4670,6 +4770,7 @@
       "month": 8,
       "month_name": "August",
       "name": "House warming VC and AC!",
+      "photograph_count": 0,
       "route": [
         {
           "id": 132,
@@ -4707,6 +4808,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Bike ride",
+      "photograph_count": 0,
       "route": [
         {
           "id": 133,
@@ -4744,6 +4846,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Trip to Utrecht",
+      "photograph_count": 0,
       "route": [
         {
           "id": 124,
@@ -4781,6 +4884,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Bike ride to Muiden",
+      "photograph_count": 0,
       "route": [
         {
           "id": 95,
@@ -4818,6 +4922,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Dam Tot Dam 2019",
+      "photograph_count": 1,
       "route": [
         {
           "id": 78,
@@ -4867,6 +4972,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Work trip to new york",
+      "photograph_count": 1,
       "route": [
         {
           "id": 75,
@@ -4910,6 +5016,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Trip to Rome and Amalfi",
+      "photograph_count": 12,
       "route": [
         {
           "id": 136,
@@ -5019,6 +5126,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Friends visit",
+      "photograph_count": 0,
       "route": [
         {
           "id": 132,
@@ -5056,6 +5164,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Party in Sassenhein",
+      "photograph_count": 0,
       "route": [
         {
           "id": 132,
@@ -5093,6 +5202,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Race in The Hague",
+      "photograph_count": 1,
       "route": [
         {
           "id": 145,
@@ -5136,6 +5246,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Birthday party in Sassenhein",
+      "photograph_count": 0,
       "route": [
         {
           "id": 132,
@@ -5179,6 +5290,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Trip to Northen France",
+      "photograph_count": 2,
       "route": [
         {
           "id": 147,
@@ -5228,6 +5340,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Trip to Zandvoort",
+      "photograph_count": 1,
       "route": [
         {
           "id": 149,
@@ -5265,6 +5378,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Naarden, the star castle",
+      "photograph_count": 0,
       "route": [
         {
           "id": 134,
@@ -5308,6 +5422,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Giethoorn with visiting friends",
+      "photograph_count": 0,
       "route": [
         {
           "id": 86,
@@ -5345,6 +5460,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Trip to Zandvoort",
+      "photograph_count": 1,
       "route": [
         {
           "id": 149,
@@ -5382,6 +5498,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Visiting Weesp",
+      "photograph_count": 0,
       "route": [
         {
           "id": 151,
@@ -5419,6 +5536,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Trip to Zaanse Schaans",
+      "photograph_count": 1,
       "route": [
         {
           "id": 80,
@@ -5456,6 +5574,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Trip to Voorthuizen",
+      "photograph_count": 1,
       "route": [
         {
           "id": 152,
@@ -5493,6 +5612,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Trip to Bloemendaal",
+      "photograph_count": 1,
       "route": [
         {
           "id": 153,
@@ -5536,6 +5656,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Trip to Clothes Outlet in Lelystad",
+      "photograph_count": 0,
       "route": [
         {
           "id": 154,
@@ -5573,6 +5694,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Dunes w/ fox + Beach",
+      "photograph_count": 1,
       "route": [
         {
           "id": 153,
@@ -5616,6 +5738,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Discovering Baarn",
+      "photograph_count": 0,
       "route": [
         {
           "id": 220,
@@ -5653,6 +5776,7 @@
       "month": 5,
       "month_name": "May",
       "name": "More dunes!",
+      "photograph_count": 1,
       "route": [
         {
           "id": 153,
@@ -5696,6 +5820,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Sunset during pandemic",
+      "photograph_count": 1,
       "route": [
         {
           "id": 153,
@@ -5733,6 +5858,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Swimming in Zuid Kennermeland",
+      "photograph_count": 0,
       "route": [
         {
           "id": 153,
@@ -5776,6 +5902,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Swimming at the green lake ",
+      "photograph_count": 0,
       "route": [
         {
           "id": 169,
@@ -5813,6 +5940,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Trip to Bloemendaal",
+      "photograph_count": 0,
       "route": [
         {
           "id": 153,
@@ -5850,6 +5978,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Trip to South of France",
+      "photograph_count": 15,
       "route": [
         {
           "id": 47,
@@ -5953,6 +6082,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Trip to Brazil",
+      "photograph_count": 4,
       "route": [
         {
           "id": 53,
@@ -6020,6 +6150,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Trip to Veluwe",
+      "photograph_count": 1,
       "route": [
         {
           "id": 166,
@@ -6063,6 +6194,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Dune + Matrix",
+      "photograph_count": 0,
       "route": [
         {
           "id": 221,
@@ -6106,6 +6238,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Trip to Bloemendaal",
+      "photograph_count": 0,
       "route": [
         {
           "id": 153,
@@ -6155,6 +6288,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Trip to Keukenhof",
+      "photograph_count": 1,
       "route": [
         {
           "id": 83,
@@ -6204,6 +6338,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Tulip hunting",
+      "photograph_count": 2,
       "route": [
         {
           "id": 167,
@@ -6241,6 +6376,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Sun, sea, and stars",
+      "photograph_count": 10,
       "route": [
         {
           "id": 170,
@@ -6290,6 +6426,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Visiting Amersfoort",
+      "photograph_count": 1,
       "route": [
         {
           "id": 171,
@@ -6327,6 +6464,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Red Hot Chili Pepper Nijmegen",
+      "photograph_count": 1,
       "route": [
         {
           "id": 172,
@@ -6370,6 +6508,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Beautiful Scotland",
+      "photograph_count": 28,
       "route": [
         {
           "id": 60,
@@ -6485,6 +6624,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Noordwijk aan zee",
+      "photograph_count": 1,
       "route": [
         {
           "id": 183,
@@ -6540,6 +6680,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Agnolottini",
+      "photograph_count": 1,
       "route": [
         {
           "id": 132,
@@ -6577,6 +6718,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Helicopter ride",
+      "photograph_count": 4,
       "route": [
         {
           "id": 184,
@@ -6620,6 +6762,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Dam tot dam 2022",
+      "photograph_count": 2,
       "route": [
         {
           "id": 185,
@@ -6669,6 +6812,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Spiel des jahres",
+      "photograph_count": 2,
       "route": [
         {
           "id": 186,
@@ -6699,6 +6843,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Family visit in Brazil",
+      "photograph_count": 9,
       "route": [
         {
           "id": 14,
@@ -6748,6 +6893,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Kasteel de Haar",
+      "photograph_count": 1,
       "route": [
         {
           "id": 188,
@@ -6797,6 +6943,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Xmas Market in Haar Castle",
+      "photograph_count": 0,
       "route": [
         {
           "id": 188,
@@ -6827,6 +6974,7 @@
       "month": 12,
       "month_name": "December",
       "name": "De Bilt US consulate",
+      "photograph_count": 0,
       "route": [
         {
           "id": 189,
@@ -6864,6 +7012,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Heemskerk ski lessons",
+      "photograph_count": 1,
       "route": [
         {
           "id": 190,
@@ -6901,6 +7050,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Heemskerk lesson",
+      "photograph_count": 0,
       "route": [
         {
           "id": 190,
@@ -6938,6 +7088,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Northen lights from Fjordgarden",
+      "photograph_count": 6,
       "route": [
         {
           "id": 125,
@@ -6987,6 +7138,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Snowworld",
+      "photograph_count": 0,
       "route": [
         {
           "id": 193,
@@ -7024,6 +7176,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Heemskerk lesson",
+      "photograph_count": 0,
       "route": [
         {
           "id": 190,
@@ -7079,6 +7232,7 @@
       "month": 2,
       "month_name": "February",
       "name": "First ski trip!",
+      "photograph_count": 5,
       "route": [
         {
           "id": 92,
@@ -7128,6 +7282,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Day trip in Marken",
+      "photograph_count": 0,
       "route": [
         {
           "id": 96,
@@ -7165,6 +7320,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Lake Como",
+      "photograph_count": 8,
       "route": [
         {
           "id": 196,
@@ -7238,6 +7394,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Trip to Almere",
+      "photograph_count": 0,
       "route": [
         {
           "id": 203,
@@ -7275,6 +7432,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Lelystad, again!",
+      "photograph_count": 0,
       "route": [
         {
           "id": 154,
@@ -7312,6 +7470,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Start yachting weekend",
+      "photograph_count": 2,
       "route": [
         {
           "id": 204,
@@ -7355,6 +7514,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Work @ Copenhagen",
+      "photograph_count": 2,
       "route": [
         {
           "id": 206,
@@ -7410,6 +7570,7 @@
       "month": 5,
       "month_name": "May",
       "name": "BBQ with friends",
+      "photograph_count": 0,
       "route": [
         {
           "id": 203,
@@ -7447,6 +7608,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Freediving trip",
+      "photograph_count": 7,
       "route": [
         {
           "id": 210,
@@ -7490,6 +7652,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Sailing lesson",
+      "photograph_count": 1,
       "route": [
         {
           "id": 204,
@@ -7527,6 +7690,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Sailing lesson",
+      "photograph_count": 1,
       "route": [
         {
           "id": 204,
@@ -7576,6 +7740,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Day at dutch beach",
+      "photograph_count": 0,
       "route": [
         {
           "id": 203,
@@ -7613,6 +7778,7 @@
       "month": 9,
       "month_name": "September",
       "name": "8-mile race",
+      "photograph_count": 0,
       "route": [
         {
           "id": 81,
@@ -7650,6 +7816,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Valk to Pampus",
+      "photograph_count": 1,
       "route": [
         {
           "id": 212,
@@ -7705,6 +7872,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Spiel de Jahres 2023",
+      "photograph_count": 5,
       "route": [
         {
           "id": 186,
@@ -7754,6 +7922,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Trip do De Haar Castle",
+      "photograph_count": 2,
       "route": [
         {
           "id": 188,
@@ -7791,6 +7960,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Visting friends in Amstelveen",
+      "photograph_count": 0,
       "route": [
         {
           "id": 224,
@@ -7840,6 +8010,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Den Hague + Escher museum",
+      "photograph_count": 1,
       "route": [
         {
           "id": 145,
@@ -7883,6 +8054,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Portugal with family",
+      "photograph_count": 17,
       "route": [
         {
           "id": 232,
@@ -7986,6 +8158,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Xmas Market in Cologne",
+      "photograph_count": 1,
       "route": [
         {
           "id": 100,
@@ -8016,6 +8189,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Xmas in Sassenheim",
+      "photograph_count": 0,
       "route": [
         {
           "id": 132,
@@ -8071,6 +8245,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Ski Slovenia",
+      "photograph_count": 5,
       "route": [
         {
           "id": 233,
@@ -8120,6 +8295,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Czech Republic",
+      "photograph_count": 4,
       "route": [
         {
           "id": 236,
@@ -8163,6 +8339,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Zaanse Schans with Pamela",
+      "photograph_count": 1,
       "route": [
         {
           "id": 80,
@@ -8200,6 +8377,7 @@
       "month": 3,
       "month_name": "March",
       "name": "Morroco",
+      "photograph_count": 32,
       "route": [
         {
           "id": 237,
@@ -8260,6 +8438,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Work trip to Copenhagen",
+      "photograph_count": 0,
       "route": [
         {
           "id": 206,
@@ -8297,6 +8476,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Work trip to the big apple",
+      "photograph_count": 2,
       "route": [
         {
           "id": 75,
@@ -8340,6 +8520,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Hoofdorp dinner",
+      "photograph_count": 0,
       "route": [
         {
           "id": 243,
@@ -8377,6 +8558,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Sailing Lesson",
+      "photograph_count": 1,
       "route": [
         {
           "id": 204,
@@ -8432,6 +8614,7 @@
       "month": 6,
       "month_name": "June",
       "name": "BD party in Noordwijk",
+      "photograph_count": 0,
       "route": [
         {
           "id": 183,
@@ -8469,6 +8652,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Veluwe's weekend",
+      "photograph_count": 1,
       "route": [
         {
           "id": 166,
@@ -8506,6 +8690,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Sailing lesson",
+      "photograph_count": 1,
       "route": [
         {
           "id": 204,
@@ -8549,6 +8734,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Volendam & Marken with Friends",
+      "photograph_count": 0,
       "route": [
         {
           "id": 97,
@@ -8592,6 +8778,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Sailing lesson",
+      "photograph_count": 1,
       "route": [
         {
           "id": 204,
@@ -8629,6 +8816,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Boardgame in Almere",
+      "photograph_count": 0,
       "route": [
         {
           "id": 203,
@@ -8659,6 +8847,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Friend visit in Porto",
+      "photograph_count": 2,
       "route": [
         {
           "id": 93,
@@ -8702,6 +8891,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Van camping in France",
+      "photograph_count": 22,
       "route": [
         {
           "id": 245,
@@ -8793,6 +8983,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Spetacular India",
+      "photograph_count": 24,
       "route": [
         {
           "id": 253,
@@ -8841,6 +9032,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Sunny Belgrade",
+      "photograph_count": 1,
       "route": [
         {
           "id": 89,
@@ -8878,6 +9070,7 @@
       "month": 10,
       "month_name": "October",
       "name": "BD in Uithoorn",
+      "photograph_count": 0,
       "route": [
         {
           "id": 257,
@@ -8915,6 +9108,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Inline in het twiske",
+      "photograph_count": 0,
       "route": [
         {
           "id": 135,
@@ -8964,6 +9158,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Weekend in LDN",
+      "photograph_count": 1,
       "route": [
         {
           "id": 60,
@@ -9001,6 +9196,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Agnolottini",
+      "photograph_count": 1,
       "route": [
         {
           "id": 132,
@@ -9044,6 +9240,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Boardgame w/ friends",
+      "photograph_count": 1,
       "route": [
         {
           "id": 203,
@@ -9105,6 +9302,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Ski Stoten",
+      "photograph_count": 6,
       "route": [
         {
           "id": 258,
@@ -9148,6 +9346,7 @@
       "month": 2,
       "month_name": "February",
       "name": "BD Almere",
+      "photograph_count": 0,
       "route": [
         {
           "id": 203,
@@ -9185,6 +9384,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Bordgame w/ friends",
+      "photograph_count": 0,
       "route": [
         {
           "id": 203,
@@ -9228,6 +9428,7 @@
       "month": 4,
       "month_name": "April",
       "name": "Easter 2025",
+      "photograph_count": 1,
       "route": [
         {
           "id": 203,
@@ -9265,6 +9466,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Sailing at the Kaag",
+      "photograph_count": 2,
       "route": [
         {
           "id": 259,
@@ -9308,6 +9510,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Sailing lesson",
+      "photograph_count": 0,
       "route": [
         {
           "id": 204,
@@ -9351,6 +9554,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Kinderdijk w/ T.",
+      "photograph_count": 1,
       "route": [
         {
           "id": 261,
@@ -9388,6 +9592,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Het Loo w/ T.",
+      "photograph_count": 1,
       "route": [
         {
           "id": 91,
@@ -9425,6 +9630,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Linkin Park Concert",
+      "photograph_count": 1,
       "route": [
         {
           "id": 262,
@@ -9474,6 +9680,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Wednesday Night Skate",
+      "photograph_count": 1,
       "route": [
         {
           "id": 221,
@@ -9511,6 +9718,7 @@
       "month": 8,
       "month_name": "August",
       "name": "BBQ w/ friends",
+      "photograph_count": 0,
       "route": [
         {
           "id": 203,
@@ -9548,6 +9756,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Back to Mallorca!",
+      "photograph_count": 9,
       "route": [
         {
           "id": 263,
@@ -9621,6 +9830,7 @@
       "month": 9,
       "month_name": "September",
       "name": "1st Sailing trip!",
+      "photograph_count": 13,
       "route": [
         {
           "id": 268,
@@ -9670,6 +9880,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Fashion @ lelystad",
+      "photograph_count": 0,
       "route": [
         {
           "id": 154,
@@ -9719,6 +9930,7 @@
       "month": 10,
       "month_name": "October",
       "name": "S.B Bday party",
+      "photograph_count": 0,
       "route": [
         {
           "id": 271,
@@ -9768,6 +9980,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Revisting Utrecht w/ friends",
+      "photograph_count": 1,
       "route": [
         {
           "id": 124,
@@ -9805,6 +10018,7 @@
       "month": 11,
       "month_name": "November",
       "name": "Porto with Friends",
+      "photograph_count": 4,
       "route": [
         {
           "id": 93,
@@ -9860,6 +10074,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Maastrich and Luxembourg",
+      "photograph_count": 8,
       "route": [
         {
           "id": 272,
@@ -9921,6 +10136,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Agnolottini day",
+      "photograph_count": 0,
       "route": [
         {
           "id": 132,
@@ -9970,6 +10186,7 @@
       "month": 12,
       "month_name": "December",
       "name": "Zoetermeer ski practice",
+      "photograph_count": 0,
       "route": [
         {
           "id": 277,
@@ -10000,6 +10217,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Trip to Brazil",
+      "photograph_count": 11,
       "route": [
         {
           "id": 53,
@@ -10073,6 +10291,7 @@
       "month": 1,
       "month_name": "January",
       "name": "Ice rink with friends",
+      "photograph_count": 0,
       "route": [
         {
           "id": 279,
@@ -10110,6 +10329,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Affordable art fair",
+      "photograph_count": 0,
       "route": [
         {
           "id": 280,
@@ -10159,6 +10379,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Biryani + Padel",
+      "photograph_count": 1,
       "route": [
         {
           "id": 271,
@@ -10220,6 +10441,7 @@
       "month": 2,
       "month_name": "February",
       "name": "Back to Stoten",
+      "photograph_count": 4,
       "route": [
         {
           "id": 125,
@@ -10263,6 +10485,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Svalbard",
+      "photograph_count": 56,
       "route": [
         {
           "id": 281,
@@ -10283,12 +10506,6 @@
           "url": "places/285-dicksonfjorden/"
         },
         {
-          "id": 282,
-          "name": "Trollsteinen",
-          "slug": "282-trollsteinen",
-          "url": "places/282-trollsteinen/"
-        },
-        {
           "id": 283,
           "name": "Billefjorden",
           "slug": "283-billefjorden",
@@ -10299,6 +10516,12 @@
           "name": "Björndalen",
           "slug": "284-bjorndalen",
           "url": "places/284-bjorndalen/"
+        },
+        {
+          "id": 282,
+          "name": "Trollsteinen",
+          "slug": "282-trollsteinen",
+          "url": "places/282-trollsteinen/"
         },
         {
           "id": 286,
@@ -10342,6 +10565,7 @@
       "month": 5,
       "month_name": "May",
       "name": "Rome during summer",
+      "photograph_count": 13,
       "route": [
         {
           "id": 41,
@@ -10379,6 +10603,7 @@
       "month": 6,
       "month_name": "June",
       "name": "Fountain pen conference",
+      "photograph_count": 1,
       "route": [
         {
           "id": 124,
@@ -10434,6 +10659,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Duinrell pt 1",
+      "photograph_count": 1,
       "route": [
         {
           "id": 288,
@@ -10471,6 +10697,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Pinball museum",
+      "photograph_count": 1,
       "route": [
         {
           "id": 221,
@@ -10520,6 +10747,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Duinrell Pt2",
+      "photograph_count": 0,
       "route": [
         {
           "id": 288,
@@ -10557,6 +10785,7 @@
       "month": 7,
       "month_name": "July",
       "name": "Pinball museum pt 2",
+      "photograph_count": 2,
       "route": [
         {
           "id": 221,
@@ -10594,6 +10823,7 @@
       "month": 8,
       "month_name": "August",
       "name": "Lunch w/ friends",
+      "photograph_count": 0,
       "route": [
         {
           "id": 271,
@@ -10637,6 +10867,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Giethoorn w/ family",
+      "photograph_count": 3,
       "route": [
         {
           "id": 86,
@@ -10686,6 +10917,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Dolomites + Como",
+      "photograph_count": 18,
       "route": [
         {
           "id": 42,
@@ -10789,6 +11021,7 @@
       "month": 9,
       "month_name": "September",
       "name": "Open day at ESA",
+      "photograph_count": 1,
       "route": [
         {
           "id": 183,
@@ -10838,6 +11071,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Durga Puja in Utrecht!",
+      "photograph_count": 1,
       "route": [
         {
           "id": 124,
@@ -10881,6 +11115,7 @@
       "month": 10,
       "month_name": "October",
       "name": "Spiel de Jahrs 2026",
+      "photograph_count": 2,
       "route": [
         {
           "id": 186,
@@ -10893,6 +11128,44 @@
       "timeline_order": 234,
       "url": "journal/240-spiel-de-jahrs-2026/",
       "weeks_from_previous": 0.7,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "October 2026",
+      "duration_days": 1,
+      "id": 241,
+      "month": 10,
+      "month_name": "October",
+      "name": "BD in Uithoorn",
+      "photograph_count": 0,
+      "route": [
+        {
+          "id": 257,
+          "name": "Uithoorn",
+          "slug": "257-uithoorn",
+          "url": "places/257-uithoorn/"
+        }
+      ],
+      "slug": "241-bd-in-uithoorn",
+      "timeline_order": 235,
+      "url": "journal/241-bd-in-uithoorn/",
+      "weeks_from_previous": 1.1,
       "year": 2026
     }
   ]

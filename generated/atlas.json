@@ -350,7 +350,7 @@
         288
       ],
       "slug": "14-netherlands",
-      "trip_count": 127,
+      "trip_count": 128,
       "url": "countries/14-netherlands/"
     },
     {
@@ -984,11 +984,11 @@
       "first_year": 2010,
       "id": 10,
       "last_year": 2010,
-      "latitude": -25.2800459,
-      "longitude": -57.6343814,
-      "name": "Asunción",
-      "slug": "10-asuncion",
-      "url": "places/10-asuncion/",
+      "latitude": -25.510831,
+      "longitude": -54.612652,
+      "name": "Ciudad del Este",
+      "slug": "10-ciudad-del-este",
+      "url": "places/10-ciudad-del-este/",
       "visit_count": 1,
       "visits": [
         {
@@ -9059,8 +9059,8 @@
       "first_year": 2024,
       "id": 238,
       "last_year": 2024,
-      "latitude": null,
-      "longitude": null,
+      "latitude": 32.65032131963127,
+      "longitude": -4.765570046792512,
       "name": "Ait Aomar",
       "slug": "238-ait-aomar",
       "url": "places/238-ait-aomar/",
@@ -9523,8 +9523,8 @@
       "first_year": 2024,
       "id": 254,
       "last_year": 2024,
-      "latitude": 26.0196957,
-      "longitude": 78.2331861,
+      "latitude": 22.97503,
+      "longitude": 88.43462,
       "name": "Kalyani",
       "slug": "254-kalyani",
       "url": "places/254-kalyani/",
@@ -9609,14 +9609,24 @@
       },
       "first_year": 2024,
       "id": 257,
-      "last_year": 2024,
+      "last_year": 2026,
       "latitude": 52.2411412,
       "longitude": 4.8251096,
       "name": "Uithoorn",
       "slug": "257-uithoorn",
       "url": "places/257-uithoorn/",
-      "visit_count": 1,
+      "visit_count": 2,
       "visits": [
+        {
+          "date_label": "October 2026",
+          "id": 241,
+          "month": 10,
+          "month_name": "October",
+          "name": "BD in Uithoorn",
+          "slug": "241-bd-in-uithoorn",
+          "url": "journal/241-bd-in-uithoorn/",
+          "year": 2026
+        },
         {
           "date_label": "October 2024",
           "id": 198,
@@ -14070,9 +14080,9 @@
         281,
         287,
         285,
-        282,
         283,
         284,
+        282,
         286
       ],
       "slug": "228-svalbard",
@@ -14254,6 +14264,20 @@
       ],
       "slug": "240-spiel-de-jahrs-2026",
       "url": "journal/240-spiel-de-jahrs-2026/",
+      "year": 2026
+    },
+    {
+      "date_label": "October 2026",
+      "duration_days": 1,
+      "id": 241,
+      "month": 10,
+      "month_name": "October",
+      "name": "BD in Uithoorn",
+      "route": [
+        257
+      ],
+      "slug": "241-bd-in-uithoorn",
+      "url": "journal/241-bd-in-uithoorn/",
       "year": 2026
     }
   ]

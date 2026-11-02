@@ -17,7 +17,7 @@
     "companions": 60,
     "countries": 35,
     "places": 291,
-    "trips": 235
+    "trips": 236
   },
   "milestones": [
     {
@@ -259,9 +259,9 @@
         },
         {
           "id": 10,
-          "name": "Asunción",
-          "slug": "10-asuncion",
-          "url": "places/10-asuncion/"
+          "name": "Ciudad del Este",
+          "slug": "10-ciudad-del-este",
+          "url": "places/10-ciudad-del-este/"
         }
       ],
       "places_seen": 13,
@@ -5398,12 +5398,6 @@
           "url": "places/285-dicksonfjorden/"
         },
         {
-          "id": 282,
-          "name": "Trollsteinen",
-          "slug": "282-trollsteinen",
-          "url": "places/282-trollsteinen/"
-        },
-        {
           "id": 283,
           "name": "Billefjorden",
           "slug": "283-billefjorden",
@@ -5414,6 +5408,12 @@
           "name": "Björndalen",
           "slug": "284-bjorndalen",
           "url": "places/284-bjorndalen/"
+        },
+        {
+          "id": 282,
+          "name": "Trollsteinen",
+          "slug": "282-trollsteinen",
+          "url": "places/282-trollsteinen/"
         },
         {
           "id": 286,
@@ -5651,6 +5651,21 @@
       "trips_taken": 235,
       "url": "journal/240-spiel-de-jahrs-2026/",
       "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "October 2026",
+      "id": 241,
+      "month": 10,
+      "month_name": "October",
+      "name": "BD in Uithoorn",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 291,
+      "slug": "241-bd-in-uithoorn",
+      "trips_taken": 236,
+      "url": "journal/241-bd-in-uithoorn/",
+      "year": 2026
     }
   ],
   "multi_country_trips": 16,
@@ -5818,9 +5833,155 @@
       "year": 2026
     }
   ],
+  "recent_photographed_trips": [
+    {
+      "companions": [
+        {
+          "id": 31,
+          "name": "FA",
+          "slug": "31-fa",
+          "url": "people/31-fa/"
+        },
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 19,
+          "name": "Germany",
+          "slug": "19-germany",
+          "url": "countries/19-germany/"
+        }
+      ],
+      "date_label": "October 2026",
+      "duration_days": 1,
+      "id": 240,
+      "month": 10,
+      "month_name": "October",
+      "name": "Spiel de Jahrs 2026",
+      "photograph_count": 2,
+      "route": [
+        {
+          "id": 186,
+          "name": "Essen",
+          "slug": "186-essen",
+          "url": "places/186-essen/"
+        }
+      ],
+      "slug": "240-spiel-de-jahrs-2026",
+      "timeline_order": 234,
+      "url": "journal/240-spiel-de-jahrs-2026/",
+      "weeks_from_previous": 0.7,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        },
+        {
+          "id": 50,
+          "name": "SB",
+          "slug": "50-sb",
+          "url": "people/50-sb/"
+        },
+        {
+          "id": 55,
+          "name": "SM",
+          "slug": "55-sm",
+          "url": "people/55-sm/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "October 2026",
+      "duration_days": 1,
+      "id": 239,
+      "month": 10,
+      "month_name": "October",
+      "name": "Durga Puja in Utrecht!",
+      "photograph_count": 1,
+      "route": [
+        {
+          "id": 124,
+          "name": "Utrecht",
+          "slug": "124-utrecht",
+          "url": "places/124-utrecht/"
+        }
+      ],
+      "slug": "239-durga-puja-in-utrecht",
+      "timeline_order": 233,
+      "url": "journal/239-durga-puja-in-utrecht/",
+      "weeks_from_previous": 3.0,
+      "year": 2026
+    },
+    {
+      "companions": [
+        {
+          "id": 33,
+          "name": "MC",
+          "slug": "33-mc",
+          "url": "people/33-mc/"
+        },
+        {
+          "id": 9,
+          "name": "MF",
+          "slug": "9-mf",
+          "url": "people/9-mf/"
+        },
+        {
+          "id": 17,
+          "name": "VC",
+          "slug": "17-vc",
+          "url": "people/17-vc/"
+        }
+      ],
+      "countries": [
+        {
+          "id": 14,
+          "name": "Netherlands",
+          "slug": "14-netherlands",
+          "url": "countries/14-netherlands/"
+        }
+      ],
+      "date_label": "September 2026",
+      "duration_days": 1,
+      "id": 238,
+      "month": 9,
+      "month_name": "September",
+      "name": "Open day at ESA",
+      "photograph_count": 1,
+      "route": [
+        {
+          "id": 183,
+          "name": "Noordwijk aan zee",
+          "slug": "183-noordwijk-aan-zee",
+          "url": "places/183-noordwijk-aan-zee/"
+        }
+      ],
+      "slug": "238-open-day-at-esa",
+      "timeline_order": 232,
+      "url": "journal/238-open-day-at-esa/",
+      "weeks_from_previous": 2.1,
+      "year": 2026
+    }
+  ],
   "top_companions": [
     {
-      "count": 155,
+      "count": 156,
       "id": 9,
       "name": "MF",
       "slug": "9-mf",
@@ -6258,10 +6419,10 @@
       "url": "countries/13-united-states/"
     },
     {
-      "count": 143,
+      "count": 144,
       "id": 14,
       "name": "Netherlands",
-      "relative": 74.5,
+      "relative": 75.0,
       "slug": "14-netherlands",
       "url": "countries/14-netherlands/"
     },
@@ -8673,8 +8834,8 @@
           "month": "Sep"
         },
         {
-          "count": 2,
-          "intensity": 2,
+          "count": 3,
+          "intensity": 3,
           "month": "Oct"
         },
         {
