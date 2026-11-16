@@ -17,7 +17,7 @@
     "companions": 60,
     "countries": 35,
     "places": 291,
-    "trips": 236
+    "trips": 237
   },
   "milestones": [
     {
@@ -5658,13 +5658,28 @@
       "id": 241,
       "month": 10,
       "month_name": "October",
-      "name": "BD in Uithoorn",
+      "name": "Bday in Uithoorn",
       "new_countries": [],
       "new_places": [],
       "places_seen": 291,
-      "slug": "241-bd-in-uithoorn",
+      "slug": "241-bday-in-uithoorn",
       "trips_taken": 236,
-      "url": "journal/241-bd-in-uithoorn/",
+      "url": "journal/241-bday-in-uithoorn/",
+      "year": 2026
+    },
+    {
+      "countries_seen": 35,
+      "date_label": "November 2026",
+      "id": 242,
+      "month": 11,
+      "month_name": "November",
+      "name": "Bordgame w/ friends",
+      "new_countries": [],
+      "new_places": [],
+      "places_seen": 291,
+      "slug": "242-bordgame-w-friends",
+      "trips_taken": 237,
+      "url": "journal/242-bordgame-w-friends/",
       "year": 2026
     }
   ],
@@ -5981,7 +5996,7 @@
   ],
   "top_companions": [
     {
-      "count": 156,
+      "count": 157,
       "id": 9,
       "name": "MF",
       "slug": "9-mf",
@@ -6419,10 +6434,10 @@
       "url": "countries/13-united-states/"
     },
     {
-      "count": 144,
+      "count": 145,
       "id": 14,
       "name": "Netherlands",
-      "relative": 75.0,
+      "relative": 75.5,
       "slug": "14-netherlands",
       "url": "countries/14-netherlands/"
     },
@@ -8839,8 +8854,8 @@
           "month": "Oct"
         },
         {
-          "count": 0,
-          "intensity": 0,
+          "count": 1,
+          "intensity": 1,
           "month": "Nov"
         },
         {

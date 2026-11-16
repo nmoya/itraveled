@@ -350,7 +350,7 @@
         288
       ],
       "slug": "14-netherlands",
-      "trip_count": 128,
+      "trip_count": 129,
       "url": "countries/14-netherlands/"
     },
     {
@@ -7862,14 +7862,24 @@
       },
       "first_year": 2023,
       "id": 203,
-      "last_year": 2025,
+      "last_year": 2026,
       "latitude": 52.3705038,
       "longitude": 5.2185859,
       "name": "Almere",
       "slug": "203-almere",
       "url": "places/203-almere/",
-      "visit_count": 9,
+      "visit_count": 10,
       "visits": [
+        {
+          "date_label": "November 2026",
+          "id": 242,
+          "month": 11,
+          "month_name": "November",
+          "name": "Bordgame w/ friends",
+          "slug": "242-bordgame-w-friends",
+          "url": "journal/242-bordgame-w-friends/",
+          "year": 2026
+        },
         {
           "date_label": "August 2025",
           "id": 213,
@@ -9622,9 +9632,9 @@
           "id": 241,
           "month": 10,
           "month_name": "October",
-          "name": "BD in Uithoorn",
-          "slug": "241-bd-in-uithoorn",
-          "url": "journal/241-bd-in-uithoorn/",
+          "name": "Bday in Uithoorn",
+          "slug": "241-bday-in-uithoorn",
+          "url": "journal/241-bday-in-uithoorn/",
           "year": 2026
         },
         {
@@ -14272,12 +14282,26 @@
       "id": 241,
       "month": 10,
       "month_name": "October",
-      "name": "BD in Uithoorn",
+      "name": "Bday in Uithoorn",
       "route": [
         257
       ],
-      "slug": "241-bd-in-uithoorn",
-      "url": "journal/241-bd-in-uithoorn/",
+      "slug": "241-bday-in-uithoorn",
+      "url": "journal/241-bday-in-uithoorn/",
+      "year": 2026
+    },
+    {
+      "date_label": "November 2026",
+      "duration_days": 1,
+      "id": 242,
+      "month": 11,
+      "month_name": "November",
+      "name": "Bordgame w/ friends",
+      "route": [
+        203
+      ],
+      "slug": "242-bordgame-w-friends",
+      "url": "journal/242-bordgame-w-friends/",
       "year": 2026
     }
   ]
